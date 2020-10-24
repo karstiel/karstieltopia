@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Si tienes una Ati HD4870&#8230;	</title>
+	<atom:link href="/sistemas-operativos/linux/si-tienes-una-ati-hd4870/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/linux/si-tienes-una-ati-hd4870/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=si-tienes-una-ati-hd4870</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 05:49:59 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/si-tienes-una-ati-hd4870/#comment-3913</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Wed, 12 Nov 2008 01:05:09 +0000</pubDate>
+		<guid isPermaLink="false">/2008/11/11/si-tienes-una-ati-hd4870/#comment-3913</guid>
+
+					<description><![CDATA[1. Yap, esos drivers ni siquiera tiran bien en la ATI de mi portatil :P Pero bueno, en las otras los modos superpuestos iban bien, así que supongo que será cosa de un poquito de tiempo para que aquí también ;)&lt;br /&gt;&lt;br /&gt;2. Graciñas again!]]></description>
+			<content:encoded><![CDATA[<p>1. Yap, esos drivers ni siquiera tiran bien en la ATI de mi portatil :P Pero bueno, en las otras los modos superpuestos iban bien, así que supongo que será cosa de un poquito de tiempo para que aquí también ;)</p>
+<p>2. Graciñas again!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Disquete Enmascarado		</title>
+		<link>/sistemas-operativos/linux/si-tienes-una-ati-hd4870/#comment-3912</link>
+
+		<dc:creator><![CDATA[Disquete Enmascarado]]></dc:creator>
+		<pubDate>Tue, 11 Nov 2008 11:28:49 +0000</pubDate>
+		<guid isPermaLink="false">/2008/11/11/si-tienes-una-ati-hd4870/#comment-3912</guid>
+
+					<description><![CDATA[Esta es una de esas ocasiones en las que me alegro de tener una ATI desfasada y que hace mucho que no tiene soporte de los drivers propietarios.&lt;br /&gt;&lt;br /&gt;De nada por el link, me alegro de que te haya servido de ayuda.]]></description>
+			<content:encoded><![CDATA[<p>Esta es una de esas ocasiones en las que me alegro de tener una ATI desfasada y que hace mucho que no tiene soporte de los drivers propietarios.</p>
+<p>De nada por el link, me alegro de que te haya servido de ayuda.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/sistemas-operativos/linux/si-tienes-una-ati-hd4870/#comment-3910</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Tue, 11 Nov 2008 10:10:19 +0000</pubDate>
+		<guid isPermaLink="false">/2008/11/11/si-tienes-una-ati-hd4870/#comment-3910</guid>
+
+					<description><![CDATA[Vaya. Veo que ATI continúa aun en ese plan.&lt;br /&gt;Aparte de los drivers proporcionados por AMD/ATI, habia una version &quot;liberada&quot; no propietaria de drivers:&lt;br /&gt;&lt;br /&gt;http://xorg.freedesktop.org/archive/individual/driver/xf86-video-ati-6.9.0.tar.bz2&lt;br /&gt;&lt;br /&gt;Pero según leo no parecen servir para las 2xxx para arriba:&lt;br /&gt;&lt;br /&gt;http://xorg.freedesktop.org/wiki/ATIProprietaryDriver]]></description>
+			<content:encoded><![CDATA[<p>Vaya. Veo que ATI continúa aun en ese plan.<br />Aparte de los drivers proporcionados por AMD/ATI, habia una version &#8220;liberada&#8221; no propietaria de drivers:</p>
+<p><a href="http://xorg.freedesktop.org/archive/individual/driver/xf86-video-ati-6.9.0.tar.bz2" rel="nofollow ugc external noopener noreferrer" data-wpel-link="external" target="_blank" class="ext-link">http://xorg.freedesktop.org/archive/individual/driver/xf86-video-ati-6.9.0.tar.bz2</a></p>
+<p>Pero según leo no parecen servir para las 2xxx para arriba:</p>
+<p><a href="http://xorg.freedesktop.org/wiki/ATIProprietaryDriver" rel="nofollow ugc external noopener noreferrer" data-wpel-link="external" target="_blank" class="ext-link">http://xorg.freedesktop.org/wiki/ATIProprietaryDriver</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:48:40 by W3 Total Cache
+-->

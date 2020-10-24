@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: La palabra maldita&#8230;	</title>
+	<atom:link href="/programacion/la-palabra-maldita/feed/" rel="self" type="application/rss+xml" />
+	<link>/programacion/la-palabra-maldita/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=la-palabra-maldita</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Tue, 20 May 2008 22:28:29 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/la-palabra-maldita/#comment-3115</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Tue, 20 May 2008 22:28:29 +0000</pubDate>
+		<guid isPermaLink="false">/2008/05/19/la-palabra-maldita/#comment-3115</guid>
+
+					<description><![CDATA[7. Ciertamente lo repito :P&lt;br /&gt;&lt;br /&gt;8. Jajajajja, es una buena comparación pero sí, en la práctica es tratado así O_O&lt;br /&gt;&lt;br /&gt;9. Alaaaa, ¡¡qué cosas conoces!!]]></description>
+			<content:encoded><![CDATA[<p>7. Ciertamente lo repito :P</p>
+<p>8. Jajajajja, es una buena comparación pero sí, en la práctica es tratado así O_O</p>
+<p>9. Alaaaa, ¡¡qué cosas conoces!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Disquete Enmascarado		</title>
+		<link>/programacion/la-palabra-maldita/#comment-3113</link>
+
+		<dc:creator><![CDATA[Disquete Enmascarado]]></dc:creator>
+		<pubDate>Tue, 20 May 2008 13:35:18 +0000</pubDate>
+		<guid isPermaLink="false">/2008/05/19/la-palabra-maldita/#comment-3113</guid>
+
+					<description><![CDATA[¡El único Goto bueno es este!: http://en.wikipedia.org/wiki/Goto_Dengo]]></description>
+			<content:encoded><![CDATA[<p>¡El único Goto bueno es este!: <a href="http://en.wikipedia.org/wiki/Goto_Dengo" rel="nofollow ugc external noopener noreferrer" data-wpel-link="external" target="_blank" class="ext-link">http://en.wikipedia.org/wiki/Goto_Dengo</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: sleepwalker		</title>
+		<link>/programacion/la-palabra-maldita/#comment-3111</link>
+
+		<dc:creator><![CDATA[sleepwalker]]></dc:creator>
+		<pubDate>Tue, 20 May 2008 12:21:15 +0000</pubDate>
+		<guid isPermaLink="false">/2008/05/19/la-palabra-maldita/#comment-3111</guid>
+
+					<description><![CDATA[Jajaj, el primer día en la facultad nos hablaron del goto como si fuese Lord Voldemort en Harry Potter O_O no se podía ni nombrar xD]]></description>
+			<content:encoded><![CDATA[<p>Jajaj, el primer día en la facultad nos hablaron del goto como si fuese Lord Voldemort en Harry Potter O_O no se podía ni nombrar xD</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Disquete Enmascarado		</title>
+		<link>/programacion/la-palabra-maldita/#comment-3108</link>
+
+		<dc:creator><![CDATA[Disquete Enmascarado]]></dc:creator>
+		<pubDate>Tue, 20 May 2008 10:39:18 +0000</pubDate>
+		<guid isPermaLink="false">/2008/05/19/la-palabra-maldita/#comment-3108</guid>
+
+					<description><![CDATA[Nadie dijo que la programación funcional sea fácil ;)]]></description>
+			<content:encoded><![CDATA[<p>Nadie dijo que la programación funcional sea fácil ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/la-palabra-maldita/#comment-3106</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Tue, 20 May 2008 01:12:51 +0000</pubDate>
+		<guid isPermaLink="false">/2008/05/19/la-palabra-maldita/#comment-3106</guid>
+
+					<description><![CDATA[1. Esos descontroles tan emocionantes... ¿es que nadie echa de menos tener una pila con datos aleatorios? xD&lt;br /&gt;&lt;br /&gt;2. 3. Vaya, los tabs no van bien por estos lares... La idea esta bien, pero me parece que los breaks solo van con los bucles...&lt;br /&gt;&lt;br /&gt;4. Ale, a descansar ;)&lt;br /&gt;&lt;br /&gt;5. Esa es otra de las soluciones propuestas pero implica que tienes que tener mil millones de funciones para cada cosa y, si encima cada condición depende de un contexto general de la función pero que se va calculando dentro del cuerpo puede ser un poco... lioso ;P]]></description>
+			<content:encoded><![CDATA[<p>1. Esos descontroles tan emocionantes&#8230; ¿es que nadie echa de menos tener una pila con datos aleatorios? xD</p>
+<p>2. 3. Vaya, los tabs no van bien por estos lares&#8230; La idea esta bien, pero me parece que los breaks solo van con los bucles&#8230;</p>
+<p>4. Ale, a descansar ;)</p>
+<p>5. Esa es otra de las soluciones propuestas pero implica que tienes que tener mil millones de funciones para cada cosa y, si encima cada condición depende de un contexto general de la función pero que se va calculando dentro del cuerpo puede ser un poco&#8230; lioso ;P</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Disquete Enmascarado		</title>
+		<link>/programacion/la-palabra-maldita/#comment-3104</link>
+
+		<dc:creator><![CDATA[Disquete Enmascarado]]></dc:creator>
+		<pubDate>Mon, 19 May 2008 15:28:21 +0000</pubDate>
+		<guid isPermaLink="false">/2008/05/19/la-palabra-maldita/#comment-3104</guid>
+
+					<description><![CDATA[Si lo divides en dos funciones/métodos no hace falta ni goto ni break.&lt;br /&gt;&lt;br /&gt;Una para los if y dar valor a la variable de retorno y otro para las otras operaciones.&lt;br /&gt;&lt;br /&gt;¡Muerte al Goto!&lt;br /&gt;&lt;br /&gt;int checkCondition (void)&lt;br /&gt;      {&lt;br /&gt;       nRet=0;&lt;br /&gt;        if (!cond1l) {&lt;br /&gt;          nRet = -1;&lt;br /&gt;        }&lt;br /&gt;        //xxxxxxxxxxxxxxxxxxxxxx&lt;br /&gt;&lt;br /&gt;        if (!cond2) {&lt;br /&gt;          nRet = -2;&lt;br /&gt;        }&lt;br /&gt; return nRet;&lt;br /&gt;       }&lt;br /&gt;&lt;br /&gt;int gotSucks(void)&lt;br /&gt; {&lt;br /&gt; int nRet = checkCondition();&lt;br /&gt; if(nRet!=0) {&lt;br /&gt;        LiberarMemoria();&lt;br /&gt;        /* Y todo tipo de operaciones de salida */&lt;br /&gt; }&lt;br /&gt;        return nRet;&lt;br /&gt;      }]]></description>
+			<content:encoded><![CDATA[<p>Si lo divides en dos funciones/métodos no hace falta ni goto ni break.</p>
+<p>Una para los if y dar valor a la variable de retorno y otro para las otras operaciones.</p>
+<p>¡Muerte al Goto!</p>
+<p>int checkCondition (void)<br />      {<br />       nRet=0;<br />        if (!cond1l) {<br />          nRet = -1;<br />        }<br />        //xxxxxxxxxxxxxxxxxxxxxx</p>
+<p>        if (!cond2) {<br />          nRet = -2;<br />        }<br /> return nRet;<br />       }</p>
+<p>int gotSucks(void)<br /> {<br /> int nRet = checkCondition();<br /> if(nRet!=0) {<br />        LiberarMemoria();<br />        /* Y todo tipo de operaciones de salida */<br /> }<br />        return nRet;<br />      }</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/programacion/la-palabra-maldita/#comment-3103</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Mon, 19 May 2008 13:39:57 +0000</pubDate>
+		<guid isPermaLink="false">/2008/05/19/la-palabra-maldita/#comment-3103</guid>
+
+					<description><![CDATA[Jeje, los break son una forma de goto encubierto, asi que segun Dijkstra son otro avatar de un culo de mal asiento.&lt;br /&gt;&lt;br /&gt;De todas formas los break solo funcionan dentro de bucles -creo-, por lo que habría que modificar levemente el código de Hipnotoad de tal forma que:&lt;br /&gt;/////////////////////////&lt;br /&gt;int oneWayTicket=1;&lt;br /&gt;&lt;br /&gt;while (oneWayTicket){&lt;br /&gt;oneWayTicket=0;&lt;br /&gt;&lt;br /&gt;if (!cond1l) {&lt;br /&gt;#&lt;br /&gt;nRet = -1;&lt;br /&gt;}&lt;br /&gt;else&lt;br /&gt;break;&lt;br /&gt;&lt;br /&gt;[...]&lt;br /&gt;&lt;br /&gt;}//end while&lt;br /&gt;&lt;br /&gt;LiberarMemoria();&lt;br /&gt;#&lt;br /&gt;/* Y todo tipo de operaciones de salida */&lt;br /&gt;#&lt;br /&gt;return BadCode;&lt;br /&gt;/////////////////////////&lt;br /&gt;&lt;br /&gt;Y lo tendriamos son gotos...&lt;br /&gt;Juas... ya programé mucho por hoy XDDD]]></description>
+			<content:encoded><![CDATA[<p>Jeje, los break son una forma de goto encubierto, asi que segun Dijkstra son otro avatar de un culo de mal asiento.</p>
+<p>De todas formas los break solo funcionan dentro de bucles -creo-, por lo que habría que modificar levemente el código de Hipnotoad de tal forma que:<br />/////////////////////////<br />int oneWayTicket=1;</p>
+<p>while (oneWayTicket){<br />oneWayTicket=0;</p>
+<p>if (!cond1l) {<br />#<br />nRet = -1;<br />}<br />else<br />break;</p>
+<p>[&#8230;]</p>
+<p>}//end while</p>
+<p>LiberarMemoria();<br />#<br />/* Y todo tipo de operaciones de salida */<br />#<br />return BadCode;<br />/////////////////////////</p>
+<p>Y lo tendriamos son gotos&#8230;<br />Juas&#8230; ya programé mucho por hoy XDDD</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Hypnotoad		</title>
+		<link>/programacion/la-palabra-maldita/#comment-3102</link>
+
+		<dc:creator><![CDATA[Hypnotoad]]></dc:creator>
+		<pubDate>Mon, 19 May 2008 12:28:52 +0000</pubDate>
+		<guid isPermaLink="false">/2008/05/19/la-palabra-maldita/#comment-3102</guid>
+
+					<description><![CDATA[Aaaargh!&lt;br /&gt;&lt;br /&gt;No me ha cogido las tabulaciones! Ahora no se ve un pimiento!]]></description>
+			<content:encoded><![CDATA[<p>Aaaargh!</p>
+<p>No me ha cogido las tabulaciones! Ahora no se ve un pimiento!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Hypnotoad		</title>
+		<link>/programacion/la-palabra-maldita/#comment-3101</link>
+
+		<dc:creator><![CDATA[Hypnotoad]]></dc:creator>
+		<pubDate>Mon, 19 May 2008 12:27:40 +0000</pubDate>
+		<guid isPermaLink="false">/2008/05/19/la-palabra-maldita/#comment-3101</guid>
+
+					<description><![CDATA[Cuando vi que ibas a defender al goto, se me quedaron los ojos como platos, me presigne y empece a recitar versiculos de la biblia para conjurar esa palabra maldita surgida de las profundidades del necronomicon.&lt;br /&gt;&lt;br /&gt;Pero habiendo visto el ejemplo, he de reconocer que si haces saltos dentro de la funcion y de la manera que has descrito, hasta puede ser justificable.&lt;br /&gt;&lt;br /&gt;De todas formas ¿poniendo un else a cada if con un break no lograrias romper el flujo de la funcion y ejecutar las sentencias comunes?:&lt;br /&gt;&lt;br /&gt;#&lt;br /&gt;void&lt;br /&gt;#&lt;br /&gt;GotoRevenge (void)&lt;br /&gt;#&lt;br /&gt;{&lt;br /&gt;#&lt;br /&gt;  if (!cond1l) {&lt;br /&gt;#&lt;br /&gt;    nRet = -1;&lt;br /&gt;  }&lt;br /&gt;  else&lt;br /&gt;   break;&lt;br /&gt;#&lt;br /&gt;  xxxxxxxxxxxxxxxxxxxxxx&lt;br /&gt;#&lt;br /&gt;&lt;br /&gt;#&lt;br /&gt;  if (!cond2) {&lt;br /&gt;#&lt;br /&gt;    if (!cond4) {&lt;br /&gt;     if (!cond5) {&lt;br /&gt;      nRet = -2;&lt;br /&gt;     }&lt;br /&gt;     else&lt;br /&gt;      break;&lt;br /&gt;    }&lt;br /&gt;    else&lt;br /&gt;     break;&lt;br /&gt;  }&lt;br /&gt;  else&lt;br /&gt;   break;&lt;br /&gt;#&lt;br /&gt;  xxxxxxxxxxxxxxxxxxxxxx&lt;br /&gt;#&lt;br /&gt;&lt;br /&gt;#&lt;br /&gt;  if (!cond3) {&lt;br /&gt;#&lt;br /&gt;    nRet = -3;&lt;br /&gt;  }&lt;br /&gt;  else&lt;br /&gt;   break;&lt;br /&gt;#&lt;br /&gt;  xxxxxxxxxxxxxxxxxxxxxx&lt;br /&gt;#&lt;br /&gt;&lt;br /&gt;  LiberarMemoria();&lt;br /&gt;#&lt;br /&gt;  /* Y todo tipo de operaciones de salida */&lt;br /&gt;#&lt;br /&gt;  return BadCode;&lt;br /&gt;&lt;br /&gt;Y asi volvemos a estigmatizar el goto!!!!! XD&lt;br /&gt;&lt;br /&gt;Hail to the Hypnotoad!]]></description>
+			<content:encoded><![CDATA[<p>Cuando vi que ibas a defender al goto, se me quedaron los ojos como platos, me presigne y empece a recitar versiculos de la biblia para conjurar esa palabra maldita surgida de las profundidades del necronomicon.</p>
+<p>Pero habiendo visto el ejemplo, he de reconocer que si haces saltos dentro de la funcion y de la manera que has descrito, hasta puede ser justificable.</p>
+<p>De todas formas ¿poniendo un else a cada if con un break no lograrias romper el flujo de la funcion y ejecutar las sentencias comunes?:</p>
+<p>#<br />void<br />#<br />GotoRevenge (void)<br />#<br />{<br />#<br />  if (!cond1l) {<br />#<br />    nRet = -1;<br />  }<br />  else<br />   break;<br />#<br />  xxxxxxxxxxxxxxxxxxxxxx<br />#</p>
+<p>#<br />  if (!cond2) {<br />#<br />    if (!cond4) {<br />     if (!cond5) {<br />      nRet = -2;<br />     }<br />     else<br />      break;<br />    }<br />    else<br />     break;<br />  }<br />  else<br />   break;<br />#<br />  xxxxxxxxxxxxxxxxxxxxxx<br />#</p>
+<p>#<br />  if (!cond3) {<br />#<br />    nRet = -3;<br />  }<br />  else<br />   break;<br />#<br />  xxxxxxxxxxxxxxxxxxxxxx<br />#</p>
+<p>  LiberarMemoria();<br />#<br />  /* Y todo tipo de operaciones de salida */<br />#<br />  return BadCode;</p>
+<p>Y asi volvemos a estigmatizar el goto!!!!! XD</p>
+<p>Hail to the Hypnotoad!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/programacion/la-palabra-maldita/#comment-3099</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Mon, 19 May 2008 10:10:44 +0000</pubDate>
+		<guid isPermaLink="false">/2008/05/19/la-palabra-maldita/#comment-3099</guid>
+
+					<description><![CDATA[Juas, seguramente la JVM o el compilador de C++ traducen esas capturas de excepciones a gotos...&lt;br /&gt;&lt;br /&gt;Con lo bonicos que son esos FAR JUMP y ese IRET &quot;mágico&quot; en assembler para saltar a zonas de código que no estaban en tu segmento CS...]]></description>
+			<content:encoded><![CDATA[<p>Juas, seguramente la JVM o el compilador de C++ traducen esas capturas de excepciones a gotos&#8230;</p>
+<p>Con lo bonicos que son esos FAR JUMP y ese IRET &#8220;mágico&#8221; en assembler para saltar a zonas de código que no estaban en tu segmento CS&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:49:49 by W3 Total Cache
+-->

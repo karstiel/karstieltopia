@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Cuidadín con Kubuntu 8.10	</title>
+	<atom:link href="/sistemas-operativos/linux/cuidadin-con-kubuntu-8-10/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/linux/cuidadin-con-kubuntu-8-10/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cuidadin-con-kubuntu-8-10</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Wed, 05 Nov 2008 02:30:47 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/cuidadin-con-kubuntu-8-10/#comment-3890</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Wed, 05 Nov 2008 02:30:47 +0000</pubDate>
+		<guid isPermaLink="false">/2008/10/31/cuidadin-con-kubuntu-8-10/#comment-3890</guid>
+
+					<description><![CDATA[3. Totalmente una desgracia a niveles descomunales...&lt;br /&gt;&lt;br /&gt;4. Lo gracioso es que poniéndolo a mano le cuesta trabajar porque el knetworkmanager le encanta tomar el control total... Lo quitas y sigue vivo y... en fin, que &quot;arreglado&quot; queda provisionalmente mientras decido que hacer (básicamente le metí el de gnome y ya funciona el de kde)...&lt;br /&gt;&lt;br /&gt;5. Jopelines... es que llevo varios días con XP y me siento que me han cortado un brazo y medio :S ¡¡¡Feliz Halloween por retrasado!!!]]></description>
+			<content:encoded><![CDATA[<p>3. Totalmente una desgracia a niveles descomunales&#8230;</p>
+<p>4. Lo gracioso es que poniéndolo a mano le cuesta trabajar porque el knetworkmanager le encanta tomar el control total&#8230; Lo quitas y sigue vivo y&#8230; en fin, que &#8220;arreglado&#8221; queda provisionalmente mientras decido que hacer (básicamente le metí el de gnome y ya funciona el de kde)&#8230;</p>
+<p>5. Jopelines&#8230; es que llevo varios días con XP y me siento que me han cortado un brazo y medio :S ¡¡¡Feliz Halloween por retrasado!!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/sistemas-operativos/linux/cuidadin-con-kubuntu-8-10/#comment-3885</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Fri, 31 Oct 2008 23:09:15 +0000</pubDate>
+		<guid isPermaLink="false">/2008/10/31/cuidadin-con-kubuntu-8-10/#comment-3885</guid>
+
+					<description><![CDATA[Doy la razón a Ucedaman, eso te pasa por usar software libre, gratuito y mas avanzado que el de los demás, si usaras XP Pro SP3 con una clave original, válida y &quot;Corporativa&quot; (para mas de un PC) robada de cualquier cibercafé de tu ciudad como el resto de mortales no te pasarian estas cosas.&lt;br /&gt;&lt;br /&gt;Feliz Halloween!&lt;br /&gt;http://www.fotolog.com/drizzt_de_urden/42455811]]></description>
+			<content:encoded><![CDATA[<p>Doy la razón a Ucedaman, eso te pasa por usar software libre, gratuito y mas avanzado que el de los demás, si usaras XP Pro SP3 con una clave original, válida y &#8220;Corporativa&#8221; (para mas de un PC) robada de cualquier cibercafé de tu ciudad como el resto de mortales no te pasarian estas cosas.</p>
+<p>Feliz Halloween!<br /><a href="http://www.fotolog.com/drizzt_de_urden/42455811" rel="nofollow ugc external noopener noreferrer" data-wpel-link="external" target="_blank" class="ext-link">http://www.fotolog.com/drizzt_de_urden/42455811</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Disquete Enmascarado		</title>
+		<link>/sistemas-operativos/linux/cuidadin-con-kubuntu-8-10/#comment-3884</link>
+
+		<dc:creator><![CDATA[Disquete Enmascarado]]></dc:creator>
+		<pubDate>Fri, 31 Oct 2008 11:48:57 +0000</pubDate>
+		<guid isPermaLink="false">/2008/10/31/cuidadin-con-kubuntu-8-10/#comment-3884</guid>
+
+					<description><![CDATA[Hombre, siempre nos quedará la línea de comandos para poner IP fija.&lt;br /&gt;&lt;br /&gt;Pero como yo uso GNOME (y IP dinámica), no me pasará. Cómo se nota que esto de KDE es de marginales... (léase esta última frase con la voz de Arturo Fernández)&lt;br /&gt;&lt;br /&gt;Efectivamente hablo en futuro, anoche no me actualicé porque ya me tardaba horrores sólo el primer paso por lo petados que están los servidores. Esperaré al fin de semana.&lt;br /&gt;&lt;br /&gt;Lo que sí ya he hecho ha sido ponerme intrepid en el PC del curro usando wubi, que te instala todo sin particionar, en un fichero inmenso.]]></description>
+			<content:encoded><![CDATA[<p>Hombre, siempre nos quedará la línea de comandos para poner IP fija.</p>
+<p>Pero como yo uso GNOME (y IP dinámica), no me pasará. Cómo se nota que esto de KDE es de marginales&#8230; (léase esta última frase con la voz de Arturo Fernández)</p>
+<p>Efectivamente hablo en futuro, anoche no me actualicé porque ya me tardaba horrores sólo el primer paso por lo petados que están los servidores. Esperaré al fin de semana.</p>
+<p>Lo que sí ya he hecho ha sido ponerme intrepid en el PC del curro usando wubi, que te instala todo sin particionar, en un fichero inmenso.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Hypnotoad		</title>
+		<link>/sistemas-operativos/linux/cuidadin-con-kubuntu-8-10/#comment-3883</link>
+
+		<dc:creator><![CDATA[Hypnotoad]]></dc:creator>
+		<pubDate>Fri, 31 Oct 2008 11:13:41 +0000</pubDate>
+		<guid isPermaLink="false">/2008/10/31/cuidadin-con-kubuntu-8-10/#comment-3883</guid>
+
+					<description><![CDATA[:O Ualaaaaaaaa!&lt;br /&gt;&lt;br /&gt;Ese bug es digno de microsoft. Usease que como te apetezca configurar a manubrio la red de casita, la cosa peta...&lt;br /&gt;&lt;br /&gt;Hail to the Hypnotoad!]]></description>
+			<content:encoded><![CDATA[<p>:O Ualaaaaaaaa!</p>
+<p>Ese bug es digno de microsoft. Usease que como te apetezca configurar a manubrio la red de casita, la cosa peta&#8230;</p>
+<p>Hail to the Hypnotoad!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/cuidadin-con-kubuntu-8-10/#comment-3882</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Fri, 31 Oct 2008 11:04:14 +0000</pubDate>
+		<guid isPermaLink="false">/2008/10/31/cuidadin-con-kubuntu-8-10/#comment-3882</guid>
+
+					<description><![CDATA[Jopelines, se me fue el dedo y, a las horas en que lo escribí, tiene perdón :P&lt;br /&gt;&lt;br /&gt;Pd. Ya... pero tú problema es que usas Windows :P]]></description>
+			<content:encoded><![CDATA[<p>Jopelines, se me fue el dedo y, a las horas en que lo escribí, tiene perdón :P</p>
+<p>Pd. Ya&#8230; pero tú problema es que usas Windows :P</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ucedaman		</title>
+		<link>/sistemas-operativos/linux/cuidadin-con-kubuntu-8-10/#comment-3881</link>
+
+		<dc:creator><![CDATA[Ucedaman]]></dc:creator>
+		<pubDate>Fri, 31 Oct 2008 09:30:58 +0000</pubDate>
+		<guid isPermaLink="false">/2008/10/31/cuidadin-con-kubuntu-8-10/#comment-3881</guid>
+
+					<description><![CDATA[¡¡¡¿¿¿inhalámbricas ???!!! ¿Del verbo inhalar?&lt;br /&gt;Corrige eso, por piedad... :S&lt;br /&gt;&lt;br /&gt;pD.- Yo con Windows no tengo ese problema...]]></description>
+			<content:encoded><![CDATA[<p>¡¡¡¿¿¿inhalámbricas ???!!! ¿Del verbo inhalar?<br />Corrige eso, por piedad&#8230; :S</p>
+<p>pD.- Yo con Windows no tengo ese problema&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:23:05 by W3 Total Cache
+-->

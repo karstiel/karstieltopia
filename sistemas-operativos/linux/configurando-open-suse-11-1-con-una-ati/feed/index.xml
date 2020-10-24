@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Configurando Open Suse 11.1 con una Ati	</title>
+	<atom:link href="/sistemas-operativos/linux/configurando-open-suse-11-1-con-una-ati/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/linux/configurando-open-suse-11-1-con-una-ati/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=configurando-open-suse-11-1-con-una-ati</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Fri, 12 Jun 2009 11:29:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Daniel Duque Campayo		</title>
+		<link>/sistemas-operativos/linux/configurando-open-suse-11-1-con-una-ati/#comment-4604</link>
+
+		<dc:creator><![CDATA[Daniel Duque Campayo]]></dc:creator>
+		<pubDate>Fri, 12 Jun 2009 11:29:43 +0000</pubDate>
+		<guid isPermaLink="false">/2008/12/23/configurando-open-suse-11-1-con-una-ati/#comment-4604</guid>
+
+					<description><![CDATA[[...] Posted on 12 June, 2009. Filed under: computing &#124; Tags: ATI, ati drivers, linux, opensuse, suse, X server &#124;  About the only problem I have with my OpenSUSE 11.1 on my desktop PC at work is the ATI graphic card configuration. Each time I upgrade the kernel I have to rebuild the module again, so I enclose here a list of steps that seem to work fine. I have taken these from pongaunagujeronegroensuvida. [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Posted on 12 June, 2009. Filed under: computing | Tags: ATI, ati drivers, linux, opensuse, suse, X server |  About the only problem I have with my OpenSUSE 11.1 on my desktop PC at work is the ATI graphic card configuration. Each time I upgrade the kernel I have to rebuild the module again, so I enclose here a list of steps that seem to work fine. I have taken these from pongaunagujeronegroensuvida. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/configurando-open-suse-11-1-con-una-ati/#comment-4251</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Sun, 01 Mar 2009 13:41:59 +0000</pubDate>
+		<guid isPermaLink="false">/2008/12/23/configurando-open-suse-11-1-con-una-ati/#comment-4251</guid>
+
+					<description><![CDATA[Pues para que el vídeo te funcionara bien, sí, el overlay es la característica que permite mostrar vídeo sin tener que tirar de la CPU, pero solamente afectaría a la reproducción de vídeo...]]></description>
+			<content:encoded><![CDATA[<p>Pues para que el vídeo te funcionara bien, sí, el overlay es la característica que permite mostrar vídeo sin tener que tirar de la CPU, pero solamente afectaría a la reproducción de vídeo&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Daniel Duque		</title>
+		<link>/sistemas-operativos/linux/configurando-open-suse-11-1-con-una-ati/#comment-4248</link>
+
+		<dc:creator><![CDATA[Daniel Duque]]></dc:creator>
+		<pubDate>Fri, 27 Feb 2009 13:25:57 +0000</pubDate>
+		<guid isPermaLink="false">/2008/12/23/configurando-open-suse-11-1-con-una-ati/#comment-4248</guid>
+
+					<description><![CDATA[Fenomenal. Había probado otros métodos pero este es el que me ha funcionado al final. No sé muy bien cuál ha sido la clave, creo que la parte de &quot;overlay&quot; (????).]]></description>
+			<content:encoded><![CDATA[<p>Fenomenal. Había probado otros métodos pero este es el que me ha funcionado al final. No sé muy bien cuál ha sido la clave, creo que la parte de &#8220;overlay&#8221; (????).</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/configurando-open-suse-11-1-con-una-ati/#comment-4039</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Wed, 31 Dec 2008 14:32:04 +0000</pubDate>
+		<guid isPermaLink="false">/2008/12/23/configurando-open-suse-11-1-con-una-ati/#comment-4039</guid>
+
+					<description><![CDATA[Ñe, ñe... ÑEEEEEEEEEEEEEEE]]></description>
+			<content:encoded><![CDATA[<p>Ñe, ñe&#8230; ÑEEEEEEEEEEEEEEE</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Oscar		</title>
+		<link>/sistemas-operativos/linux/configurando-open-suse-11-1-con-una-ati/#comment-4037</link>
+
+		<dc:creator><![CDATA[Oscar]]></dc:creator>
+		<pubDate>Wed, 24 Dec 2008 12:13:51 +0000</pubDate>
+		<guid isPermaLink="false">/2008/12/23/configurando-open-suse-11-1-con-una-ati/#comment-4037</guid>
+
+					<description><![CDATA[Y sigues sin tener envidia?? pfffffji ji ji ji XDDD]]></description>
+			<content:encoded><![CDATA[<p>Y sigues sin tener envidia?? pfffffji ji ji ji XDDD</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:27:09 by W3 Total Cache
+-->

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Intentando poner una Debian en la n800	</title>
+	<atom:link href="/sistemas-operativos/linux/intentando-poner-una-debian-en-la-n800/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/linux/intentando-poner-una-debian-en-la-n800/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intentando-poner-una-debian-en-la-n800</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Tue, 22 Jul 2008 23:58:30 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/intentando-poner-una-debian-en-la-n800/#comment-3436</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Tue, 22 Jul 2008 23:58:30 +0000</pubDate>
+		<guid isPermaLink="false">/2008/07/21/intentando-poner-una-debian-en-la-n800/#comment-3436</guid>
+
+					<description><![CDATA[Cachis.. pues vas a tener que parchearla a mano xD]]></description>
+			<content:encoded><![CDATA[<p>Cachis.. pues vas a tener que parchearla a mano xD</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ucedaman		</title>
+		<link>/sistemas-operativos/linux/intentando-poner-una-debian-en-la-n800/#comment-3432</link>
+
+		<dc:creator><![CDATA[Ucedaman]]></dc:creator>
+		<pubDate>Tue, 22 Jul 2008 08:35:47 +0000</pubDate>
+		<guid isPermaLink="false">/2008/07/21/intentando-poner-una-debian-en-la-n800/#comment-3432</guid>
+
+					<description><![CDATA[Yo el otro día intenté bajarme una actualización para la agenda de la fnac, pero como es de papel no me detectaba el wi-fi. :p]]></description>
+			<content:encoded><![CDATA[<p>Yo el otro día intenté bajarme una actualización para la agenda de la fnac, pero como es de papel no me detectaba el wi-fi. :p</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/intentando-poner-una-debian-en-la-n800/#comment-3429</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Mon, 21 Jul 2008 23:50:23 +0000</pubDate>
+		<guid isPermaLink="false">/2008/07/21/intentando-poner-una-debian-en-la-n800/#comment-3429</guid>
+
+					<description><![CDATA[Graciñas, graciñas :P&lt;br /&gt;&lt;br /&gt;Pues a ver si lo pongo en otro post, aunque la solución fue un poco hacia el desastre xD]]></description>
+			<content:encoded><![CDATA[<p>Graciñas, graciñas :P</p>
+<p>Pues a ver si lo pongo en otro post, aunque la solución fue un poco hacia el desastre xD</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Alfonso FR		</title>
+		<link>/sistemas-operativos/linux/intentando-poner-una-debian-en-la-n800/#comment-3428</link>
+
+		<dc:creator><![CDATA[Alfonso FR]]></dc:creator>
+		<pubDate>Mon, 21 Jul 2008 10:48:57 +0000</pubDate>
+		<guid isPermaLink="false">/2008/07/21/intentando-poner-una-debian-en-la-n800/#comment-3428</guid>
+
+					<description><![CDATA[¡Ole valiente!&lt;br /&gt;Quizá se pueda configurar esa Debian-XFCE para que funcione con más agilidad y probablemente haya que prescindir del OpenOffice y similares devoradores de memoria, pero podría llegar a ser usable... Queremos un vídeo de esa Debian y también saber cómo haces para revertir el procedimiento y volver a Maemo (si te animas claro, sé que es mucho pedir)]]></description>
+			<content:encoded><![CDATA[<p>¡Ole valiente!<br />Quizá se pueda configurar esa Debian-XFCE para que funcione con más agilidad y probablemente haya que prescindir del OpenOffice y similares devoradores de memoria, pero podría llegar a ser usable&#8230; Queremos un vídeo de esa Debian y también saber cómo haces para revertir el procedimiento y volver a Maemo (si te animas claro, sé que es mucho pedir)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:14:05 by W3 Total Cache
+-->

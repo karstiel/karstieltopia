@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Problemilla con los plasmoides en KDE 4.2 con SUSE	</title>
+	<atom:link href="/sistemas-operativos/linux/problemilla-con-los-plasmoides-en-kde-4-2-con-suse/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/linux/problemilla-con-los-plasmoides-en-kde-4-2-con-suse/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=problemilla-con-los-plasmoides-en-kde-4-2-con-suse</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Thu, 19 Feb 2009 01:12:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/problemilla-con-los-plasmoides-en-kde-4-2-con-suse/#comment-4211</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2009 01:12:08 +0000</pubDate>
+		<guid isPermaLink="false">/2009/02/17/problemilla-con-los-plasmoides-en-kde-4-2-con-suse/#comment-4211</guid>
+
+					<description><![CDATA[Ñeñeñeñeñe.... El problema viene de SUSE y de estar con el repositorio Factory (algo así como sid pero más a lo bestia) para tener lo último de KDE 4.2 (básicamente todos los días se actualizan del orden de 100 paquetes :S )&lt;br /&gt;&lt;br /&gt;Creo que en poco volveré a Debian Sid durante un tiempo en alguno de los ordenadores :P]]></description>
+			<content:encoded><![CDATA[<p>Ñeñeñeñeñe&#8230;. El problema viene de SUSE y de estar con el repositorio Factory (algo así como sid pero más a lo bestia) para tener lo último de KDE 4.2 (básicamente todos los días se actualizan del orden de 100 paquetes :S )</p>
+<p>Creo que en poco volveré a Debian Sid durante un tiempo en alguno de los ordenadores :P</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Disquete Enmascarado		</title>
+		<link>/sistemas-operativos/linux/problemilla-con-los-plasmoides-en-kde-4-2-con-suse/#comment-4209</link>
+
+		<dc:creator><![CDATA[Disquete Enmascarado]]></dc:creator>
+		<pubDate>Wed, 18 Feb 2009 10:39:03 +0000</pubDate>
+		<guid isPermaLink="false">/2009/02/17/problemilla-con-los-plasmoides-en-kde-4-2-con-suse/#comment-4209</guid>
+
+					<description><![CDATA[A este paso me animaré a probar KDE4.X cuando salga el 5, que será inestabilísimo ;)]]></description>
+			<content:encoded><![CDATA[<p>A este paso me animaré a probar KDE4.X cuando salga el 5, que será inestabilísimo ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/problemilla-con-los-plasmoides-en-kde-4-2-con-suse/#comment-4207</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Tue, 17 Feb 2009 11:06:40 +0000</pubDate>
+		<guid isPermaLink="false">/2009/02/17/problemilla-con-los-plasmoides-en-kde-4-2-con-suse/#comment-4207</guid>
+
+					<description><![CDATA[Del planeta de la piruleta :D]]></description>
+			<content:encoded><![CDATA[<p>Del planeta de la piruleta :D</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ucedaman		</title>
+		<link>/sistemas-operativos/linux/problemilla-con-los-plasmoides-en-kde-4-2-con-suse/#comment-4206</link>
+
+		<dc:creator><![CDATA[Ucedaman]]></dc:creator>
+		<pubDate>Tue, 17 Feb 2009 10:01:59 +0000</pubDate>
+		<guid isPermaLink="false">/2009/02/17/problemilla-con-los-plasmoides-en-kde-4-2-con-suse/#comment-4206</guid>
+
+					<description><![CDATA[Los plasmoides esos, ¿de qué planeta son? :p]]></description>
+			<content:encoded><![CDATA[<p>Los plasmoides esos, ¿de qué planeta son? :p</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:27:04 by W3 Total Cache
+-->

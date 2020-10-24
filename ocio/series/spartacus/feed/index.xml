@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Spartacus	</title>
+	<atom:link href="/ocio/series/spartacus/feed/" rel="self" type="application/rss+xml" />
+	<link>/ocio/series/spartacus/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=spartacus</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Fri, 19 Feb 2016 16:40:26 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: karstiel		</title>
+		<link>/ocio/series/spartacus/#comment-5537</link>
+
+		<dc:creator><![CDATA[karstiel]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2014 11:22:09 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1357#comment-5537</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;/ocio/series/spartacus/#comment-5535&quot;&gt;Drizzt&lt;/a&gt;.
+
+Cierto, aunque viendo la cantidad de gritos que sueltan y la de gente que sale volando pues... no estoy seguro :o]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="/ocio/series/spartacus/#comment-5535" data-wpel-link="internal">Drizzt</a>.</p>
+<p>Cierto, aunque viendo la cantidad de gritos que sueltan y la de gente que sale volando pues&#8230; no estoy seguro :o</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/ocio/series/spartacus/#comment-5535</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Mon, 10 Feb 2014 23:05:14 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1357#comment-5535</guid>
+
+					<description><![CDATA[Pero esos tíos no saben hacer FUS-RO-DAH!]]></description>
+			<content:encoded><![CDATA[<p>Pero esos tíos no saben hacer FUS-RO-DAH!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:35:45 by W3 Total Cache
+-->

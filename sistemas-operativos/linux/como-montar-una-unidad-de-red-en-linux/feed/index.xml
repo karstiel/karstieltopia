@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Como montar una unidad de red en Linux	</title>
+	<atom:link href="/sistemas-operativos/linux/como-montar-una-unidad-de-red-en-linux/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/linux/como-montar-una-unidad-de-red-en-linux/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=como-montar-una-unidad-de-red-en-linux</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 05:50:21 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/como-montar-una-unidad-de-red-en-linux/#comment-4090</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Thu, 15 Jan 2009 03:22:56 +0000</pubDate>
+		<guid isPermaLink="false">/2008/08/07/como-montar-una-unidad-de-red-en-linux/#comment-4090</guid>
+
+					<description><![CDATA[La verdad es que me pasó lo mismo que a ti y lo que he puesto me sirve para mi...&lt;br /&gt;&lt;br /&gt;Los otros que fui encontrando me sirvieron de base hasta que encontré lo que me venía bien... Así que trastea e intenta hacerlo por la línea de comandos antes de ponerlo en el fstab, a lo mejor por ahí tienes alguna pista.]]></description>
+			<content:encoded><![CDATA[<p>La verdad es que me pasó lo mismo que a ti y lo que he puesto me sirve para mi&#8230;</p>
+<p>Los otros que fui encontrando me sirvieron de base hasta que encontré lo que me venía bien&#8230; Así que trastea e intenta hacerlo por la línea de comandos antes de ponerlo en el fstab, a lo mejor por ahí tienes alguna pista.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: shikiio		</title>
+		<link>/sistemas-operativos/linux/como-montar-una-unidad-de-red-en-linux/#comment-4088</link>
+
+		<dc:creator><![CDATA[shikiio]]></dc:creator>
+		<pubDate>Wed, 14 Jan 2009 18:36:58 +0000</pubDate>
+		<guid isPermaLink="false">/2008/08/07/como-montar-una-unidad-de-red-en-linux/#comment-4088</guid>
+
+					<description><![CDATA[Hola , yo he leido mucho tutos sobre montar unidades de red, muy distintos pero ninguno me funciona, con tu metodo me hace lo siguiente&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;shikiio@shikiio-laptop:/etc/rc2.d$ sudo mount /media/ofifast&lt;br /&gt;[mntent]: atención: no hay ninguna nueva línea final al final de /etc/fstab&lt;br /&gt;mount: wrong fs type, bad option, bad superblock on //humberto/Programas,&lt;br /&gt;       missing codepage or helper program, or other error&lt;br /&gt;       (for several filesystems (e.g. nfs, cifs) you might&lt;br /&gt;       need a /sbin/mount. helper program)&lt;br /&gt;       En algunos casos se encuentra información en syslog, pruebe&lt;br /&gt;   dmesg &#124; tail   o algo parecido]]></description>
+			<content:encoded><![CDATA[<p>Hola , yo he leido mucho tutos sobre montar unidades de red, muy distintos pero ninguno me funciona, con tu metodo me hace lo siguiente</p>
+<p>shikiio@shikiio-laptop:/etc/rc2.d$ sudo mount /media/ofifast<br />[mntent]: atención: no hay ninguna nueva línea final al final de /etc/fstab<br />mount: wrong fs type, bad option, bad superblock on //humberto/Programas,<br />       missing codepage or helper program, or other error<br />       (for several filesystems (e.g. nfs, cifs) you might<br />       need a /sbin/mount. helper program)<br />       En algunos casos se encuentra información en syslog, pruebe<br />   dmesg | tail   o algo parecido</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/como-montar-una-unidad-de-red-en-linux/#comment-3494</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Thu, 07 Aug 2008 09:54:16 +0000</pubDate>
+		<guid isPermaLink="false">/2008/08/07/como-montar-una-unidad-de-red-en-linux/#comment-3494</guid>
+
+					<description><![CDATA[No te lo niego, pero bueno, en mi caso no es especialmente preocupante (no tiene passwd) y además, al meterlo en la cuenta de root como root, en principio solo debiera ser leído por root :S]]></description>
+			<content:encoded><![CDATA[<p>No te lo niego, pero bueno, en mi caso no es especialmente preocupante (no tiene passwd) y además, al meterlo en la cuenta de root como root, en principio solo debiera ser leído por root :S</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Alfonso FR		</title>
+		<link>/sistemas-operativos/linux/como-montar-una-unidad-de-red-en-linux/#comment-3493</link>
+
+		<dc:creator><![CDATA[Alfonso FR]]></dc:creator>
+		<pubDate>Thu, 07 Aug 2008 09:40:44 +0000</pubDate>
+		<guid isPermaLink="false">/2008/08/07/como-montar-una-unidad-de-red-en-linux/#comment-3493</guid>
+
+					<description><![CDATA[Hmmm.... ¿y esto de dejar archivos de texto con los passwords en texto claro sin encriptación ni nada, no es inseguro?]]></description>
+			<content:encoded><![CDATA[<p>Hmmm&#8230;. ¿y esto de dejar archivos de texto con los passwords en texto claro sin encriptación ni nada, no es inseguro?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:34:23 by W3 Total Cache
+-->

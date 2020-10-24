@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Analizando código	</title>
+	<atom:link href="/programacion/herramientas/analizando-codigo/feed/" rel="self" type="application/rss+xml" />
+	<link>/programacion/herramientas/analizando-codigo/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=analizando-codigo</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Thu, 12 Mar 2009 02:34:30 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/herramientas/analizando-codigo/#comment-4281</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Thu, 12 Mar 2009 02:34:30 +0000</pubDate>
+		<guid isPermaLink="false">/2009/03/11/analizando-codigo/#comment-4281</guid>
+
+					<description><![CDATA[1. Sinceramente hay veces en que me preocupas un poco... ¿qué fue de ti con el efecto 2000? O_O&lt;br /&gt;&lt;br /&gt;2. Los debugger molan y ayudan mucho... pero no es lo mismo ;)&lt;br /&gt;&lt;br /&gt;3. Cuanta mala leche para ver como revientan las cosas ajenas... si es que hay que ver como os saltáis las condiciones de una caja negra :P&lt;br /&gt;&lt;br /&gt;4. Las trazas son tus amigas... repite el mantra ;)&lt;br /&gt;&lt;br /&gt;5.6. ¡Eso mismo! Y por duplicado además :D]]></description>
+			<content:encoded><![CDATA[<p>1. Sinceramente hay veces en que me preocupas un poco&#8230; ¿qué fue de ti con el efecto 2000? O_O</p>
+<p>2. Los debugger molan y ayudan mucho&#8230; pero no es lo mismo ;)</p>
+<p>3. Cuanta mala leche para ver como revientan las cosas ajenas&#8230; si es que hay que ver como os saltáis las condiciones de una caja negra :P</p>
+<p>4. Las trazas son tus amigas&#8230; repite el mantra ;)</p>
+<p>5.6. ¡Eso mismo! Y por duplicado además :D</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: sleepwalker		</title>
+		<link>/programacion/herramientas/analizando-codigo/#comment-4280</link>
+
+		<dc:creator><![CDATA[sleepwalker]]></dc:creator>
+		<pubDate>Wed, 11 Mar 2009 19:00:12 +0000</pubDate>
+		<guid isPermaLink="false">/2009/03/11/analizando-codigo/#comment-4280</guid>
+
+					<description><![CDATA[Uf! Yo entiendo lo que buscas jejej, hace poco me preguntaba por lo mismo... hace falta un esquemilla de relaciones ^^ como los de las bd :O]]></description>
+			<content:encoded><![CDATA[<p>Uf! Yo entiendo lo que buscas jejej, hace poco me preguntaba por lo mismo&#8230; hace falta un esquemilla de relaciones ^^ como los de las bd :O</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/programacion/herramientas/analizando-codigo/#comment-4279</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Wed, 11 Mar 2009 14:06:10 +0000</pubDate>
+		<guid isPermaLink="false">/2009/03/11/analizando-codigo/#comment-4279</guid>
+
+					<description><![CDATA[Batería de pruebas... Depuradores... debes ejecutar el código de cabeza leñe!! XDDD&lt;br /&gt;&lt;br /&gt;Ahora en serio, el debugger de Eclipse es impresionante. Las pegas vienen cuando no siempre puedes depurar en remoto o local, y hay que recurrir al traceo log4J paranoico]]></description>
+			<content:encoded><![CDATA[<p>Batería de pruebas&#8230; Depuradores&#8230; debes ejecutar el código de cabeza leñe!! XDDD</p>
+<p>Ahora en serio, el debugger de Eclipse es impresionante. Las pegas vienen cuando no siempre puedes depurar en remoto o local, y hay que recurrir al traceo log4J paranoico</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Disquete Enmascarado		</title>
+		<link>/programacion/herramientas/analizando-codigo/#comment-4278</link>
+
+		<dc:creator><![CDATA[Disquete Enmascarado]]></dc:creator>
+		<pubDate>Wed, 11 Mar 2009 11:31:02 +0000</pubDate>
+		<guid isPermaLink="false">/2009/03/11/analizando-codigo/#comment-4278</guid>
+
+					<description><![CDATA[Sip, el infierno es el código de otro y los IDEs que conozco todavía tienen mucho que recorrer. Lo bueno es que muchos pasos previos ya están dados (Eclipse permite sacar una lista de las clases llamadas y de las llamantes, en cascada), así que es cuestión de que alguien se apoye en hombros de gigantes y vea más lejos.&lt;br /&gt;&lt;br /&gt;Una herramienta también muy útil para averiguar qué demonios hace código ajeno es cambiar las variables/parámetros al vuelo, a ver por donde revienta. Eclipse, el amigo de los desarrolladores, lo permite a partir de algunas versiones de Tomcat y Jboss. Es un gustazo ver desmoronarse un sistema por un inocente null.]]></description>
+			<content:encoded><![CDATA[<p>Sip, el infierno es el código de otro y los IDEs que conozco todavía tienen mucho que recorrer. Lo bueno es que muchos pasos previos ya están dados (Eclipse permite sacar una lista de las clases llamadas y de las llamantes, en cascada), así que es cuestión de que alguien se apoye en hombros de gigantes y vea más lejos.</p>
+<p>Una herramienta también muy útil para averiguar qué demonios hace código ajeno es cambiar las variables/parámetros al vuelo, a ver por donde revienta. Eclipse, el amigo de los desarrolladores, lo permite a partir de algunas versiones de Tomcat y Jboss. Es un gustazo ver desmoronarse un sistema por un inocente null.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Hypnotoad		</title>
+		<link>/programacion/herramientas/analizando-codigo/#comment-4277</link>
+
+		<dc:creator><![CDATA[Hypnotoad]]></dc:creator>
+		<pubDate>Wed, 11 Mar 2009 11:28:29 +0000</pubDate>
+		<guid isPermaLink="false">/2009/03/11/analizando-codigo/#comment-4277</guid>
+
+					<description><![CDATA[Una herramienta asi supongo que ayudaría bastante.&lt;br /&gt;&lt;br /&gt;Aunque yo he trabajado con el debugger de Visual C y la verdadn es que era una maravilla. Podias poner watch en todas las variables que quisieras, probar expresiones regulares, tenias una pila de llamadas a funciones y podias hacer step into en funciones externas.&lt;br /&gt;&lt;br /&gt;No es lo que tu dices, pero la verdad es que aydaba un huevo a entender como funcionaban las cosas.&lt;br /&gt;&lt;br /&gt;Hail to the Hypnotoad!]]></description>
+			<content:encoded><![CDATA[<p>Una herramienta asi supongo que ayudaría bastante.</p>
+<p>Aunque yo he trabajado con el debugger de Visual C y la verdadn es que era una maravilla. Podias poner watch en todas las variables que quisieras, probar expresiones regulares, tenias una pila de llamadas a funciones y podias hacer step into en funciones externas.</p>
+<p>No es lo que tu dices, pero la verdad es que aydaba un huevo a entender como funcionaban las cosas.</p>
+<p>Hail to the Hypnotoad!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ucedaman		</title>
+		<link>/programacion/herramientas/analizando-codigo/#comment-4276</link>
+
+		<dc:creator><![CDATA[Ucedaman]]></dc:creator>
+		<pubDate>Wed, 11 Mar 2009 10:19:08 +0000</pubDate>
+		<guid isPermaLink="false">/2009/03/11/analizando-codigo/#comment-4276</guid>
+
+					<description><![CDATA[Yo... he visto cosas que vosotros no creeríais... acceder a variables globales desde más allá de Orión, he visto lanzar consultas a una BD Oracle para saber la fecha actual...&lt;br /&gt;&lt;br /&gt;Todos esos momentos se perderán en el código como lágrimas en la lluvia.&lt;br /&gt;&lt;br /&gt;Es hora de morir (o de matar a quién lo escribió).]]></description>
+			<content:encoded><![CDATA[<p>Yo&#8230; he visto cosas que vosotros no creeríais&#8230; acceder a variables globales desde más allá de Orión, he visto lanzar consultas a una BD Oracle para saber la fecha actual&#8230;</p>
+<p>Todos esos momentos se perderán en el código como lágrimas en la lluvia.</p>
+<p>Es hora de morir (o de matar a quién lo escribió).</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:55:08 by W3 Total Cache
+-->

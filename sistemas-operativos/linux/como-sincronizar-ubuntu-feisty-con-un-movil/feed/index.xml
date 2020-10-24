@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Como sincronizar Ubuntu Feisty con un móvil	</title>
+	<atom:link href="/sistemas-operativos/linux/como-sincronizar-ubuntu-feisty-con-un-movil/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/linux/como-sincronizar-ubuntu-feisty-con-un-movil/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=como-sincronizar-ubuntu-feisty-con-un-movil</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 05:52:31 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/como-sincronizar-ubuntu-feisty-con-un-movil/#comment-2620</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Wed, 05 Mar 2008 14:17:54 +0000</pubDate>
+		<guid isPermaLink="false">/2007/06/28/como-sincronizar-ubuntu-feisty-con-un-movil/#comment-2620</guid>
+
+					<description><![CDATA[Pues no lo he intentado, pero me da en la nariz que quizás no funcione directamente porque creo que el KU250 no cuple el protocolo SyncML (compruebalo). Si lo cumpliese, debería ser como el Sony-Ericsson...&lt;br /&gt;&lt;br /&gt;Graciñas ^^]]></description>
+			<content:encoded><![CDATA[<p>Pues no lo he intentado, pero me da en la nariz que quizás no funcione directamente porque creo que el KU250 no cuple el protocolo SyncML (compruebalo). Si lo cumpliese, debería ser como el Sony-Ericsson&#8230;</p>
+<p>Graciñas ^^</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: J. L.		</title>
+		<link>/sistemas-operativos/linux/como-sincronizar-ubuntu-feisty-con-un-movil/#comment-2617</link>
+
+		<dc:creator><![CDATA[J. L.]]></dc:creator>
+		<pubDate>Wed, 05 Mar 2008 13:54:58 +0000</pubDate>
+		<guid isPermaLink="false">/2007/06/28/como-sincronizar-ubuntu-feisty-con-un-movil/#comment-2617</guid>
+
+					<description><![CDATA[Buenas,&lt;br /&gt;&lt;br /&gt;Lo primero de todo quiero felicitarte por éste post y por el de configurar la conexión con el móvil LG KU250 y Ubuntu. Esta misma tarde voy a recoger mi nuevo KU250 y creo que me van a servir de mucho.&lt;br /&gt;&lt;br /&gt;Lo segundo, quería preguntarte si has intentado sincronizar el KU250 (la agenda) y si es así, si has tenido algún problema o hay que cambiar algo con respecto a lo que indicas con el Ericsson.&lt;br /&gt;&lt;br /&gt;Saludos y gracias de antemano]]></description>
+			<content:encoded><![CDATA[<p>Buenas,</p>
+<p>Lo primero de todo quiero felicitarte por éste post y por el de configurar la conexión con el móvil LG KU250 y Ubuntu. Esta misma tarde voy a recoger mi nuevo KU250 y creo que me van a servir de mucho.</p>
+<p>Lo segundo, quería preguntarte si has intentado sincronizar el KU250 (la agenda) y si es así, si has tenido algún problema o hay que cambiar algo con respecto a lo que indicas con el Ericsson.</p>
+<p>Saludos y gracias de antemano</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:52:49 by W3 Total Cache
+-->

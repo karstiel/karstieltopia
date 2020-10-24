@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Actualizándose	</title>
+	<atom:link href="/trastero/actualizandose/feed/" rel="self" type="application/rss+xml" />
+	<link>/trastero/actualizandose/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=actualizandose</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Tue, 07 Oct 2008 01:29:40 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/trastero/actualizandose/#comment-3764</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Tue, 07 Oct 2008 01:29:40 +0000</pubDate>
+		<guid isPermaLink="false">/2008/10/02/actualizandose/#comment-3764</guid>
+
+					<description><![CDATA[7. Totalmente que sé quién eres ;)&lt;br /&gt;Graciñas por tus comentarios! La verdad es que Hibernate es algo que solo conozco de vista y los EJB3 tengo curiosidad por verlos, a ver si es verdad eso de que han mejorado un poco. Y lo de Websphere... ¡¡¡cómo mola!!! Eso es tensión y el resto tonterías ;P&lt;br /&gt;&lt;br /&gt;8. ¿AndroMDA genera código Hibernate? Qué cosas se entera uno :D&lt;br /&gt;&lt;br /&gt;Vale, pues seguiré vivo, bajo tu permiso, por supuesto ;)&lt;br /&gt;&lt;br /&gt;Y sí, ¡los necesitamos ya de ya!]]></description>
+			<content:encoded><![CDATA[<p>7. Totalmente que sé quién eres ;)<br />Graciñas por tus comentarios! La verdad es que Hibernate es algo que solo conozco de vista y los EJB3 tengo curiosidad por verlos, a ver si es verdad eso de que han mejorado un poco. Y lo de Websphere&#8230; ¡¡¡cómo mola!!! Eso es tensión y el resto tonterías ;P</p>
+<p>8. ¿AndroMDA genera código Hibernate? Qué cosas se entera uno :D</p>
+<p>Vale, pues seguiré vivo, bajo tu permiso, por supuesto ;)</p>
+<p>Y sí, ¡los necesitamos ya de ya!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Disquete Enmascarado		</title>
+		<link>/trastero/actualizandose/#comment-3761</link>
+
+		<dc:creator><![CDATA[Disquete Enmascarado]]></dc:creator>
+		<pubDate>Mon, 06 Oct 2008 11:02:40 +0000</pubDate>
+		<guid isPermaLink="false">/2008/10/02/actualizandose/#comment-3761</guid>
+
+					<description><![CDATA[7 . Lo de Hibernate con Oracle háztelo mirar, hay opciones de configuración de cual va a ser el gestor de base de datos. Aquí usamos MySQL y tuvimos problemillas porque el default es Hypersonic. Cambiar, regenerar y listo.&lt;br /&gt;&lt;br /&gt;Aquí usamos las consultas de Hibernate desde código generado por AndroMDA, que es muy fácil si, como siempre, no te sales de lo estándar.&lt;br /&gt;&lt;br /&gt;6. No, hombre. Sólo merece morir el brazo tecnológico de Botín. Conozco versiones ya viejas de Rational y salvo dos tonterías, toda experiencia que tengas con otra herramienta UML es trasladable.&lt;br /&gt;&lt;br /&gt;Tengo en la lista de &quot;algún día&quot; el post de plugins para IE y Firefox ;)]]></description>
+			<content:encoded><![CDATA[<p>7 . Lo de Hibernate con Oracle háztelo mirar, hay opciones de configuración de cual va a ser el gestor de base de datos. Aquí usamos MySQL y tuvimos problemillas porque el default es Hypersonic. Cambiar, regenerar y listo.</p>
+<p>Aquí usamos las consultas de Hibernate desde código generado por AndroMDA, que es muy fácil si, como siempre, no te sales de lo estándar.</p>
+<p>6. No, hombre. Sólo merece morir el brazo tecnológico de Botín. Conozco versiones ya viejas de Rational y salvo dos tonterías, toda experiencia que tengas con otra herramienta UML es trasladable.</p>
+<p>Tengo en la lista de &#8220;algún día&#8221; el post de plugins para IE y Firefox ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: UnoDeLosOtros		</title>
+		<link>/trastero/actualizandose/#comment-3760</link>
+
+		<dc:creator><![CDATA[UnoDeLosOtros]]></dc:creator>
+		<pubDate>Mon, 06 Oct 2008 03:21:01 +0000</pubDate>
+		<guid isPermaLink="false">/2008/10/02/actualizandose/#comment-3760</guid>
+
+					<description><![CDATA[Hola,&lt;br /&gt;&lt;br /&gt;Aquí van algunos comentarios desde São Paulo, Brasil (con escribir esto y que desgraciadamente me suena, Y MUCHO, la triste historia de Maven, de los jars que no podían llevar la versión en el nombre y la aventura de WebWork unido a la frase: &quot;Pues yo pensaba que un framework web te hacía las páginas con estilos incluidos y todo&quot; supongo que sabrás quién soy, ¿no?):&lt;br /&gt;&lt;br /&gt;- Spring: donde curro ahora se usa bastante, unido a la inversión de control, para instanciar beans sobre todo.&lt;br /&gt;&lt;br /&gt;- Hibernate: simplifica el acceso a la base de datos, incluso tiene un API para realizar consultas, actualizaciones, borrados, etc. que es bastante sencillo de utilizar aunque nos hemos encontrado con que a veces genera sentencias que Oracle no puede ejecutar, por culpa de su afición a poner alias por todas partes.&lt;br /&gt;&lt;br /&gt;- EJBs: me tuve que mirar la 3.0 un poco y parece más útil (además de que recuerda sospechosamente a Hibernate) que la versión anterior.&lt;br /&gt;&lt;br /&gt;- JSF: parece que simplifica la vida al programador de jsp&#039;s... hasta que te sales un poco de lo estandar y entonces tu vida se vuelve muy pero que muy divertida...&lt;br /&gt;&lt;br /&gt;- WebSphere: añade más diversión al conjunto. Me he llegado a comer dos sandwiches seguidos, un puñado de almentras y una pieza de fruta mientras desplegaba una aplicación y me dio tiempo para ir a lavarme los dientes y volver y contemplar su maravilloso icono de espera.]]></description>
+			<content:encoded><![CDATA[<p>Hola,</p>
+<p>Aquí van algunos comentarios desde São Paulo, Brasil (con escribir esto y que desgraciadamente me suena, Y MUCHO, la triste historia de Maven, de los jars que no podían llevar la versión en el nombre y la aventura de WebWork unido a la frase: &#8220;Pues yo pensaba que un framework web te hacía las páginas con estilos incluidos y todo&#8221; supongo que sabrás quién soy, ¿no?):</p>
+<p>&#8211; Spring: donde curro ahora se usa bastante, unido a la inversión de control, para instanciar beans sobre todo.</p>
+<p>&#8211; Hibernate: simplifica el acceso a la base de datos, incluso tiene un API para realizar consultas, actualizaciones, borrados, etc. que es bastante sencillo de utilizar aunque nos hemos encontrado con que a veces genera sentencias que Oracle no puede ejecutar, por culpa de su afición a poner alias por todas partes.</p>
+<p>&#8211; EJBs: me tuve que mirar la 3.0 un poco y parece más útil (además de que recuerda sospechosamente a Hibernate) que la versión anterior.</p>
+<p>&#8211; JSF: parece que simplifica la vida al programador de jsp&#8217;s&#8230; hasta que te sales un poco de lo estandar y entonces tu vida se vuelve muy pero que muy divertida&#8230;</p>
+<p>&#8211; WebSphere: añade más diversión al conjunto. Me he llegado a comer dos sandwiches seguidos, un puñado de almentras y una pieza de fruta mientras desplegaba una aplicación y me dio tiempo para ir a lavarme los dientes y volver y contemplar su maravilloso icono de espera.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/trastero/actualizandose/#comment-3755</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Fri, 03 Oct 2008 18:42:17 +0000</pubDate>
+		<guid isPermaLink="false">/2008/10/02/actualizandose/#comment-3755</guid>
+
+					<description><![CDATA[Jsjsjsjsjs, ¿por qué me sonará eso también? :P&lt;br /&gt;&lt;br /&gt;La leche. Debieras hacer un post sobre los intríngulis que tuviste con VB, porque la verdad es que suena muy interesante.&lt;br /&gt;&lt;br /&gt;El UMLet también hace más o menos lo mismo (o a lo mejor estoy mezclando aplicaciones y estuve utilizando otro plugin :S )&lt;br /&gt;&lt;br /&gt;Quizás también acabe echando un vistazo a Android, porque tengo una curiosidad insana sobre él :D  Y Symbian lo mencionaba de paso porque, las cosas como son, hay tantos por ahí...&lt;br /&gt;&lt;br /&gt;Por cierto, reconozco una cosa... Nunca he usado Rational Rose... ¿merezco morir?]]></description>
+			<content:encoded><![CDATA[<p>Jsjsjsjsjs, ¿por qué me sonará eso también? :P</p>
+<p>La leche. Debieras hacer un post sobre los intríngulis que tuviste con VB, porque la verdad es que suena muy interesante.</p>
+<p>El UMLet también hace más o menos lo mismo (o a lo mejor estoy mezclando aplicaciones y estuve utilizando otro plugin :S )</p>
+<p>Quizás también acabe echando un vistazo a Android, porque tengo una curiosidad insana sobre él :D  Y Symbian lo mencionaba de paso porque, las cosas como son, hay tantos por ahí&#8230;</p>
+<p>Por cierto, reconozco una cosa&#8230; Nunca he usado Rational Rose&#8230; ¿merezco morir?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Disquete Enmascarado		</title>
+		<link>/trastero/actualizandose/#comment-3751</link>
+
+		<dc:creator><![CDATA[Disquete Enmascarado]]></dc:creator>
+		<pubDate>Fri, 03 Oct 2008 10:23:12 +0000</pubDate>
+		<guid isPermaLink="false">/2008/10/02/actualizandose/#comment-3751</guid>
+
+					<description><![CDATA[4. De nada, hombre.&lt;br /&gt;Struts sigue vivísimo, al menos en la empresa española, lo cual es como decir que se usaba Java 1.3 cuando la oficial era ya la 5... ¡Huy! Esto me suena.&lt;br /&gt;&lt;br /&gt;VB* es recomendable como solución de compromiso, sólo para entornos Windows, como alternativa para no tener que aprender MFC, ATL, COM, las manías del Visual Studio y cosas así. Si tu día a día no te pide tocar Windows, pasa de él/ellos. Yo lo he usado para hacer un plugin para el IE sin tener que tardar tres meses. Sustituto de los bat, recuerda ;)&lt;br /&gt;&lt;br /&gt;AndroMDA no &quot;compite&quot; con UMLet, de hecho podría convivir. A AndroMDA le das el fichero de tu UML y él genera código a partir de él. Con lo que competiría es con EMF de Eclipse, que todavía no he visto a nadie usarlo.&lt;br /&gt;&lt;br /&gt;Android me tira, igual que GWT. Symbian me da la impresión (es un prejuicio, no he visto nada) que tendrá cosas que hace años tendrían sentido pero ya no y que tendrá una pega compartida con J2ME: saber qué capacidades va a tener tu dispositivo cliente.]]></description>
+			<content:encoded><![CDATA[<p>4. De nada, hombre.<br />Struts sigue vivísimo, al menos en la empresa española, lo cual es como decir que se usaba Java 1.3 cuando la oficial era ya la 5&#8230; ¡Huy! Esto me suena.</p>
+<p>VB* es recomendable como solución de compromiso, sólo para entornos Windows, como alternativa para no tener que aprender MFC, ATL, COM, las manías del Visual Studio y cosas así. Si tu día a día no te pide tocar Windows, pasa de él/ellos. Yo lo he usado para hacer un plugin para el IE sin tener que tardar tres meses. Sustituto de los bat, recuerda ;)</p>
+<p>AndroMDA no &#8220;compite&#8221; con UMLet, de hecho podría convivir. A AndroMDA le das el fichero de tu UML y él genera código a partir de él. Con lo que competiría es con EMF de Eclipse, que todavía no he visto a nadie usarlo.</p>
+<p>Android me tira, igual que GWT. Symbian me da la impresión (es un prejuicio, no he visto nada) que tendrá cosas que hace años tendrían sentido pero ya no y que tendrá una pega compartida con J2ME: saber qué capacidades va a tener tu dispositivo cliente.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Disquete Enmascarado		</title>
+		<link>/trastero/actualizandose/#comment-3749</link>
+
+		<dc:creator><![CDATA[Disquete Enmascarado]]></dc:creator>
+		<pubDate>Thu, 02 Oct 2008 11:16:58 +0000</pubDate>
+		<guid isPermaLink="false">/2008/10/02/actualizandose/#comment-3749</guid>
+
+					<description><![CDATA[Pues os puedo decir algunas cosas que me han pagado por aprender un poco:&lt;br /&gt;&lt;br /&gt;-Jelly. Es un lenguaje en XML para tontás varias. Lo usaba Maven 1.x y creo que ya no lo usa nadie. NO merece la pena.&lt;br /&gt;&lt;br /&gt;-Maven 1.x. Añade muchas cosas a Ant para hacer las compilaciones un poco más fáciles, pero no mucho más. En cierta empresa que conocemos Ucedaman, Black Hole y algún otro se descartó porque gestiona las versiones de los jar por el que ponga en el nombre de cada uno. Si se configura bien, se baja jars directamente de repositorios en internet.&lt;br /&gt;&lt;br /&gt;-NSIS. Creador de instaladores para Windows que hizo el equipo de Winamp para no usar el de MS. Sintaxis muy raruna, pero le doy voto de confianza.&lt;br /&gt;&lt;br /&gt;-VBScript. Si no fuera por ciertas cosas feeeeas estaría bien para desterrar del todo los bat. Bueno, puede que aun así lo esté, pero me hice la ilusión de usarlo como lenguaje introductorio para novatos y después de chocarme con los problemas es/no-es un objeto o función/sub lo descarté. Sigue estando bien para scripts, repito. En principio se puede usar JScript (el dialecto de Javascript de MS) para lo mismo, pero es mentira.&lt;br /&gt;&lt;br /&gt;-XUL. El invento de Mozilla. Definir la interfaz de Firefox y sus extensiones con Javascript y objetos predefinidos pseudoHTML con sintaxis de XML. Mola un puñao. Ya le gustaría al IE tener tan bien definido cómo extenderlo con lenguajes de script.&lt;br /&gt;&lt;br /&gt;-Spring. Apenas me he podido dedicar a ello, pero hasta la semana pasada (que cambiaron las condiciones de distribución de versiones menores) parecía que iba a dejar obsoletas las EJBs.&lt;br /&gt;&lt;br /&gt;-Struts. Sí, sigue vivo y dando guerra. La semana que viene le dedicaré más tiempo, ya os cuento.&lt;br /&gt;&lt;br /&gt;-VB.NET. Mejor que VBScript, pero menos inmediato. Está un poco en tierra de nadie, ni chicha ni limoná. Hay IDE gratis de MS, pero requiere registro.&lt;br /&gt;&lt;br /&gt;-C#. El primo de Java. Me gustaría dedicarle más tiempo, buena pinta en general. Sus contactos con COM son inquietantes por lo pesados de definir, pero funcionan. IDEs gratis de MS y de la comunidad libre. El de MS no requiere registro ni nada.&lt;br /&gt;&lt;br /&gt;Aparte de esto me gustaría poder echar un ojo a:&lt;br /&gt;&lt;br /&gt;- JEE 1.4, que dicen que han simplificado mucho todo.&lt;br /&gt;&lt;br /&gt;- Python. Está de moda, parece entendible y he escuchado menos cosas feas de él que de Ruby.&lt;br /&gt;&lt;br /&gt;- Java X donde X&gt;=5. Al fin estoy en un proyecto donde se usa Java5 y me intrigan ciertas capacidades que se prometen para la versión 7.&lt;br /&gt;&lt;br /&gt;- AndroMDA. Genera esqueletos de código a partir de UML. Lo uso diariamente, pero versiones viejas. Sospecho que hay cosas mejores Ahí Fuera.&lt;br /&gt;&lt;br /&gt;- GIT. Sistema de control de versiones distribuido, se lo inventó Linus Torvalds un día de cabreo con lo que usaba previamente. Un crá, el tío.&lt;br /&gt;&lt;br /&gt;- Las tripas de los paquetes RPM/DEB. Qué menos ya que he visto las de los instaladores de MS.&lt;br /&gt;&lt;br /&gt;Estoy bastante desencantado de metodologías en general, tanto humo me irrita los ojos.]]></description>
+			<content:encoded><![CDATA[<p>Pues os puedo decir algunas cosas que me han pagado por aprender un poco:</p>
+<p>-Jelly. Es un lenguaje en XML para tontás varias. Lo usaba Maven 1.x y creo que ya no lo usa nadie. NO merece la pena.</p>
+<p>-Maven 1.x. Añade muchas cosas a Ant para hacer las compilaciones un poco más fáciles, pero no mucho más. En cierta empresa que conocemos Ucedaman, Black Hole y algún otro se descartó porque gestiona las versiones de los jar por el que ponga en el nombre de cada uno. Si se configura bien, se baja jars directamente de repositorios en internet.</p>
+<p>-NSIS. Creador de instaladores para Windows que hizo el equipo de Winamp para no usar el de MS. Sintaxis muy raruna, pero le doy voto de confianza.</p>
+<p>-VBScript. Si no fuera por ciertas cosas feeeeas estaría bien para desterrar del todo los bat. Bueno, puede que aun así lo esté, pero me hice la ilusión de usarlo como lenguaje introductorio para novatos y después de chocarme con los problemas es/no-es un objeto o función/sub lo descarté. Sigue estando bien para scripts, repito. En principio se puede usar JScript (el dialecto de Javascript de MS) para lo mismo, pero es mentira.</p>
+<p>-XUL. El invento de Mozilla. Definir la interfaz de Firefox y sus extensiones con Javascript y objetos predefinidos pseudoHTML con sintaxis de XML. Mola un puñao. Ya le gustaría al IE tener tan bien definido cómo extenderlo con lenguajes de script.</p>
+<p>-Spring. Apenas me he podido dedicar a ello, pero hasta la semana pasada (que cambiaron las condiciones de distribución de versiones menores) parecía que iba a dejar obsoletas las EJBs.</p>
+<p>-Struts. Sí, sigue vivo y dando guerra. La semana que viene le dedicaré más tiempo, ya os cuento.</p>
+<p>-VB.NET. Mejor que VBScript, pero menos inmediato. Está un poco en tierra de nadie, ni chicha ni limoná. Hay IDE gratis de MS, pero requiere registro.</p>
+<p>-C#. El primo de Java. Me gustaría dedicarle más tiempo, buena pinta en general. Sus contactos con COM son inquietantes por lo pesados de definir, pero funcionan. IDEs gratis de MS y de la comunidad libre. El de MS no requiere registro ni nada.</p>
+<p>Aparte de esto me gustaría poder echar un ojo a:</p>
+<p>&#8211; JEE 1.4, que dicen que han simplificado mucho todo.</p>
+<p>&#8211; Python. Está de moda, parece entendible y he escuchado menos cosas feas de él que de Ruby.</p>
+<p>&#8211; Java X donde X>=5. Al fin estoy en un proyecto donde se usa Java5 y me intrigan ciertas capacidades que se prometen para la versión 7.</p>
+<p>&#8211; AndroMDA. Genera esqueletos de código a partir de UML. Lo uso diariamente, pero versiones viejas. Sospecho que hay cosas mejores Ahí Fuera.</p>
+<p>&#8211; GIT. Sistema de control de versiones distribuido, se lo inventó Linus Torvalds un día de cabreo con lo que usaba previamente. Un crá, el tío.</p>
+<p>&#8211; Las tripas de los paquetes RPM/DEB. Qué menos ya que he visto las de los instaladores de MS.</p>
+<p>Estoy bastante desencantado de metodologías en general, tanto humo me irrita los ojos.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: sleepwalker		</title>
+		<link>/trastero/actualizandose/#comment-3748</link>
+
+		<dc:creator><![CDATA[sleepwalker]]></dc:creator>
+		<pubDate>Thu, 02 Oct 2008 09:42:36 +0000</pubDate>
+		<guid isPermaLink="false">/2008/10/02/actualizandose/#comment-3748</guid>
+
+					<description><![CDATA[Arriba el C++! xDDDDDD&lt;br /&gt;Yo ultimamente solo veo PHP5, PHP5 y más PHP5, así que recomiendo PHP5 jajajaj no, es broma, que de eso creo que ya sabes :D&lt;br /&gt;&lt;br /&gt;PD: Me parto con lo del alt-f4 xDDDD]]></description>
+			<content:encoded><![CDATA[<p>Arriba el C++! xDDDDDD<br />Yo ultimamente solo veo PHP5, PHP5 y más PHP5, así que recomiendo PHP5 jajajaj no, es broma, que de eso creo que ya sabes :D</p>
+<p>PD: Me parto con lo del alt-f4 xDDDD</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ucedaman		</title>
+		<link>/trastero/actualizandose/#comment-3747</link>
+
+		<dc:creator><![CDATA[Ucedaman]]></dc:creator>
+		<pubDate>Thu, 02 Oct 2008 08:27:02 +0000</pubDate>
+		<guid isPermaLink="false">/2008/10/02/actualizandose/#comment-3747</guid>
+
+					<description><![CDATA[Uy, voy a marcar esta página en favoritos, que a mí también me interesa. Estoy desentrenado desde que curro en una empresa en la que consideran conocimientos avanzados de informática saber que las ventanas se cierran con alt-f4]]></description>
+			<content:encoded><![CDATA[<p>Uy, voy a marcar esta página en favoritos, que a mí también me interesa. Estoy desentrenado desde que curro en una empresa en la que consideran conocimientos avanzados de informática saber que las ventanas se cierran con alt-f4</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:07:49 by W3 Total Cache
+-->

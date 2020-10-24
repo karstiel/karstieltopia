@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Curiosidad	</title>
+	<atom:link href="/ocio/series/curiosidad/feed/" rel="self" type="application/rss+xml" />
+	<link>/ocio/series/curiosidad/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=curiosidad</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Fri, 19 Feb 2016 16:40:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/ocio/series/curiosidad/#comment-346</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Sat, 30 Dec 2006 16:18:57 +0000</pubDate>
+		<guid isPermaLink="false">/2006/10/02/curiosidad/#comment-346</guid>
+
+					<description><![CDATA[Sí, son de esas cosas que se guardan en un recuerdo y, ale, no queda más... pero ahí está marcado]]></description>
+			<content:encoded><![CDATA[<p>Sí, son de esas cosas que se guardan en un recuerdo y, ale, no queda más&#8230; pero ahí está marcado</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Darklady		</title>
+		<link>/ocio/series/curiosidad/#comment-333</link>
+
+		<dc:creator><![CDATA[Darklady]]></dc:creator>
+		<pubDate>Sat, 30 Dec 2006 15:27:28 +0000</pubDate>
+		<guid isPermaLink="false">/2006/10/02/curiosidad/#comment-333</guid>
+
+					<description><![CDATA[Sí... yo me incluyo en ese grupo... lo recuerdo, pero muy muy vagamente. Sólo recuerdo verla en casa de mi abuela... puffff. Oish, jo... pero es que cuántos años tendría yo entonces??? *sigh* Esas maravillosas series de los 80 que nos marcaron... aunque en algunos casos sea de manera subconsciente, porque de la mitad ni me acuerdo ^^U]]></description>
+			<content:encoded><![CDATA[<p>Sí&#8230; yo me incluyo en ese grupo&#8230; lo recuerdo, pero muy muy vagamente. Sólo recuerdo verla en casa de mi abuela&#8230; puffff. Oish, jo&#8230; pero es que cuántos años tendría yo entonces??? *sigh* Esas maravillosas series de los 80 que nos marcaron&#8230; aunque en algunos casos sea de manera subconsciente, porque de la mitad ni me acuerdo ^^U</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:58:50 by W3 Total Cache
+-->

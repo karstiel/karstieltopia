@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: ¡¡¡Dame mi gallifante!!!	</title>
+	<atom:link href="/trastero/dame-mi-gallifante/feed/" rel="self" type="application/rss+xml" />
+	<link>/trastero/dame-mi-gallifante/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=dame-mi-gallifante</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 12 Mar 2016 05:16:14 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/trastero/dame-mi-gallifante/#comment-1060</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Mon, 09 Apr 2007 12:51:14 +0000</pubDate>
+		<guid isPermaLink="false">/2007/04/05/dame-mi-gallifante/#comment-1060</guid>
+
+					<description><![CDATA[Hmmm, sí... pasó alguna vez, lo sé, pero no recuerdo quien lo hizo O_O]]></description>
+			<content:encoded><![CDATA[<p>Hmmm, sí&#8230; pasó alguna vez, lo sé, pero no recuerdo quien lo hizo O_O</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Erzsebet		</title>
+		<link>/trastero/dame-mi-gallifante/#comment-1055</link>
+
+		<dc:creator><![CDATA[Erzsebet]]></dc:creator>
+		<pubDate>Mon, 09 Apr 2007 12:25:27 +0000</pubDate>
+		<guid isPermaLink="false">/2007/04/05/dame-mi-gallifante/#comment-1055</guid>
+
+					<description><![CDATA[JAJAJAJA!!! no sé si mi memoria hace trucos con mi mente, pero no fui yo la que un día te dio un gallifante-gif (o jpg :P)??? o lo busqué porque me lo dijiste??? o lo buscaste tú???? Pardiez qué mal estoy de lo mío X&#039;&#039;DDD]]></description>
+			<content:encoded><![CDATA[<p>JAJAJAJA!!! no sé si mi memoria hace trucos con mi mente, pero no fui yo la que un día te dio un gallifante-gif (o jpg :P)??? o lo busqué porque me lo dijiste??? o lo buscaste tú???? Pardiez qué mal estoy de lo mío X&#8221;DDD</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 17:02:26 by W3 Total Cache
+-->

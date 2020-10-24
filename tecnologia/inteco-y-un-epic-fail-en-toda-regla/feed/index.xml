@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Inteco y un epic fail en toda regla	</title>
+	<atom:link href="/tecnologia/inteco-y-un-epic-fail-en-toda-regla/feed/" rel="self" type="application/rss+xml" />
+	<link>/tecnologia/inteco-y-un-epic-fail-en-toda-regla/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=inteco-y-un-epic-fail-en-toda-regla</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Fri, 19 Feb 2016 20:05:10 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Karstiel		</title>
+		<link>/tecnologia/inteco-y-un-epic-fail-en-toda-regla/#comment-5520</link>
+
+		<dc:creator><![CDATA[Karstiel]]></dc:creator>
+		<pubDate>Tue, 07 Jun 2011 21:16:03 +0000</pubDate>
+		<guid isPermaLink="false">/2011/06/07/un-epic-fail-en-toda-regla/#comment-5520</guid>
+
+					<description><![CDATA[Ciertamente si estamos hablando de un trabajador, sería un poco más difícil el poder evitar una fuga de información; se me ocurre que se podría poner un registro de los accesos a esa información de cada uno, con lo que a posteriori tener que responder ante la autoridad.&lt;br /&gt;&lt;br /&gt;Pero lo &quot;gracioso&quot; de este caso es que el ataque fue hecho desde el exterior, con lo que lo que hicieron fue saltarse todas la medidas de seguridad que tuviesen y que eran las que predicaban... Así que aquí sí que es grave.]]></description>
+			<content:encoded><![CDATA[<p>Ciertamente si estamos hablando de un trabajador, sería un poco más difícil el poder evitar una fuga de información; se me ocurre que se podría poner un registro de los accesos a esa información de cada uno, con lo que a posteriori tener que responder ante la autoridad.</p>
+<p>Pero lo &#8220;gracioso&#8221; de este caso es que el ataque fue hecho desde el exterior, con lo que lo que hicieron fue saltarse todas la medidas de seguridad que tuviesen y que eran las que predicaban&#8230; Así que aquí sí que es grave.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Oscar		</title>
+		<link>/tecnologia/inteco-y-un-epic-fail-en-toda-regla/#comment-5519</link>
+
+		<dc:creator><![CDATA[Oscar]]></dc:creator>
+		<pubDate>Tue, 07 Jun 2011 20:05:16 +0000</pubDate>
+		<guid isPermaLink="false">/2011/06/07/un-epic-fail-en-toda-regla/#comment-5519</guid>
+
+					<description><![CDATA[Yo me he enterado hoy también.&lt;br /&gt;&lt;br /&gt;La verdad es que... ¿qué puede detener de hacer eso a un trabajador que está todos los días manejando esos datos como parte de su propio trabajo?&lt;br /&gt;&lt;br /&gt;Aún no sé muy bien los mecanismos de seguridad de las empresas pero, ¿cómo vas a cortarle el acceso a datos personales privados auna persona cuyo trabajo es, por ejemplo, migrar datos personales privados de un sistema a otro?&lt;br /&gt;&lt;br /&gt;Amos, entiendo que una filtración así no se debe hacer, pero ¿cómo se podría evitar en el caso, por ejemplo, de un trabajador despedido?]]></description>
+			<content:encoded><![CDATA[<p>Yo me he enterado hoy también.</p>
+<p>La verdad es que&#8230; ¿qué puede detener de hacer eso a un trabajador que está todos los días manejando esos datos como parte de su propio trabajo?</p>
+<p>Aún no sé muy bien los mecanismos de seguridad de las empresas pero, ¿cómo vas a cortarle el acceso a datos personales privados auna persona cuyo trabajo es, por ejemplo, migrar datos personales privados de un sistema a otro?</p>
+<p>Amos, entiendo que una filtración así no se debe hacer, pero ¿cómo se podría evitar en el caso, por ejemplo, de un trabajador despedido?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:31:03 by W3 Total Cache
+-->

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Docker: qué es y como instalarlo en Windows	</title>
+	<atom:link href="/sistemas-operativos/virtualizacion/docker-que-es-como-instalar-windows/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/virtualizacion/docker-que-es-como-instalar-windows/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=docker-que-es-como-instalar-windows</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sun, 06 Mar 2016 10:19:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Primeros pasos en Docker - Karstieltopia		</title>
+		<link>/sistemas-operativos/virtualizacion/docker-que-es-como-instalar-windows/#comment-28617</link>
+
+		<dc:creator><![CDATA[Primeros pasos en Docker - Karstieltopia]]></dc:creator>
+		<pubDate>Sun, 06 Mar 2016 10:19:43 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2420#comment-28617</guid>
+
+					<description><![CDATA[[&#8230;] la distribución Linux base en la que se ejecutará (si no os acordáis, podéis echar un vistazo a la entrada anterior, en donde os comentaba que en Linux esto se hace en nativo, pero que en Windows se tiene que [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] la distribución Linux base en la que se ejecutará (si no os acordáis, podéis echar un vistazo a la entrada anterior, en donde os comentaba que en Linux esto se hace en nativo, pero que en Windows se tiene que [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:05:45 by W3 Total Cache
+-->

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Pasos para migrar a WordPress 2.2	</title>
+	<atom:link href="/programacion/web/pasos-para-migrar-a-wordpress-2-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/programacion/web/pasos-para-migrar-a-wordpress-2-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=pasos-para-migrar-a-wordpress-2-2</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 23:15:51 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/web/pasos-para-migrar-a-wordpress-2-2/#comment-1489</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Sat, 09 Jun 2007 11:42:54 +0000</pubDate>
+		<guid isPermaLink="false">/2007/06/09/pasos-para-migrar-a-wordpress-2-2/#comment-1489</guid>
+
+					<description><![CDATA[Pues creo que te tengo que dar la razón, porque mi proveedor tiene una BD horriblemente lenta y, ahora, todo va bastante más lento que antes de la instalación, notándose sobre todo en el panel de control.&lt;br /&gt;&lt;br /&gt;Tengo que investigar exactamente que cambios han hecho porque, a mi parecer, esas mejoras de rendimiento se han quedado en &quot;muy supuestas&quot; y poco creíbles ¬_¬]]></description>
+			<content:encoded><![CDATA[<p>Pues creo que te tengo que dar la razón, porque mi proveedor tiene una BD horriblemente lenta y, ahora, todo va bastante más lento que antes de la instalación, notándose sobre todo en el panel de control.</p>
+<p>Tengo que investigar exactamente que cambios han hecho porque, a mi parecer, esas mejoras de rendimiento se han quedado en &#8220;muy supuestas&#8221; y poco creíbles ¬_¬</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: ebierzo		</title>
+		<link>/programacion/web/pasos-para-migrar-a-wordpress-2-2/#comment-1488</link>
+
+		<dc:creator><![CDATA[ebierzo]]></dc:creator>
+		<pubDate>Sat, 09 Jun 2007 09:41:17 +0000</pubDate>
+		<guid isPermaLink="false">/2007/06/09/pasos-para-migrar-a-wordpress-2-2/#comment-1488</guid>
+
+					<description><![CDATA[Si que me ha tocado un poco las pelotas, esta actualización del WP... ahora a comprobar el rendimiento, me da la impresión que hace demasiadas llamada a la BD ¿Que opinas,.. Black?]]></description>
+			<content:encoded><![CDATA[<p>Si que me ha tocado un poco las pelotas, esta actualización del WP&#8230; ahora a comprobar el rendimiento, me da la impresión que hace demasiadas llamada a la BD ¿Que opinas,.. Black?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:32:37 by W3 Total Cache
+-->

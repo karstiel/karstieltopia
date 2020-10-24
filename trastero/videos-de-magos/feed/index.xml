@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Vídeos de magos	</title>
+	<atom:link href="/trastero/videos-de-magos/feed/" rel="self" type="application/rss+xml" />
+	<link>/trastero/videos-de-magos/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=videos-de-magos</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Mon, 15 Feb 2016 22:46:21 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/trastero/videos-de-magos/#comment-3827</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Wed, 22 Oct 2008 01:00:44 +0000</pubDate>
+		<guid isPermaLink="false">/2008/10/10/videos-de-magos/#comment-3827</guid>
+
+					<description><![CDATA[Jur, eso lo pensamos todos O_O]]></description>
+			<content:encoded><![CDATA[<p>Jur, eso lo pensamos todos O_O</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Oscar		</title>
+		<link>/trastero/videos-de-magos/#comment-3821</link>
+
+		<dc:creator><![CDATA[Oscar]]></dc:creator>
+		<pubDate>Sun, 19 Oct 2008 11:00:14 +0000</pubDate>
+		<guid isPermaLink="false">/2008/10/10/videos-de-magos/#comment-3821</guid>
+
+					<description><![CDATA[Jajajajaja, me lo he pasado de miedo viendo estos vídeos!!&lt;br /&gt;&lt;br /&gt;Es increíble lo que hacen estos tipos... pero es que encima tienen gracia y son divertidos!!&lt;br /&gt;&lt;br /&gt;Eso sí... a mí que no me saquen al escenario :-S]]></description>
+			<content:encoded><![CDATA[<p>Jajajajaja, me lo he pasado de miedo viendo estos vídeos!!</p>
+<p>Es increíble lo que hacen estos tipos&#8230; pero es que encima tienen gracia y son divertidos!!</p>
+<p>Eso sí&#8230; a mí que no me saquen al escenario :-S</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:16:29 by W3 Total Cache
+-->

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en Karstieltopia	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Wed, 19 Aug 2020 10:21:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Comentario en OpenWRT &#8211; Instalación interfaz web por karstiel		</title>
+		<link>/tecnologia/openwrt-instalacion-interfaz-web/#comment-32720</link>
+
+		<dc:creator><![CDATA[karstiel]]></dc:creator>
+		<pubDate>Wed, 19 Aug 2020 10:21:13 +0000</pubDate>
+		<guid isPermaLink="false">/?p=196#comment-32720</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;/tecnologia/openwrt-instalacion-interfaz-web/#comment-32673&quot;&gt;Abel Reyes&lt;/a&gt;.
+
+Lo siento mucho, pero hace tiempo que ya no tengo esos paquetes :/]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="/tecnologia/openwrt-instalacion-interfaz-web/#comment-32673" data-wpel-link="internal">Abel Reyes</a>.</p>
+<p>Lo siento mucho, pero hace tiempo que ya no tengo esos paquetes :/</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentario en OpenWRT &#8211; Instalación interfaz web por Abel Reyes		</title>
+		<link>/tecnologia/openwrt-instalacion-interfaz-web/#comment-32673</link>
+
+		<dc:creator><![CDATA[Abel Reyes]]></dc:creator>
+		<pubDate>Wed, 22 Jul 2020 18:05:52 +0000</pubDate>
+		<guid isPermaLink="false">/?p=196#comment-32673</guid>
+
+					<description><![CDATA[Hola amigo , desafortunadamente los paquetes que indicas no los encuentro ni en el link que compartiste, si aun los tienes, cosa dificil, seria posible que me los compartas?]]></description>
+			<content:encoded><![CDATA[<p>Hola amigo , desafortunadamente los paquetes que indicas no los encuentro ni en el link que compartiste, si aun los tienes, cosa dificil, seria posible que me los compartas?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentario en Escogiendo cuatro ruedas por Tras seis años con un Seat Leon - Karstieltopia		</title>
+		<link>/trastero/escogiendo-cuatro-ruedas/#comment-28772</link>
+
+		<dc:creator><![CDATA[Tras seis años con un Seat Leon - Karstieltopia]]></dc:creator>
+		<pubDate>Sun, 27 Mar 2016 06:32:42 +0000</pubDate>
+		<guid isPermaLink="false">/2010/06/07/escogiendo-cuatro-ruedas/#comment-28772</guid>
+
+					<description><![CDATA[[&#8230;] que fue ayer cuando compré un Seat Leon (es más, le podéis echar un vistazo a esta antiquísima entrada) pero realmente ya han pasado seis años. Unos seis años que me gustaría resumir como un buen [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] que fue ayer cuando compré un Seat Leon (es más, le podéis echar un vistazo a esta antiquísima entrada) pero realmente ya han pasado seis años. Unos seis años que me gustaría resumir como un buen [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentario en Docker: qué es y como instalarlo en Windows por Primeros pasos en Docker - Karstieltopia		</title>
+		<link>/sistemas-operativos/virtualizacion/docker-que-es-como-instalar-windows/#comment-28617</link>
+
+		<dc:creator><![CDATA[Primeros pasos en Docker - Karstieltopia]]></dc:creator>
+		<pubDate>Sun, 06 Mar 2016 10:19:43 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2420#comment-28617</guid>
+
+					<description><![CDATA[[&#8230;] la distribución Linux base en la que se ejecutará (si no os acordáis, podéis echar un vistazo a la entrada anterior, en donde os comentaba que en Linux esto se hace en nativo, pero que en Windows se tiene que [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] la distribución Linux base en la que se ejecutará (si no os acordáis, podéis echar un vistazo a la entrada anterior, en donde os comentaba que en Linux esto se hace en nativo, pero que en Windows se tiene que [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentario en Terminando el Dragon Age 2 por Dragon Age Inquisition, ¿el definitivo? - Karstieltopia		</title>
+		<link>/ocio/juegos/terminando-el-dragon-age-2/#comment-28603</link>
+
+		<dc:creator><![CDATA[Dragon Age Inquisition, ¿el definitivo? - Karstieltopia]]></dc:creator>
+		<pubDate>Mon, 29 Feb 2016 06:22:10 +0000</pubDate>
+		<guid isPermaLink="false">/2011/05/04/terminando-el-dragon-age-2/#comment-28603</guid>
+
+					<description><![CDATA[[&#8230;] de BioWare, como podéis comprobar al ver los artículos sobre el Dragon Age Origins y sobre el Dragon Age 2 y culmina con este Dragon Age Inquisition. Pues sí, siendo así, tenía que jugar y terminar el [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] de BioWare, como podéis comprobar al ver los artículos sobre el Dragon Age Origins y sobre el Dragon Age 2 y culmina con este Dragon Age Inquisition. Pues sí, siendo así, tenía que jugar y terminar el [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentario en Dragon Age: Origins por Dragon Age Inquisition - Karstieltopia		</title>
+		<link>/ocio/juegos/dragon-age-origins/#comment-28600</link>
+
+		<dc:creator><![CDATA[Dragon Age Inquisition - Karstieltopia]]></dc:creator>
+		<pubDate>Sat, 27 Feb 2016 06:36:54 +0000</pubDate>
+		<guid isPermaLink="false">/2010/03/26/dragon-age-origins/#comment-28600</guid>
+
+					<description><![CDATA[[&#8230;] que empecé a jugar a esta saga de BioWare, como podéis comprobar al ver los artículos sobre el Dragon Age Origins y sobre el Dragon Age 2 y culmina con este Dragon Age Inquisition. Pues sí, siendo así, tenía [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] que empecé a jugar a esta saga de BioWare, como podéis comprobar al ver los artículos sobre el Dragon Age Origins y sobre el Dragon Age 2 y culmina con este Dragon Age Inquisition. Pues sí, siendo así, tenía [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentario en ¿Qué son los métodos en Java? por ¿Qué es un constructor? - Karstieltopia		</title>
+		<link>/programacion/java/que-son-los-metodos-en-java/#comment-28593</link>
+
+		<dc:creator><![CDATA[¿Qué es un constructor? - Karstieltopia]]></dc:creator>
+		<pubDate>Fri, 26 Feb 2016 05:33:37 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2350#comment-28593</guid>
+
+					<description><![CDATA[[&#8230;] de la clase (si te estás preguntando que es un método, quizás le puedes echar un vistazo a la entrada que escribí), que no devuelve ningún valor (es más, si os fijáis, no hay definido nada como valor de [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] de la clase (si te estás preguntando que es un método, quizás le puedes echar un vistazo a la entrada que escribí), que no devuelve ningún valor (es más, si os fijáis, no hay definido nada como valor de [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentario en Comentarios en Java por karstiel		</title>
+		<link>/programacion/java/comentarios-en-java/#comment-28591</link>
+
+		<dc:creator><![CDATA[karstiel]]></dc:creator>
+		<pubDate>Thu, 25 Feb 2016 14:14:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2344#comment-28591</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;/programacion/java/comentarios-en-java/#comment-28590&quot;&gt;Drizzt&lt;/a&gt;.
+
+Ese tipo de comentarios son los que engendran las leyendas :)]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="/programacion/java/comentarios-en-java/#comment-28590" data-wpel-link="internal">Drizzt</a>.</p>
+<p>Ese tipo de comentarios son los que engendran las leyendas :)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentario en Comentarios en Java por Drizzt		</title>
+		<link>/programacion/java/comentarios-en-java/#comment-28590</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Wed, 24 Feb 2016 15:47:35 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2344#comment-28590</guid>
+
+					<description><![CDATA[Los mejores comentarios son los de:
+//XXX Hic sunt dracones
+//FIXME 
+//TODO
+
+IntelliJIDEA no sé, pero Eclipse te los marca XD]]></description>
+			<content:encoded><![CDATA[<p>Los mejores comentarios son los de:<br />
+//XXX Hic sunt dracones<br />
+//FIXME<br />
+//TODO</p>
+<p>IntelliJIDEA no sé, pero Eclipse te los marca XD</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentario en Java y POO por Herencia y jerarquía - Karstieltopia Karstieltopia		</title>
+		<link>/programacion/java/java-y-poo/#comment-28580</link>
+
+		<dc:creator><![CDATA[Herencia y jerarquía - Karstieltopia Karstieltopia]]></dc:creator>
+		<pubDate>Mon, 22 Feb 2016 05:56:06 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2309#comment-28580</guid>
+
+					<description><![CDATA[[&#8230;] hemos visto que son las clases (aquí) y también hemos visto algunos detalles sobre la clase String usando ejemplos (aquí) pero hay [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] hemos visto que son las clases (aquí) y también hemos visto algunos detalles sobre la clase String usando ejemplos (aquí) pero hay [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 15:55:48 by W3 Total Cache
+-->

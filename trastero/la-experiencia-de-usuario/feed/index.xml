@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: La &#034;experiencia de usuario&#034;	</title>
+	<atom:link href="/trastero/la-experiencia-de-usuario/feed/" rel="self" type="application/rss+xml" />
+	<link>/trastero/la-experiencia-de-usuario/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=la-experiencia-de-usuario</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 13:40:10 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/trastero/la-experiencia-de-usuario/#comment-3963</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Thu, 04 Dec 2008 15:35:29 +0000</pubDate>
+		<guid isPermaLink="false">/2008/12/03/la-experiencia-de-usuario/#comment-3963</guid>
+
+					<description><![CDATA[Jejeje, pues claro que... ¡no! xD]]></description>
+			<content:encoded><![CDATA[<p>Jejeje, pues claro que&#8230; ¡no! xD</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ucedaman		</title>
+		<link>/trastero/la-experiencia-de-usuario/#comment-3961</link>
+
+		<dc:creator><![CDATA[Ucedaman]]></dc:creator>
+		<pubDate>Wed, 03 Dec 2008 12:50:28 +0000</pubDate>
+		<guid isPermaLink="false">/2008/12/03/la-experiencia-de-usuario/#comment-3961</guid>
+
+					<description><![CDATA[Yo cuando leo las prestaciones de los móviles de ahora (3G, cámara de fotos, GPS, navegador de internet, juegos java, radio FM, reproductor MP3) me pregunto... ¿y también sirve para hablar por teléfono?]]></description>
+			<content:encoded><![CDATA[<p>Yo cuando leo las prestaciones de los móviles de ahora (3G, cámara de fotos, GPS, navegador de internet, juegos java, radio FM, reproductor MP3) me pregunto&#8230; ¿y también sirve para hablar por teléfono?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:46:28 by W3 Total Cache
+-->

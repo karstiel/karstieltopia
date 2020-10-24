@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Comentarios en Java	</title>
+	<atom:link href="/programacion/java/comentarios-en-java/feed/" rel="self" type="application/rss+xml" />
+	<link>/programacion/java/comentarios-en-java/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=comentarios-en-java</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Thu, 25 Feb 2016 14:14:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: karstiel		</title>
+		<link>/programacion/java/comentarios-en-java/#comment-28591</link>
+
+		<dc:creator><![CDATA[karstiel]]></dc:creator>
+		<pubDate>Thu, 25 Feb 2016 14:14:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2344#comment-28591</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;/programacion/java/comentarios-en-java/#comment-28590&quot;&gt;Drizzt&lt;/a&gt;.
+
+Ese tipo de comentarios son los que engendran las leyendas :)]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="/programacion/java/comentarios-en-java/#comment-28590" data-wpel-link="internal">Drizzt</a>.</p>
+<p>Ese tipo de comentarios son los que engendran las leyendas :)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/programacion/java/comentarios-en-java/#comment-28590</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Wed, 24 Feb 2016 15:47:35 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2344#comment-28590</guid>
+
+					<description><![CDATA[Los mejores comentarios son los de:
+//XXX Hic sunt dracones
+//FIXME 
+//TODO
+
+IntelliJIDEA no sé, pero Eclipse te los marca XD]]></description>
+			<content:encoded><![CDATA[<p>Los mejores comentarios son los de:<br />
+//XXX Hic sunt dracones<br />
+//FIXME<br />
+//TODO</p>
+<p>IntelliJIDEA no sé, pero Eclipse te los marca XD</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:31:11 by W3 Total Cache
+-->

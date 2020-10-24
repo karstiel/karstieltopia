@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Malditos cambios	</title>
+	<atom:link href="/programacion/malditos-cambios/feed/" rel="self" type="application/rss+xml" />
+	<link>/programacion/malditos-cambios/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=malditos-cambios</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Mon, 15 Feb 2016 14:48:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/malditos-cambios/#comment-5034</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2009 09:12:25 +0000</pubDate>
+		<guid isPermaLink="false">/2009/09/22/malditos-cambios/#comment-5034</guid>
+
+					<description><![CDATA[&lt;b&gt;@Drizzt&lt;/b&gt;: Lo intentaré probar esta noche en un entorno virtualizado... pera a este paso me veo teniendo que programar yo mismo un entorno que me vaya :S&lt;br /&gt;&lt;br /&gt;&lt;b&gt;@Alfonso&lt;/b&gt;: Lo he estado ojeando y, aunque parece muy chulo, me parece que no me sirve porque tienes que utilizar su propio motor de scripting y no puedes enganchar código hecho en otro lenguaje, con lo que no me sirve para mis propósitos :/&lt;br /&gt;&lt;br /&gt;&lt;b&gt;@Ucedaman&lt;/b&gt;: Mentireiro... ¡fijo que solo han sido dos! ;P]]></description>
+			<content:encoded><![CDATA[<p><b>@Drizzt</b>: Lo intentaré probar esta noche en un entorno virtualizado&#8230; pera a este paso me veo teniendo que programar yo mismo un entorno que me vaya :S</p>
+<p><b>@Alfonso</b>: Lo he estado ojeando y, aunque parece muy chulo, me parece que no me sirve porque tienes que utilizar su propio motor de scripting y no puedes enganchar código hecho en otro lenguaje, con lo que no me sirve para mis propósitos :/</p>
+<p><b>@Ucedaman</b>: Mentireiro&#8230; ¡fijo que solo han sido dos! ;P</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ucedaman		</title>
+		<link>/programacion/malditos-cambios/#comment-5033</link>
+
+		<dc:creator><![CDATA[Ucedaman]]></dc:creator>
+		<pubDate>Wed, 23 Sep 2009 18:18:48 +0000</pubDate>
+		<guid isPermaLink="false">/2009/09/22/malditos-cambios/#comment-5033</guid>
+
+					<description><![CDATA[Tres veces lo he leido y aún no entiendo nada... :p]]></description>
+			<content:encoded><![CDATA[<p>Tres veces lo he leido y aún no entiendo nada&#8230; :p</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Alfonso de la Fuente Ruiz		</title>
+		<link>/programacion/malditos-cambios/#comment-5032</link>
+
+		<dc:creator><![CDATA[Alfonso de la Fuente Ruiz]]></dc:creator>
+		<pubDate>Wed, 23 Sep 2009 10:18:30 +0000</pubDate>
+		<guid isPermaLink="false">/2009/09/22/malditos-cambios/#comment-5032</guid>
+
+					<description><![CDATA[Hace años me topé con FRAMSTICKS y me encantó. Siempre he querido dedicarle un buen rato pero aún no he encontrado el momento, aunque creo recordar que evolucioné un par de criaturas. Hay cantidad de documentación, vídeos (&quot;Framsticks theatre&quot;) y un podcast en Biota.org. Permite evolucionar formas de vida artificiales y dotarles de intelegencia y movilidad, interaccionando en un entorno 3D.&lt;br /&gt;No dejes de contarnos us experiencias :)]]></description>
+			<content:encoded><![CDATA[<p>Hace años me topé con FRAMSTICKS y me encantó. Siempre he querido dedicarle un buen rato pero aún no he encontrado el momento, aunque creo recordar que evolucioné un par de criaturas. Hay cantidad de documentación, vídeos (&#8220;Framsticks theatre&#8221;) y un podcast en Biota.org. Permite evolucionar formas de vida artificiales y dotarles de intelegencia y movilidad, interaccionando en un entorno 3D.<br />No dejes de contarnos us experiencias :)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/programacion/malditos-cambios/#comment-5031</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Wed, 23 Sep 2009 07:20:42 +0000</pubDate>
+		<guid isPermaLink="false">/2009/09/22/malditos-cambios/#comment-5031</guid>
+
+					<description><![CDATA[Me suena de algo XDD, salvo que en mi caso fue por tratar de compilar esa aberración de app que es VLC en mingw. Donde este el MPC/ffdshow... quitate de estas chorraditas multiplataforma :P&lt;br /&gt;&lt;br /&gt;¿Por que no virtualizas un SO 32 para las glut32?]]></description>
+			<content:encoded><![CDATA[<p>Me suena de algo XDD, salvo que en mi caso fue por tratar de compilar esa aberración de app que es VLC en mingw. Donde este el MPC/ffdshow&#8230; quitate de estas chorraditas multiplataforma :P</p>
+<p>¿Por que no virtualizas un SO 32 para las glut32?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:52:14 by W3 Total Cache
+-->

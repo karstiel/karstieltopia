@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Si tenéis problemas entre NetBeans y Beryl	</title>
+	<atom:link href="/sistemas-operativos/linux/si-teneis-problemas-entre-netbeans-y-beryl/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/linux/si-teneis-problemas-entre-netbeans-y-beryl/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=si-teneis-problemas-entre-netbeans-y-beryl</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Mon, 15 Feb 2016 14:48:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/si-teneis-problemas-entre-netbeans-y-beryl/#comment-1038</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Thu, 05 Apr 2007 01:05:26 +0000</pubDate>
+		<guid isPermaLink="false">/2007/04/04/si-teneis-problemas-entre-netbeans-y-beryl/#comment-1038</guid>
+
+					<description><![CDATA[Jejeje, ya ves... yo descubrí (con horror) este problema ayer ;) Me alegro de ser útil ^^]]></description>
+			<content:encoded><![CDATA[<p>Jejeje, ya ves&#8230; yo descubrí (con horror) este problema ayer ;) Me alegro de ser útil ^^</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Disquete Enmascarado		</title>
+		<link>/sistemas-operativos/linux/si-teneis-problemas-entre-netbeans-y-beryl/#comment-1036</link>
+
+		<dc:creator><![CDATA[Disquete Enmascarado]]></dc:creator>
+		<pubDate>Wed, 04 Apr 2007 16:36:19 +0000</pubDate>
+		<guid isPermaLink="false">/2007/04/04/si-teneis-problemas-entre-netbeans-y-beryl/#comment-1036</guid>
+
+					<description><![CDATA[Oooohhh...&lt;br /&gt;Me lo apunto, aunque de momento lo único que he tenido en Java sobre Beryl ha sido el Azureus y por ser SWT no tenía problemas.&lt;br /&gt;A la saca de Google Notebook!]]></description>
+			<content:encoded><![CDATA[<p>Oooohhh&#8230;<br />Me lo apunto, aunque de momento lo único que he tenido en Java sobre Beryl ha sido el Azureus y por ser SWT no tenía problemas.<br />A la saca de Google Notebook!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:58:43 by W3 Total Cache
+-->

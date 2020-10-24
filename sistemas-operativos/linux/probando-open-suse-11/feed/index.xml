@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Probando Open SUSE 11	</title>
+	<atom:link href="/sistemas-operativos/linux/probando-open-suse-11/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/linux/probando-open-suse-11/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=probando-open-suse-11</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 15 Aug 2009 14:02:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Casino 1250184510		</title>
+		<link>/sistemas-operativos/linux/probando-open-suse-11/#comment-4833</link>
+
+		<dc:creator><![CDATA[Casino 1250184510]]></dc:creator>
+		<pubDate>Sat, 15 Aug 2009 14:02:08 +0000</pubDate>
+		<guid isPermaLink="false">/2008/08/12/probando-open-suse-11/#comment-4833</guid>
+
+					<description><![CDATA[&lt;strong&gt;Casino 1250184510...&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;Casino 1250184510...]]></description>
+			<content:encoded><![CDATA[<p><strong>Casino 1250184510&#8230;</strong></p>
+<p>Casino 1250184510&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/probando-open-suse-11/#comment-3757</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Sat, 04 Oct 2008 02:49:28 +0000</pubDate>
+		<guid isPermaLink="false">/2008/08/12/probando-open-suse-11/#comment-3757</guid>
+
+					<description><![CDATA[Muchas gracias ^^]]></description>
+			<content:encoded><![CDATA[<p>Muchas gracias ^^</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: easgs		</title>
+		<link>/sistemas-operativos/linux/probando-open-suse-11/#comment-3756</link>
+
+		<dc:creator><![CDATA[easgs]]></dc:creator>
+		<pubDate>Fri, 03 Oct 2008 22:02:11 +0000</pubDate>
+		<guid isPermaLink="false">/2008/08/12/probando-open-suse-11/#comment-3756</guid>
+
+					<description><![CDATA[Saludos, he recopilado varios programas multimedia para que puedan ser instalados desde un cd sin necesidad de tener internet en la maquina en la que se este trabajando, ya estan todas las dependencias, esta idea nacio inicialmente en el forum de open suse en ingles, la mayoria de los archivos rpm provienen del repo Packman, la lista de programas es:&lt;br /&gt;&lt;br /&gt;1)  kchmviewer&lt;br /&gt;2)  mplayer, mplayer plugin&lt;br /&gt;3)  audacious&lt;br /&gt;4)  k3b, k3b-codecs&lt;br /&gt;5)  sox&lt;br /&gt;6)  devede&lt;br /&gt;7)  audacity&lt;br /&gt;8)  avidemux&lt;br /&gt;9)  ffmpeg&lt;br /&gt;10) transcode&lt;br /&gt;11) ntfs-config&lt;br /&gt;12) vlc&lt;br /&gt;13) libdvdcss&lt;br /&gt;14) w32codecs&lt;br /&gt;15) xine&lt;br /&gt;16) xmms&lt;br /&gt;17) dvdShrink&lt;br /&gt;18) k9copy&lt;br /&gt;19) Gtkpod&lt;br /&gt;20) Acetoneiso&lt;br /&gt;21) Furiousiso&lt;br /&gt;22) DVD::RIP&lt;br /&gt;23) Amarok&lt;br /&gt;24) Kaffeine&lt;br /&gt;25) kmplayer&lt;br /&gt;26) Kdvdcreator&lt;br /&gt;27) K3guitune&lt;br /&gt;28) Kdvdauth&lt;br /&gt;29) DVDAuthorWizard&lt;br /&gt;30) Kguitar&lt;br /&gt;31) Mjpegtools&lt;br /&gt;32) Soundconverter&lt;br /&gt;33) Gdvdcreator&lt;br /&gt;34) Asunder&lt;br /&gt;35) Brasero&lt;br /&gt;36) Smplayer&lt;br /&gt;37) LMMS&lt;br /&gt;38) winff&lt;br /&gt;39) KmediaFactory&lt;br /&gt;40) DVD2Xvid&lt;br /&gt;&lt;br /&gt;los links de descarga estan en:&lt;br /&gt;&lt;br /&gt;http://easgs.wordpress.com/category/multimedia-pack-2008-for-open-suse-11/&lt;br /&gt;&lt;br /&gt;espero que les sirvan de ayuda.&lt;br /&gt;&lt;br /&gt;Saludos a todos]]></description>
+			<content:encoded><![CDATA[<p>Saludos, he recopilado varios programas multimedia para que puedan ser instalados desde un cd sin necesidad de tener internet en la maquina en la que se este trabajando, ya estan todas las dependencias, esta idea nacio inicialmente en el forum de open suse en ingles, la mayoria de los archivos rpm provienen del repo Packman, la lista de programas es:</p>
+<p>1)  kchmviewer<br />2)  mplayer, mplayer plugin<br />3)  audacious<br />4)  k3b, k3b-codecs<br />5)  sox<br />6)  devede<br />7)  audacity<br />8)  avidemux<br />9)  ffmpeg<br />10) transcode<br />11) ntfs-config<br />12) vlc<br />13) libdvdcss<br />14) w32codecs<br />15) xine<br />16) xmms<br />17) dvdShrink<br />18) k9copy<br />19) Gtkpod<br />20) Acetoneiso<br />21) Furiousiso<br />22) DVD::RIP<br />23) Amarok<br />24) Kaffeine<br />25) kmplayer<br />26) Kdvdcreator<br />27) K3guitune<br />28) Kdvdauth<br />29) DVDAuthorWizard<br />30) Kguitar<br />31) Mjpegtools<br />32) Soundconverter<br />33) Gdvdcreator<br />34) Asunder<br />35) Brasero<br />36) Smplayer<br />37) LMMS<br />38) winff<br />39) KmediaFactory<br />40) DVD2Xvid</p>
+<p>los links de descarga estan en:</p>
+<p><a href="http://easgs.wordpress.com/category/multimedia-pack-2008-for-open-suse-11/" rel="nofollow ugc external noopener noreferrer" data-wpel-link="external" target="_blank" class="ext-link">http://easgs.wordpress.com/category/multimedia-pack-2008-for-open-suse-11/</a></p>
+<p>espero que les sirvan de ayuda.</p>
+<p>Saludos a todos</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/probando-open-suse-11/#comment-3516</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Wed, 13 Aug 2008 10:46:52 +0000</pubDate>
+		<guid isPermaLink="false">/2008/08/12/probando-open-suse-11/#comment-3516</guid>
+
+					<description><![CDATA[3. Bueno, la versión tal cuál de Kubuntu 8.04.1 viene con el KDE 4.0.4, el cuál es bastante inestable. Pero bueno, nada que no se pueda actualizar. Estoy deseando que se puedan añadir Widgets directamente descargados desde el propio gestor, porque el tener que ir compilándolos a mano es un poco engorroso xD&lt;br /&gt;&lt;br /&gt;4. Pues sí ;)]]></description>
+			<content:encoded><![CDATA[<p>3. Bueno, la versión tal cuál de Kubuntu 8.04.1 viene con el KDE 4.0.4, el cuál es bastante inestable. Pero bueno, nada que no se pueda actualizar. Estoy deseando que se puedan añadir Widgets directamente descargados desde el propio gestor, porque el tener que ir compilándolos a mano es un poco engorroso xD</p>
+<p>4. Pues sí ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/sistemas-operativos/linux/probando-open-suse-11/#comment-3515</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Tue, 12 Aug 2008 11:00:00 +0000</pubDate>
+		<guid isPermaLink="false">/2008/08/12/probando-open-suse-11/#comment-3515</guid>
+
+					<description><![CDATA[Juasssssssssssssss&lt;br /&gt;XDDDDDDDDDDDDDD&lt;br /&gt;Tremendo el chiste gráfico de Ucedaman...]]></description>
+			<content:encoded><![CDATA[<p>Juasssssssssssssss<br />XDDDDDDDDDDDDDD<br />Tremendo el chiste gráfico de Ucedaman&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Alfonso FR		</title>
+		<link>/sistemas-operativos/linux/probando-open-suse-11/#comment-3514</link>
+
+		<dc:creator><![CDATA[Alfonso FR]]></dc:creator>
+		<pubDate>Tue, 12 Aug 2008 10:43:11 +0000</pubDate>
+		<guid isPermaLink="false">/2008/08/12/probando-open-suse-11/#comment-3514</guid>
+
+					<description><![CDATA[Dolphin y los widgets vienen con la KUbuntu 8.04.1.&lt;br /&gt;Al fin tengo yo también mi escritorio ordenado, si no nos obligan, está visto que no hay manera de impedir que se llene con docenas de iconos.&lt;br /&gt;Dolphin está bien, pero aún no supera en muchas cosas a Konqueror, como en la vista gráfica de las carpetas por tamaño, calculado recursivamente (por ejemplo).&lt;br /&gt;En la versión 8.04.1 se han solucionado la mayoría de los problemas de red. Lo que yo hice fue emplear un CD-ROM de KUbuntu para reinstalar knetworkmanager y toda la pesca, y luego instalar la última versión, ya que si no, no podía salir a Internet.&lt;br /&gt;Yast tampoco me gustó. Probaré Okular...]]></description>
+			<content:encoded><![CDATA[<p>Dolphin y los widgets vienen con la KUbuntu 8.04.1.<br />Al fin tengo yo también mi escritorio ordenado, si no nos obligan, está visto que no hay manera de impedir que se llene con docenas de iconos.<br />Dolphin está bien, pero aún no supera en muchas cosas a Konqueror, como en la vista gráfica de las carpetas por tamaño, calculado recursivamente (por ejemplo).<br />En la versión 8.04.1 se han solucionado la mayoría de los problemas de red. Lo que yo hice fue emplear un CD-ROM de KUbuntu para reinstalar knetworkmanager y toda la pesca, y luego instalar la última versión, ya que si no, no podía salir a Internet.<br />Yast tampoco me gustó. Probaré Okular&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/probando-open-suse-11/#comment-3513</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Tue, 12 Aug 2008 09:56:10 +0000</pubDate>
+		<guid isPermaLink="false">/2008/08/12/probando-open-suse-11/#comment-3513</guid>
+
+					<description><![CDATA[Y no te aburres? Porque yo sería incapaz xD&lt;br /&gt;&lt;br /&gt;Pd. Muy buena ;D]]></description>
+			<content:encoded><![CDATA[<p>Y no te aburres? Porque yo sería incapaz xD</p>
+<p>Pd. Muy buena ;D</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ucedaman		</title>
+		<link>/sistemas-operativos/linux/probando-open-suse-11/#comment-3512</link>
+
+		<dc:creator><![CDATA[Ucedaman]]></dc:creator>
+		<pubDate>Tue, 12 Aug 2008 08:42:22 +0000</pubDate>
+		<guid isPermaLink="false">/2008/08/12/probando-open-suse-11/#comment-3512</guid>
+
+					<description><![CDATA[Yo llevo un año con todo igual, y tan ricamente...&lt;br /&gt;:D&lt;br /&gt;&lt;br /&gt;http://www.humorgraficojr.com/blog/wp-content/uploads/2008/07/250708-linux.jpg]]></description>
+			<content:encoded><![CDATA[<p>Yo llevo un año con todo igual, y tan ricamente&#8230;<br />:D</p>
+<p><a href="http://www.humorgraficojr.com/blog/wp-content/uploads/2008/07/250708-linux.jpg" rel="nofollow ugc external noopener noreferrer" data-wpel-link="external" target="_blank" class="ext-link">http://www.humorgraficojr.com/blog/wp-content/uploads/2008/07/250708-linux.jpg</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:50:16 by W3 Total Cache
+-->

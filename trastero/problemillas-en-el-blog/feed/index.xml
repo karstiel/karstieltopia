@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Problemillas en el blog	</title>
+	<atom:link href="/trastero/problemillas-en-el-blog/feed/" rel="self" type="application/rss+xml" />
+	<link>/trastero/problemillas-en-el-blog/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=problemillas-en-el-blog</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Fri, 19 Feb 2016 16:39:56 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/trastero/problemillas-en-el-blog/#comment-4445</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Thu, 30 Apr 2009 02:46:38 +0000</pubDate>
+		<guid isPermaLink="false">/2009/04/29/problemillas-en-el-blog/#comment-4445</guid>
+
+					<description><![CDATA[1.2. Pues nopi, he usado otras cosas :P&lt;br /&gt;&lt;br /&gt;3. (1) Lo mirare (2) Si no me equivoco, ya lo estoy haciendo... (3) Idem también&lt;br /&gt;&lt;br /&gt;4. ¡¡¡¡Graciñas!!!!&lt;br /&gt;&lt;br /&gt;5. Pues ya me contarás ;)]]></description>
+			<content:encoded><![CDATA[<p>1.2. Pues nopi, he usado otras cosas :P</p>
+<p>3. (1) Lo mirare (2) Si no me equivoco, ya lo estoy haciendo&#8230; (3) Idem también</p>
+<p>4. ¡¡¡¡Graciñas!!!!</p>
+<p>5. Pues ya me contarás ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: brie		</title>
+		<link>/trastero/problemillas-en-el-blog/#comment-4444</link>
+
+		<dc:creator><![CDATA[brie]]></dc:creator>
+		<pubDate>Wed, 29 Apr 2009 19:19:07 +0000</pubDate>
+		<guid isPermaLink="false">/2009/04/29/problemillas-en-el-blog/#comment-4444</guid>
+
+					<description><![CDATA[este disquete es un crack, cuanto sabe! :) En fin, yo estoy Chromatizada y lo veo bien. Si lo comparo con el firefox, igual igual excepto en los datos de tu comespams me salen un poco diferenten... por cierto, cuando acabes de arreglar tu blog te pediré ayuda con el mío que ya no sé qué hacer para arreglar las cosas raras que me pasan :D besicos!]]></description>
+			<content:encoded><![CDATA[<p>este disquete es un crack, cuanto sabe! :) En fin, yo estoy Chromatizada y lo veo bien. Si lo comparo con el firefox, igual igual excepto en los datos de tu comespams me salen un poco diferenten&#8230; por cierto, cuando acabes de arreglar tu blog te pediré ayuda con el mío que ya no sé qué hacer para arreglar las cosas raras que me pasan :D besicos!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Disquete Enmascarado		</title>
+		<link>/trastero/problemillas-en-el-blog/#comment-4443</link>
+
+		<dc:creator><![CDATA[Disquete Enmascarado]]></dc:creator>
+		<pubDate>Wed, 29 Apr 2009 16:37:24 +0000</pubDate>
+		<guid isPermaLink="false">/2009/04/29/problemillas-en-el-blog/#comment-4443</guid>
+
+					<description><![CDATA[¡Qué cansino soy! Aprovechando que Microsoft ha empezado a mandar la instalación de Explorer 8 como actualización de seguridad en XP, te cuento que en esta versión se ve prácticamente igual que en Firefox.&lt;br /&gt;&lt;br /&gt;Hoy puede ser el principio del fin de las desagracias de todos los que tocamos la parte web. Aleluya!]]></description>
+			<content:encoded><![CDATA[<p>¡Qué cansino soy! Aprovechando que Microsoft ha empezado a mandar la instalación de Explorer 8 como actualización de seguridad en XP, te cuento que en esta versión se ve prácticamente igual que en Firefox.</p>
+<p>Hoy puede ser el principio del fin de las desagracias de todos los que tocamos la parte web. Aleluya!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Disquete Enmascarado		</title>
+		<link>/trastero/problemillas-en-el-blog/#comment-4442</link>
+
+		<dc:creator><![CDATA[Disquete Enmascarado]]></dc:creator>
+		<pubDate>Wed, 29 Apr 2009 13:24:52 +0000</pubDate>
+		<guid isPermaLink="false">/2009/04/29/problemillas-en-el-blog/#comment-4442</guid>
+
+					<description><![CDATA[Propuestas de YSlow que he entendido y creo te ayudarían:&lt;br /&gt;&lt;br /&gt;1. Añade cabeceras de fecha de expiración para el contenido estático, así los navegadores lo cachearán.&lt;br /&gt;2. Comprime con GZIP los ficheros de los css y js que alojas. Casi todos los navegadores los admiten y descomprimen en cliente.&lt;br /&gt;3. Prueba a sacar todos los css y javascript de la página a ficheros aparte, para que sean cacheables.&lt;br /&gt;&lt;br /&gt;Otra que entiendo la idea, pero no el como:&lt;br /&gt;    Tienes contenido estático con ETags chungas, con lo que los cachés del navegador no sabe si ya lo tiene o no cacheado.&lt;br /&gt;&lt;br /&gt;Como curiosidad, esta página me ha pesado 194.5 KB y he tardado en bajarla 6.054s.&lt;br /&gt;&lt;br /&gt;Creo que me acabo de enamorar de YSlow.]]></description>
+			<content:encoded><![CDATA[<p>Propuestas de YSlow que he entendido y creo te ayudarían:</p>
+<p>1. Añade cabeceras de fecha de expiración para el contenido estático, así los navegadores lo cachearán.<br />2. Comprime con GZIP los ficheros de los css y js que alojas. Casi todos los navegadores los admiten y descomprimen en cliente.<br />3. Prueba a sacar todos los css y javascript de la página a ficheros aparte, para que sean cacheables.</p>
+<p>Otra que entiendo la idea, pero no el como:<br />    Tienes contenido estático con ETags chungas, con lo que los cachés del navegador no sabe si ya lo tiene o no cacheado.</p>
+<p>Como curiosidad, esta página me ha pesado 194.5 KB y he tardado en bajarla 6.054s.</p>
+<p>Creo que me acabo de enamorar de YSlow.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Disquete Enmascarado		</title>
+		<link>/trastero/problemillas-en-el-blog/#comment-4441</link>
+
+		<dc:creator><![CDATA[Disquete Enmascarado]]></dc:creator>
+		<pubDate>Wed, 29 Apr 2009 09:50:29 +0000</pubDate>
+		<guid isPermaLink="false">/2009/04/29/problemillas-en-el-blog/#comment-4441</guid>
+
+					<description><![CDATA[Se me olvidaba, supongo que habrás usado Firebug y YSlow para reducir el ancho de banda consumido, no?]]></description>
+			<content:encoded><![CDATA[<p>Se me olvidaba, supongo que habrás usado Firebug y YSlow para reducir el ancho de banda consumido, no?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Disquete Enmascarado		</title>
+		<link>/trastero/problemillas-en-el-blog/#comment-4440</link>
+
+		<dc:creator><![CDATA[Disquete Enmascarado]]></dc:creator>
+		<pubDate>Wed, 29 Apr 2009 09:46:53 +0000</pubDate>
+		<guid isPermaLink="false">/2009/04/29/problemillas-en-el-blog/#comment-4440</guid>
+
+					<description><![CDATA[Pues en explorer 7 se ve casi igual, falta esto del pie de la página: &quot;© 2007 Ponga un agujero negro en su vida &#124; Powered by:Wordpress &#124; Theme by: ebjuris directory Valid XHTML and Valid CSS&quot;&lt;br /&gt;&lt;br /&gt;El mensaje del filtro de Spam sí sale.&lt;br /&gt;&lt;br /&gt;A ver si me acuerdo de mirarlo en explorer 8 y te cuento.]]></description>
+			<content:encoded><![CDATA[<p>Pues en explorer 7 se ve casi igual, falta esto del pie de la página: &#8220;© 2007 Ponga un agujero negro en su vida | Powered by:Wordpress | Theme by: ebjuris directory Valid XHTML and Valid CSS&#8221;</p>
+<p>El mensaje del filtro de Spam sí sale.</p>
+<p>A ver si me acuerdo de mirarlo en explorer 8 y te cuento.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:46:13 by W3 Total Cache
+-->

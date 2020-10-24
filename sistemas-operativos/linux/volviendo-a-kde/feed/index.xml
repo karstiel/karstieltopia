@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Volviendo a KDE	</title>
+	<atom:link href="/sistemas-operativos/linux/volviendo-a-kde/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/linux/volviendo-a-kde/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=volviendo-a-kde</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 05:51:27 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/volviendo-a-kde/#comment-1687</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Tue, 28 Aug 2007 23:14:35 +0000</pubDate>
+		<guid isPermaLink="false">/2007/08/28/volviendo-a-kde/#comment-1687</guid>
+
+					<description><![CDATA[Bueno, aquí estoy igual que tú... Realmente a mi solo me convence Kubuntu instalándolo a partir de Ubuntu...&lt;br /&gt;&lt;br /&gt;Lo de la tarjeta gráfica es un problemilla porque resulta que pensaron que con una aplicación maja que se llama Controladores Restringidos, le das y puedes activar los drivers automáticamente (esta aplicación no viene en Kubuntu... solo en Ubuntu)... pero claro, lo que hace es conectarse a Internet para instalarlos :S&lt;br /&gt;&lt;br /&gt;La verdad es que esta distribución (véase Ubuntu/Kubuntu) me convence sobre todo estando conectado a Internet, porque sin ese mundillo creo que no es muy válida como distribución tal cual.&lt;br /&gt;&lt;br /&gt;Sobre el DVD... si lo recuerdo bien, lo que trae es lo mismo que el CD, solo que vienen más versiones (véase 64 bits y esas cosas) y creo que más programas libres para Windows... pero (no estoy del todo seguro), no trae nada más que el CD.&lt;br /&gt;&lt;br /&gt;Y sobre la Fedora... Yo también lo intenté, pero mi portatil y Fedora no se llevan muy bien, y después de un caos de unas horas en que no hacía más que destrozar mis nervios, la acabé aniquilando para instalar una Suse, la cuál no se colgaba, pero tampoco funcionaba bien y... bueno, hasta probé una Mandriva y fue un horror mayúsculo XD&lt;br /&gt;&lt;br /&gt;Así que suerte con la Fedora... si te gustaba la RedHat 9 (mi favorita era la 7 :D), quizás CentOs te guste más por eso de la estabilidad. Ya nos contarás ;)]]></description>
+			<content:encoded><![CDATA[<p>Bueno, aquí estoy igual que tú&#8230; Realmente a mi solo me convence Kubuntu instalándolo a partir de Ubuntu&#8230;</p>
+<p>Lo de la tarjeta gráfica es un problemilla porque resulta que pensaron que con una aplicación maja que se llama Controladores Restringidos, le das y puedes activar los drivers automáticamente (esta aplicación no viene en Kubuntu&#8230; solo en Ubuntu)&#8230; pero claro, lo que hace es conectarse a Internet para instalarlos :S</p>
+<p>La verdad es que esta distribución (véase Ubuntu/Kubuntu) me convence sobre todo estando conectado a Internet, porque sin ese mundillo creo que no es muy válida como distribución tal cual.</p>
+<p>Sobre el DVD&#8230; si lo recuerdo bien, lo que trae es lo mismo que el CD, solo que vienen más versiones (véase 64 bits y esas cosas) y creo que más programas libres para Windows&#8230; pero (no estoy del todo seguro), no trae nada más que el CD.</p>
+<p>Y sobre la Fedora&#8230; Yo también lo intenté, pero mi portatil y Fedora no se llevan muy bien, y después de un caos de unas horas en que no hacía más que destrozar mis nervios, la acabé aniquilando para instalar una Suse, la cuál no se colgaba, pero tampoco funcionaba bien y&#8230; bueno, hasta probé una Mandriva y fue un horror mayúsculo XD</p>
+<p>Así que suerte con la Fedora&#8230; si te gustaba la RedHat 9 (mi favorita era la 7 :D), quizás CentOs te guste más por eso de la estabilidad. Ya nos contarás ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/sistemas-operativos/linux/volviendo-a-kde/#comment-1686</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Tue, 28 Aug 2007 21:09:45 +0000</pubDate>
+		<guid isPermaLink="false">/2007/08/28/volviendo-a-kde/#comment-1686</guid>
+
+					<description><![CDATA[Bueno, hago un receso en mis vacaciones (son las fiestas de aquí!!! -sonando jota catellana de fondo XDDD- ).&lt;br /&gt;&lt;br /&gt;Me bajaron Kubuntu, y yo tan ilusionado a instalarlo. Tras probarlo he de decir que no me gusta naaada, y si es así ubuntu,  tampoco. Quizás es que sea novato con esta distribución... El caso es:&lt;br /&gt;&lt;br /&gt;a.- Me ignora los telinit como root (via sudo o sudo su). Para él todo lo que no sea &quot;telinit 1&quot; es &quot;modo con interfaz gráfica&quot;...&lt;br /&gt;&lt;br /&gt;b.- ¿Dónde está /etc/inittab ???????????????&lt;br /&gt;&lt;br /&gt;c.- No instala por defecto los fuentes ni las cabeceras del kernel...&lt;br /&gt;&lt;br /&gt;d.- Tengo un modem de 56k (lease, apt-get como que no&lt;br /&gt;&lt;br /&gt;Y todo esta parrafada tiene un motivo: no puedo instalar los drivers de nVIDIA por el método tradicional (parar X, ejecutar instalable de NVIDIA, tocar el XFreeConfig o como se llama ahora). Sin drivers = no 3D = no juegos en linux = no hay ningún motivo para usar ese S.O. que paar programar ya tengo el curro...&lt;br /&gt;&lt;br /&gt;Así que lo he quitado muy decepcionado con él. A lo mejor es lo que comentas deque Kubuntu trae menos cosas que la Ubuntu, peeero... un DVD de 4.5GB y que no traiga (o yo no se las ví) ni instale los fuentes/cabeceras del kernel... v_v...&lt;br /&gt;&lt;br /&gt;KUBUNTU SUCKS&lt;br /&gt;&lt;br /&gt;Mi próximo intento será con la Fedora Core que tiene /etc/inittab y cosas de esas a las que estoy  acostumbrado... añoro mi RedHat 9 del PC viejo frente a estas distribuciones modelnas... v_v ...]]></description>
+			<content:encoded><![CDATA[<p>Bueno, hago un receso en mis vacaciones (son las fiestas de aquí!!! -sonando jota catellana de fondo XDDD- ).</p>
+<p>Me bajaron Kubuntu, y yo tan ilusionado a instalarlo. Tras probarlo he de decir que no me gusta naaada, y si es así ubuntu,  tampoco. Quizás es que sea novato con esta distribución&#8230; El caso es:</p>
+<p>a.- Me ignora los telinit como root (via sudo o sudo su). Para él todo lo que no sea &#8220;telinit 1&#8221; es &#8220;modo con interfaz gráfica&#8221;&#8230;</p>
+<p>b.- ¿Dónde está /etc/inittab ???????????????</p>
+<p>c.- No instala por defecto los fuentes ni las cabeceras del kernel&#8230;</p>
+<p>d.- Tengo un modem de 56k (lease, apt-get como que no</p>
+<p>Y todo esta parrafada tiene un motivo: no puedo instalar los drivers de nVIDIA por el método tradicional (parar X, ejecutar instalable de NVIDIA, tocar el XFreeConfig o como se llama ahora). Sin drivers = no 3D = no juegos en linux = no hay ningún motivo para usar ese S.O. que paar programar ya tengo el curro&#8230;</p>
+<p>Así que lo he quitado muy decepcionado con él. A lo mejor es lo que comentas deque Kubuntu trae menos cosas que la Ubuntu, peeero&#8230; un DVD de 4.5GB y que no traiga (o yo no se las ví) ni instale los fuentes/cabeceras del kernel&#8230; v_v&#8230;</p>
+<p>KUBUNTU SUCKS</p>
+<p>Mi próximo intento será con la Fedora Core que tiene /etc/inittab y cosas de esas a las que estoy  acostumbrado&#8230; añoro mi RedHat 9 del PC viejo frente a estas distribuciones modelnas&#8230; v_v &#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:50:24 by W3 Total Cache
+-->

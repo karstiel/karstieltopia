@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Configurando la n800 con Yoigo	</title>
+	<atom:link href="/sistemas-operativos/linux/configurando-la-n800-con-yoigo/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/linux/configurando-la-n800-con-yoigo/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=configurando-la-n800-con-yoigo</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 21:26:38 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/configurando-la-n800-con-yoigo/#comment-3366</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Wed, 09 Jul 2008 12:17:07 +0000</pubDate>
+		<guid isPermaLink="false">/2008/07/08/configurando-la-n800-con-yoigo/#comment-3366</guid>
+
+					<description><![CDATA[Hmmmm, pues posiblemente lo soporte... ¡Investigaré!]]></description>
+			<content:encoded><![CDATA[<p>Hmmmm, pues posiblemente lo soporte&#8230; ¡Investigaré!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Disquete Enmascarado		</title>
+		<link>/sistemas-operativos/linux/configurando-la-n800-con-yoigo/#comment-3362</link>
+
+		<dc:creator><![CDATA[Disquete Enmascarado]]></dc:creator>
+		<pubDate>Wed, 09 Jul 2008 08:46:33 +0000</pubDate>
+		<guid isPermaLink="false">/2008/07/08/configurando-la-n800-con-yoigo/#comment-3362</guid>
+
+					<description><![CDATA[Ok, pues udev es, o al menos es lo que entiendo, un subsistema que aplica reglas de carga de módulos de kernel, alta de enlaces y permisos cuando se detecta cierto hardware. Es como un fichero inf de Windows, vaya.&lt;br /&gt;&lt;br /&gt;Es que me hice un fichero de configuración de udev para el Toshiba con el que la configuración es plug and surf ;)]]></description>
+			<content:encoded><![CDATA[<p>Ok, pues udev es, o al menos es lo que entiendo, un subsistema que aplica reglas de carga de módulos de kernel, alta de enlaces y permisos cuando se detecta cierto hardware. Es como un fichero inf de Windows, vaya.</p>
+<p>Es que me hice un fichero de configuración de udev para el Toshiba con el que la configuración es plug and surf ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/configurando-la-n800-con-yoigo/#comment-3360</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Wed, 09 Jul 2008 00:06:59 +0000</pubDate>
+		<guid isPermaLink="false">/2008/07/08/configurando-la-n800-con-yoigo/#comment-3360</guid>
+
+					<description><![CDATA[1. Pues me parece que el NetworkManager no, dado que usa uno propio (aunque por lo que he visto por ahí, hay gente que ha puesto otros escritorios, con lo que quizás es posible... Y lo del udev.. si me dices qué es, podré intentar responderte ;)&lt;br /&gt;&lt;br /&gt;2. Puuessss, caca, caca, caca... Cambian condiciones porque sí y a lo bestia ¬¬]]></description>
+			<content:encoded><![CDATA[<p>1. Pues me parece que el NetworkManager no, dado que usa uno propio (aunque por lo que he visto por ahí, hay gente que ha puesto otros escritorios, con lo que quizás es posible&#8230; Y lo del udev.. si me dices qué es, podré intentar responderte ;)</p>
+<p>2. Puuessss, caca, caca, caca&#8230; Cambian condiciones porque sí y a lo bestia ¬¬</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: brie		</title>
+		<link>/sistemas-operativos/linux/configurando-la-n800-con-yoigo/#comment-3359</link>
+
+		<dc:creator><![CDATA[brie]]></dc:creator>
+		<pubDate>Tue, 08 Jul 2008 10:43:57 +0000</pubDate>
+		<guid isPermaLink="false">/2008/07/08/configurando-la-n800-con-yoigo/#comment-3359</guid>
+
+					<description><![CDATA[¿Y qué tal va el Yoigo este? Yo sigo con Cacafone :)]]></description>
+			<content:encoded><![CDATA[<p>¿Y qué tal va el Yoigo este? Yo sigo con Cacafone :)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Disquete Enmascarado		</title>
+		<link>/sistemas-operativos/linux/configurando-la-n800-con-yoigo/#comment-3358</link>
+
+		<dc:creator><![CDATA[Disquete Enmascarado]]></dc:creator>
+		<pubDate>Tue, 08 Jul 2008 10:21:34 +0000</pubDate>
+		<guid isPermaLink="false">/2008/07/08/configurando-la-n800-con-yoigo/#comment-3358</guid>
+
+					<description><![CDATA[¿El Nokia n800 usa udev y NetworkManager?&lt;br /&gt;Si lo usa, puede que tenga una buena noticia para los que quieran usar el Toshiba ;)]]></description>
+			<content:encoded><![CDATA[<p>¿El Nokia n800 usa udev y NetworkManager?<br />Si lo usa, puede que tenga una buena noticia para los que quieran usar el Toshiba ;)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:24:50 by W3 Total Cache
+-->

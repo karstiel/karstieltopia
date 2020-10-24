@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Copiando con ssh	</title>
+	<atom:link href="/sistemas-operativos/linux/copiando-con-ssh/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/linux/copiando-con-ssh/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=copiando-con-ssh</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 21:22:36 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/copiando-con-ssh/#comment-5130</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2009 14:36:25 +0000</pubDate>
+		<guid isPermaLink="false">/2009/11/25/copiando-con-ssh/#comment-5130</guid>
+
+					<description><![CDATA[&lt;b&gt;@Drizzt&lt;/b&gt;: O directamente hacer una instalación remota en otro país en su cliente con una red cansina a base de saltos xD&lt;br /&gt;&lt;br /&gt;&lt;b&gt;@Disquete&lt;/b&gt;: Pues ni idea, ¡pero comparte el conocimiento ;)]]></description>
+			<content:encoded><![CDATA[<p><b>@Drizzt</b>: O directamente hacer una instalación remota en otro país en su cliente con una red cansina a base de saltos xD</p>
+<p><b>@Disquete</b>: Pues ni idea, ¡pero comparte el conocimiento ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Disquete		</title>
+		<link>/sistemas-operativos/linux/copiando-con-ssh/#comment-5124</link>
+
+		<dc:creator><![CDATA[Disquete]]></dc:creator>
+		<pubDate>Wed, 25 Nov 2009 12:12:39 +0000</pubDate>
+		<guid isPermaLink="false">/2009/11/25/copiando-con-ssh/#comment-5124</guid>
+
+					<description><![CDATA[¿Y sabes cómo traerte las X de un servidor a través de otro y que se vea en un Windows?&lt;br /&gt;&lt;br /&gt;Consultaré mi chuletario y os lo cuento. ;)&lt;br /&gt;&lt;br /&gt;Para transferir ficheros también vale Filezilla, poniendo el puerto 22.]]></description>
+			<content:encoded><![CDATA[<p>¿Y sabes cómo traerte las X de un servidor a través de otro y que se vea en un Windows?</p>
+<p>Consultaré mi chuletario y os lo cuento. ;)</p>
+<p>Para transferir ficheros también vale Filezilla, poniendo el puerto 22.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/sistemas-operativos/linux/copiando-con-ssh/#comment-5123</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Wed, 25 Nov 2009 10:16:42 +0000</pubDate>
+		<guid isPermaLink="false">/2009/11/25/copiando-con-ssh/#comment-5123</guid>
+
+					<description><![CDATA[Es lo que tiene el tener que pasar por un par de maquinas intermedias tara traerse un log de producción :D]]></description>
+			<content:encoded><![CDATA[<p>Es lo que tiene el tener que pasar por un par de maquinas intermedias tara traerse un log de producción :D</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:20:15 by W3 Total Cache
+-->

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Ver para creer…	</title>
+	<atom:link href="/ocio/peliculas/ver-para-creer/feed/" rel="self" type="application/rss+xml" />
+	<link>/ocio/peliculas/ver-para-creer/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ver-para-creer</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Fri, 19 Feb 2016 16:40:32 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/ocio/peliculas/ver-para-creer/#comment-1339</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Thu, 17 May 2007 10:30:22 +0000</pubDate>
+		<guid isPermaLink="false">/2007/05/17/ver-para-creer/#comment-1339</guid>
+
+					<description><![CDATA[1. Tienen que llamar un poco la atención, así que han cogido aquello que conocen y ale, viento fresco :D&lt;br /&gt;&lt;br /&gt;2. O_O errrr... guau O_O]]></description>
+			<content:encoded><![CDATA[<p>1. Tienen que llamar un poco la atención, así que han cogido aquello que conocen y ale, viento fresco :D</p>
+<p>2. O_O errrr&#8230; guau O_O</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Erzsebet		</title>
+		<link>/ocio/peliculas/ver-para-creer/#comment-1338</link>
+
+		<dc:creator><![CDATA[Erzsebet]]></dc:creator>
+		<pubDate>Thu, 17 May 2007 10:27:39 +0000</pubDate>
+		<guid isPermaLink="false">/2007/05/17/ver-para-creer/#comment-1338</guid>
+
+					<description><![CDATA[Jejeje esta será una película familiar... que mi hermana no se llama Sigrid por nada ;)]]></description>
+			<content:encoded><![CDATA[<p>Jejeje esta será una película familiar&#8230; que mi hermana no se llama Sigrid por nada ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/ocio/peliculas/ver-para-creer/#comment-1333</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Thu, 17 May 2007 09:09:56 +0000</pubDate>
+		<guid isPermaLink="false">/2007/05/17/ver-para-creer/#comment-1333</guid>
+
+					<description><![CDATA[No conozco al personaje del comic, pero el teaser parece un remix de &quot;El Reino de los Cielos&quot; y &quot;La Comunidad del Anillo&quot;.]]></description>
+			<content:encoded><![CDATA[<p>No conozco al personaje del comic, pero el teaser parece un remix de &#8220;El Reino de los Cielos&#8221; y &#8220;La Comunidad del Anillo&#8221;.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 17:10:31 by W3 Total Cache
+-->

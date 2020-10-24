@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Invencible	</title>
+	<atom:link href="/trastero/invencible/feed/" rel="self" type="application/rss+xml" />
+	<link>/trastero/invencible/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=invencible</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Tue, 08 Mar 2011 08:26:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Karstiel		</title>
+		<link>/trastero/invencible/#comment-5468</link>
+
+		<dc:creator><![CDATA[Karstiel]]></dc:creator>
+		<pubDate>Tue, 08 Mar 2011 08:26:45 +0000</pubDate>
+		<guid isPermaLink="false">/2011/02/28/invencible/#comment-5468</guid>
+
+					<description><![CDATA[&lt;b&gt;@Hypnotoad&lt;/b&gt;: Ese movimiento tiene bonus seguro :D]]></description>
+			<content:encoded><![CDATA[<p><b>@Hypnotoad</b>: Ese movimiento tiene bonus seguro :D</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Hypnotoad		</title>
+		<link>/trastero/invencible/#comment-5465</link>
+
+		<dc:creator><![CDATA[Hypnotoad]]></dc:creator>
+		<pubDate>Mon, 07 Mar 2011 16:05:20 +0000</pubDate>
+		<guid isPermaLink="false">/2011/02/28/invencible/#comment-5465</guid>
+
+					<description><![CDATA[El pobre crío es todo un C-C-C-C-COMBO BRAKER.]]></description>
+			<content:encoded><![CDATA[<p>El pobre crío es todo un C-C-C-C-COMBO BRAKER.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Karstiel		</title>
+		<link>/trastero/invencible/#comment-5459</link>
+
+		<dc:creator><![CDATA[Karstiel]]></dc:creator>
+		<pubDate>Tue, 01 Mar 2011 07:41:24 +0000</pubDate>
+		<guid isPermaLink="false">/2011/02/28/invencible/#comment-5459</guid>
+
+					<description><![CDATA[Cosas que pasan, yo también lo creía de Kingpin en Daredevil peeeeero las cosas ya no son lo que eran xD]]></description>
+			<content:encoded><![CDATA[<p>Cosas que pasan, yo también lo creía de Kingpin en Daredevil peeeeero las cosas ya no son lo que eran xD</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Oscar		</title>
+		<link>/trastero/invencible/#comment-5458</link>
+
+		<dc:creator><![CDATA[Oscar]]></dc:creator>
+		<pubDate>Mon, 28 Feb 2011 23:26:51 +0000</pubDate>
+		<guid isPermaLink="false">/2011/02/28/invencible/#comment-5458</guid>
+
+					<description><![CDATA[Jajajaj, ya lo había visto.&lt;br /&gt;&lt;br /&gt;Qué curioso, yo creía que Guile era blanco... XD]]></description>
+			<content:encoded><![CDATA[<p>Jajajaj, ya lo había visto.</p>
+<p>Qué curioso, yo creía que Guile era blanco&#8230; XD</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:36:52 by W3 Total Cache
+-->

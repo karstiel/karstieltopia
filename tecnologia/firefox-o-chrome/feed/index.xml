@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Firefox o Chrome	</title>
+	<atom:link href="/tecnologia/firefox-o-chrome/feed/" rel="self" type="application/rss+xml" />
+	<link>/tecnologia/firefox-o-chrome/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=firefox-o-chrome</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 16:16:03 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Karstiel		</title>
+		<link>/tecnologia/firefox-o-chrome/#comment-5187</link>
+
+		<dc:creator><![CDATA[Karstiel]]></dc:creator>
+		<pubDate>Tue, 12 Jan 2010 23:05:51 +0000</pubDate>
+		<guid isPermaLink="false">/2010/01/10/firefox-o-chrome/#comment-5187</guid>
+
+					<description><![CDATA[&lt;b&gt;@Oscar&lt;/b&gt;: La verdad es que no sé porque, pero siempre parece que el software libre mayoritario (véase aquellos que son muy conocidos) tienden a devorar recursos de mala manera... :S&lt;br /&gt;&lt;br /&gt;Pd. Si te parece que come mucho Firefox en Windows, ni te lo imaginas en Linux :S]]></description>
+			<content:encoded><![CDATA[<p><b>@Oscar</b>: La verdad es que no sé porque, pero siempre parece que el software libre mayoritario (véase aquellos que son muy conocidos) tienden a devorar recursos de mala manera&#8230; :S</p>
+<p>Pd. Si te parece que come mucho Firefox en Windows, ni te lo imaginas en Linux :S</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Oscar		</title>
+		<link>/tecnologia/firefox-o-chrome/#comment-5186</link>
+
+		<dc:creator><![CDATA[Oscar]]></dc:creator>
+		<pubDate>Tue, 12 Jan 2010 12:25:34 +0000</pubDate>
+		<guid isPermaLink="false">/2010/01/10/firefox-o-chrome/#comment-5186</guid>
+
+					<description><![CDATA[Yo me fui de internet explorer porque no aguantaba que a cada actualización me viniera otra vez lo de validar la copia de windows, si no llega a ser por eso, aún seguiría sin usar Firefox.&lt;br /&gt;&lt;br /&gt;Es curioso lo que dices de devorador de recursos, ahora que uso el GIMP me he dado cuenta de que, aunque es mucho más lento que el Photoshop, no come ni mucho menos tanta memoria RAM como éste, sino que tira más de CPU, pero sin cargar una imagen, el Firefox usa bastante más memoria aún que el GIMP.&lt;br /&gt;&lt;br /&gt;Amos, que consume, que consume...]]></description>
+			<content:encoded><![CDATA[<p>Yo me fui de internet explorer porque no aguantaba que a cada actualización me viniera otra vez lo de validar la copia de windows, si no llega a ser por eso, aún seguiría sin usar Firefox.</p>
+<p>Es curioso lo que dices de devorador de recursos, ahora que uso el GIMP me he dado cuenta de que, aunque es mucho más lento que el Photoshop, no come ni mucho menos tanta memoria RAM como éste, sino que tira más de CPU, pero sin cargar una imagen, el Firefox usa bastante más memoria aún que el GIMP.</p>
+<p>Amos, que consume, que consume&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Karstiel		</title>
+		<link>/tecnologia/firefox-o-chrome/#comment-5184</link>
+
+		<dc:creator><![CDATA[Karstiel]]></dc:creator>
+		<pubDate>Sun, 10 Jan 2010 21:52:59 +0000</pubDate>
+		<guid isPermaLink="false">/2010/01/10/firefox-o-chrome/#comment-5184</guid>
+
+					<description><![CDATA[Es que Opera Mini &#124;&#124; Mobile es impresionante O_O&lt;br /&gt;&lt;br /&gt;Espero darle un tiento al 4.4 ;P]]></description>
+			<content:encoded><![CDATA[<p>Es que Opera Mini || Mobile es impresionante O_O</p>
+<p>Espero darle un tiento al 4.4 ;P</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Alfonso de la Fuente Ruiz		</title>
+		<link>/tecnologia/firefox-o-chrome/#comment-5183</link>
+
+		<dc:creator><![CDATA[Alfonso de la Fuente Ruiz]]></dc:creator>
+		<pubDate>Sun, 10 Jan 2010 18:14:33 +0000</pubDate>
+		<guid isPermaLink="false">/2010/01/10/firefox-o-chrome/#comment-5183</guid>
+
+					<description><![CDATA[&quot;Opera browser&quot; funciona hasta en mi teléfono móvil marca china &quot;nisu&quot;. Es el precio que tiene que pagar por poder instalarse hasta en una lavadora. Vente a KDEeeeeEEeee...]]></description>
+			<content:encoded><![CDATA[<p>&#8220;Opera browser&#8221; funciona hasta en mi teléfono móvil marca china &#8220;nisu&#8221;. Es el precio que tiene que pagar por poder instalarse hasta en una lavadora. Vente a KDEeeeeEEeee&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:59:44 by W3 Total Cache
+-->

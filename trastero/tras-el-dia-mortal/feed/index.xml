@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Tras el día mortal	</title>
+	<atom:link href="/trastero/tras-el-dia-mortal/feed/" rel="self" type="application/rss+xml" />
+	<link>/trastero/tras-el-dia-mortal/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tras-el-dia-mortal</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Fri, 29 Dec 2006 13:30:21 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/trastero/tras-el-dia-mortal/#comment-276</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Fri, 29 Dec 2006 13:30:21 +0000</pubDate>
+		<guid isPermaLink="false">/2006/06/06/tras-el-dia-mortal/#comment-276</guid>
+
+					<description><![CDATA[Uhmm, podría ser en cualquier lugar o no lugar... ¿quizás en la antimateria?]]></description>
+			<content:encoded><![CDATA[<p>Uhmm, podría ser en cualquier lugar o no lugar&#8230; ¿quizás en la antimateria?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Darklady		</title>
+		<link>/trastero/tras-el-dia-mortal/#comment-274</link>
+
+		<dc:creator><![CDATA[Darklady]]></dc:creator>
+		<pubDate>Fri, 29 Dec 2006 13:25:03 +0000</pubDate>
+		<guid isPermaLink="false">/2006/06/06/tras-el-dia-mortal/#comment-274</guid>
+
+					<description><![CDATA[Amen :P&lt;br /&gt;Pues nada yo me sumergo en el agujero negro, que vaya empacho me va a dar, me parece ^^U Y bueno, a ver si pasa de paso (ey, juego palabras!) por cierto lugar donde crecen las lilas. Que oye, mira que me estoy carcomiendo la cabeza a ver si descubro donde era &gt;_]]></description>
+			<content:encoded><![CDATA[<p>Amen :P<br />Pues nada yo me sumergo en el agujero negro, que vaya empacho me va a dar, me parece ^^U Y bueno, a ver si pasa de paso (ey, juego palabras!) por cierto lugar donde crecen las lilas. Que oye, mira que me estoy carcomiendo la cabeza a ver si descubro donde era >_</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:28:44 by W3 Total Cache
+-->

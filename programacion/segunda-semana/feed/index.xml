@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Segunda semana	</title>
+	<atom:link href="/programacion/segunda-semana/feed/" rel="self" type="application/rss+xml" />
+	<link>/programacion/segunda-semana/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=segunda-semana</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Wed, 21 Nov 2007 22:38:15 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/segunda-semana/#comment-2097</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Wed, 21 Nov 2007 22:38:15 +0000</pubDate>
+		<guid isPermaLink="false">/2007/11/18/segunda-semana/#comment-2097</guid>
+
+					<description><![CDATA[Sí, lo conozco... pero no me acaba de gustar para cosas grandes :S :S]]></description>
+			<content:encoded><![CDATA[<p>Sí, lo conozco&#8230; pero no me acaba de gustar para cosas grandes :S :S</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/programacion/segunda-semana/#comment-2096</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Tue, 20 Nov 2007 09:00:20 +0000</pubDate>
+		<guid isPermaLink="false">/2007/11/18/segunda-semana/#comment-2096</guid>
+
+					<description><![CDATA[Eclipse tiene un plugin para C/C++ y compilación desde el IDE (tira de externos: g++, gcc, el de intel u otros). Yo lo use durante un tiempo en el curro hará un año o asi.]]></description>
+			<content:encoded><![CDATA[<p>Eclipse tiene un plugin para C/C++ y compilación desde el IDE (tira de externos: g++, gcc, el de intel u otros). Yo lo use durante un tiempo en el curro hará un año o asi.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/segunda-semana/#comment-2095</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Mon, 19 Nov 2007 20:48:23 +0000</pubDate>
+		<guid isPermaLink="false">/2007/11/18/segunda-semana/#comment-2095</guid>
+
+					<description><![CDATA[A ver... editores, pues mira el mismo gvim u otros... te resaltan la sintaxis y esas cosas. Pero un IDE de verdad bajo Unix, o para trabajar en remoto por ftp pues... es más difícil&lt;br /&gt;&lt;br /&gt;Todo se hace últimamente para Java y claro, hay menos dónde elegir xD]]></description>
+			<content:encoded><![CDATA[<p>A ver&#8230; editores, pues mira el mismo gvim u otros&#8230; te resaltan la sintaxis y esas cosas. Pero un IDE de verdad bajo Unix, o para trabajar en remoto por ftp pues&#8230; es más difícil</p>
+<p>Todo se hace últimamente para Java y claro, hay menos dónde elegir xD</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Oscar		</title>
+		<link>/programacion/segunda-semana/#comment-2094</link>
+
+		<dc:creator><![CDATA[Oscar]]></dc:creator>
+		<pubDate>Mon, 19 Nov 2007 20:02:26 +0000</pubDate>
+		<guid isPermaLink="false">/2007/11/18/segunda-semana/#comment-2094</guid>
+
+					<description><![CDATA[Así que no hay editores medianamente evolucionados para trabajar con C/Unix? o lo de usar el VI es para que &quot;os acostumbréis a empezar a hacer las cosas sabiendo lo que hacéis, que si os lo dan todo hecho luego no sabéis lo que hay debajo&quot;?&lt;br /&gt;&lt;br /&gt;Es que me acuerdo que en un cursillo que hizo David de JSP les obligaban a hacer las páginas en bloc de notas por esa razón, y oye... igual aquí era por lo mismo...]]></description>
+			<content:encoded><![CDATA[<p>Así que no hay editores medianamente evolucionados para trabajar con C/Unix? o lo de usar el VI es para que &#8220;os acostumbréis a empezar a hacer las cosas sabiendo lo que hacéis, que si os lo dan todo hecho luego no sabéis lo que hay debajo&#8221;?</p>
+<p>Es que me acuerdo que en un cursillo que hizo David de JSP les obligaban a hacer las páginas en bloc de notas por esa razón, y oye&#8230; igual aquí era por lo mismo&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/segunda-semana/#comment-2093</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Mon, 19 Nov 2007 19:26:55 +0000</pubDate>
+		<guid isPermaLink="false">/2007/11/18/segunda-semana/#comment-2093</guid>
+
+					<description><![CDATA[1. El conocimiento no ocupa lugar ;)&lt;br /&gt;&lt;br /&gt;2. Lo malo es... ¿qué entorno utilizas para programar así? De acuerdo, ya he evolucionado al GVim ( XD ), pero en C, bajo unix y un entorno que funcione bien... no hay muchas opciones]]></description>
+			<content:encoded><![CDATA[<p>1. El conocimiento no ocupa lugar ;)</p>
+<p>2. Lo malo es&#8230; ¿qué entorno utilizas para programar así? De acuerdo, ya he evolucionado al GVim ( XD ), pero en C, bajo unix y un entorno que funcione bien&#8230; no hay muchas opciones</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Disquete Enmascarado		</title>
+		<link>/programacion/segunda-semana/#comment-2092</link>
+
+		<dc:creator><![CDATA[Disquete Enmascarado]]></dc:creator>
+		<pubDate>Mon, 19 Nov 2007 10:41:39 +0000</pubDate>
+		<guid isPermaLink="false">/2007/11/18/segunda-semana/#comment-2092</guid>
+
+					<description><![CDATA[La notación húngara es un invento de un menda contratado por Microsoft (para leer una entrevista con él, &quot;Programadores en acción&quot; Microsoft Press/Anaya) y en mi opinión debería desaparecer, pues, como dice nuestro anfitrión, los IDEs lo hacen mucho mejor.&lt;br /&gt;&lt;br /&gt;Este engendro del demonio es el culpable de esos nombres de variables que parecen que se te ha caido la mano en el teclado y de que tengas que dividir una línea en 4 por culpa de las 80 columnas.&lt;br /&gt;&lt;br /&gt;Mantenerlo porque se programa en vi puede tener sentido, pero a lo que no se lo veo es programar en vi.]]></description>
+			<content:encoded><![CDATA[<p>La notación húngara es un invento de un menda contratado por Microsoft (para leer una entrevista con él, &#8220;Programadores en acción&#8221; Microsoft Press/Anaya) y en mi opinión debería desaparecer, pues, como dice nuestro anfitrión, los IDEs lo hacen mucho mejor.</p>
+<p>Este engendro del demonio es el culpable de esos nombres de variables que parecen que se te ha caido la mano en el teclado y de que tengas que dividir una línea en 4 por culpa de las 80 columnas.</p>
+<p>Mantenerlo porque se programa en vi puede tener sentido, pero a lo que no se lo veo es programar en vi.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: sleepwalker		</title>
+		<link>/programacion/segunda-semana/#comment-2091</link>
+
+		<dc:creator><![CDATA[sleepwalker]]></dc:creator>
+		<pubDate>Sun, 18 Nov 2007 14:05:55 +0000</pubDate>
+		<guid isPermaLink="false">/2007/11/18/segunda-semana/#comment-2091</guid>
+
+					<description><![CDATA[Anda! Yo nunca había oido eso de notación Húngara, pero tampoco está tan mal no? está bien saberlo, por si hay que utilizarlo :s]]></description>
+			<content:encoded><![CDATA[<p>Anda! Yo nunca había oido eso de notación Húngara, pero tampoco está tan mal no? está bien saberlo, por si hay que utilizarlo :s</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:56:55 by W3 Total Cache
+-->

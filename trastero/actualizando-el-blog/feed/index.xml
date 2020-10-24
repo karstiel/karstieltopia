@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Actualizando el blog	</title>
+	<atom:link href="/trastero/actualizando-el-blog/feed/" rel="self" type="application/rss+xml" />
+	<link>/trastero/actualizando-el-blog/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=actualizando-el-blog</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Thu, 06 Feb 2014 22:58:28 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: karstiel		</title>
+		<link>/trastero/actualizando-el-blog/#comment-5534</link>
+
+		<dc:creator><![CDATA[karstiel]]></dc:creator>
+		<pubDate>Thu, 06 Feb 2014 22:58:28 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1349#comment-5534</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;/trastero/actualizando-el-blog/#comment-5533&quot;&gt;Drizzt&lt;/a&gt;.
+
+Yuju :D]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="/trastero/actualizando-el-blog/#comment-5533" data-wpel-link="internal">Drizzt</a>.</p>
+<p>Yuju :D</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/trastero/actualizando-el-blog/#comment-5533</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Thu, 06 Feb 2014 21:44:10 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1349#comment-5533</guid>
+
+					<description><![CDATA[Te &quot;offtopiquearemos&quot; las entradas no &quot;pro&quot;]]></description>
+			<content:encoded><![CDATA[<p>Te &#8220;offtopiquearemos&#8221; las entradas no &#8220;pro&#8221;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:28:32 by W3 Total Cache
+-->

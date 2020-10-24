@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Probando la nueva hornada de distros	</title>
+	<atom:link href="/sistemas-operativos/linux/probando-la-nueva-hornada-de-distros/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/linux/probando-la-nueva-hornada-de-distros/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=probando-la-nueva-hornada-de-distros</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 05:47:55 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/probando-la-nueva-hornada-de-distros/#comment-5101</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Fri, 06 Nov 2009 14:06:39 +0000</pubDate>
+		<guid isPermaLink="false">/2009/11/06/probando-la-nueva-hornada-de-distros/#comment-5101</guid>
+
+					<description><![CDATA[&lt;b&gt;@Disquete&lt;/b&gt;: Sí,esa misma comparativa y, ciertamente, he notado la diferencia de rendimiento en mi portatil.&lt;br /&gt;&lt;br /&gt;Sobre lo del Rhymthbox, creo que sí que lo pillaba, pero le tenía manía. El problema está por lo que he leído en el Banshee y se podía subsanar haciendo algo raro... pero bueno, al final mi sobremesa volvió a KDE, el buen KDE :D]]></description>
+			<content:encoded><![CDATA[<p><b>@Disquete</b>: Sí,esa misma comparativa y, ciertamente, he notado la diferencia de rendimiento en mi portatil.</p>
+<p>Sobre lo del Rhymthbox, creo que sí que lo pillaba, pero le tenía manía. El problema está por lo que he leído en el Banshee y se podía subsanar haciendo algo raro&#8230; pero bueno, al final mi sobremesa volvió a KDE, el buen KDE :D</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Disquete		</title>
+		<link>/sistemas-operativos/linux/probando-la-nueva-hornada-de-distros/#comment-5100</link>
+
+		<dc:creator><![CDATA[Disquete]]></dc:creator>
+		<pubDate>Fri, 06 Nov 2009 14:01:14 +0000</pubDate>
+		<guid isPermaLink="false">/2009/11/06/probando-la-nueva-hornada-de-distros/#comment-5100</guid>
+
+					<description><![CDATA[Se me olvidaba comentarlo: a mi Empathy me gusta, de hecho lo uso desde hace tiempo (más de un año) en lugar de pidgin.&lt;br /&gt;&lt;br /&gt;¿Y Rhymthbox no te ve el iPod?]]></description>
+			<content:encoded><![CDATA[<p>Se me olvidaba comentarlo: a mi Empathy me gusta, de hecho lo uso desde hace tiempo (más de un año) en lugar de pidgin.</p>
+<p>¿Y Rhymthbox no te ve el iPod?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Disquete		</title>
+		<link>/sistemas-operativos/linux/probando-la-nueva-hornada-de-distros/#comment-5099</link>
+
+		<dc:creator><![CDATA[Disquete]]></dc:creator>
+		<pubDate>Fri, 06 Nov 2009 13:42:51 +0000</pubDate>
+		<guid isPermaLink="false">/2009/11/06/probando-la-nueva-hornada-de-distros/#comment-5099</guid>
+
+					<description><![CDATA[La comparativa esa entre Ubuntu y Fedora es la de Phoronix, no? Yo todavía no me he actualizado a la 9.10, pero ando con la mosca tras la oreja por la aparente bajada de rendimiento en OpenGL.]]></description>
+			<content:encoded><![CDATA[<p>La comparativa esa entre Ubuntu y Fedora es la de Phoronix, no? Yo todavía no me he actualizado a la 9.10, pero ando con la mosca tras la oreja por la aparente bajada de rendimiento en OpenGL.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:22:56 by W3 Total Cache
+-->

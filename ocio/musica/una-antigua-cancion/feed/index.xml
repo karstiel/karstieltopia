@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Una antigua canción…	</title>
+	<atom:link href="/ocio/musica/una-antigua-cancion/feed/" rel="self" type="application/rss+xml" />
+	<link>/ocio/musica/una-antigua-cancion/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=una-antigua-cancion</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 20:04:30 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/ocio/musica/una-antigua-cancion/#comment-880</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Thu, 15 Mar 2007 13:41:53 +0000</pubDate>
+		<guid isPermaLink="false">/2007/03/15/una-antigua-cancion/#comment-880</guid>
+
+					<description><![CDATA[Qué aproveche ^^]]></description>
+			<content:encoded><![CDATA[<p>Qué aproveche ^^</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Darklady		</title>
+		<link>/ocio/musica/una-antigua-cancion/#comment-878</link>
+
+		<dc:creator><![CDATA[Darklady]]></dc:creator>
+		<pubDate>Thu, 15 Mar 2007 12:02:33 +0000</pubDate>
+		<guid isPermaLink="false">/2007/03/15/una-antigua-cancion/#comment-878</guid>
+
+					<description><![CDATA[el baile de máscaras va a comenzar,&lt;br /&gt;la vanal del mundo irreal.&lt;br /&gt;&lt;br /&gt;Ahí, ahí... Si yo soy de la misma opinión.&lt;br /&gt;Aunque he de reconocer que lo que de veras me ha cautivado es:&lt;br /&gt;&lt;br /&gt;Y bailaremos aquella canción de ajos,&lt;br /&gt;cebollas y jamón de york.&lt;br /&gt;&lt;br /&gt;Ale, pues ahora me voy a hacer la comida ^^]]></description>
+			<content:encoded><![CDATA[<p>el baile de máscaras va a comenzar,<br />la vanal del mundo irreal.</p>
+<p>Ahí, ahí&#8230; Si yo soy de la misma opinión.<br />Aunque he de reconocer que lo que de veras me ha cautivado es:</p>
+<p>Y bailaremos aquella canción de ajos,<br />cebollas y jamón de york.</p>
+<p>Ale, pues ahora me voy a hacer la comida ^^</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:38:09 by W3 Total Cache
+-->

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: A tomar ejemplo	</title>
+	<atom:link href="/trastero/a-tomar-ejemplo/feed/" rel="self" type="application/rss+xml" />
+	<link>/trastero/a-tomar-ejemplo/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=a-tomar-ejemplo</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Mon, 15 Feb 2016 14:49:22 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/trastero/a-tomar-ejemplo/#comment-419</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Sun, 31 Dec 2006 18:10:32 +0000</pubDate>
+		<guid isPermaLink="false">/2006/12/14/a-tomar-ejemplo/#comment-419</guid>
+
+					<description><![CDATA[Venga, me apunto al &quot;XDDD&quot; colectivo ;P]]></description>
+			<content:encoded><![CDATA[<p>Venga, me apunto al &#8220;XDDD&#8221; colectivo ;P</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Darklady		</title>
+		<link>/trastero/a-tomar-ejemplo/#comment-400</link>
+
+		<dc:creator><![CDATA[Darklady]]></dc:creator>
+		<pubDate>Sun, 31 Dec 2006 14:03:14 +0000</pubDate>
+		<guid isPermaLink="false">/2006/12/14/a-tomar-ejemplo/#comment-400</guid>
+
+					<description><![CDATA[Son japoneses... en serio, trasladar muchas cosas que suceden allí, aquí... uff... francamente cómido. Un &quot;XDDD&quot; colectivo ju ju juuu]]></description>
+			<content:encoded><![CDATA[<p>Son japoneses&#8230; en serio, trasladar muchas cosas que suceden allí, aquí&#8230; uff&#8230; francamente cómido. Un &#8220;XDDD&#8221; colectivo ju ju juuu</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 17:06:55 by W3 Total Cache
+-->

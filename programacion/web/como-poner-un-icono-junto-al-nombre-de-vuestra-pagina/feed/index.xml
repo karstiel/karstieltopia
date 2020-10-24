@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Como poner un icono junto al nombre de vuestra página	</title>
+	<atom:link href="/programacion/web/como-poner-un-icono-junto-al-nombre-de-vuestra-pagina/feed/" rel="self" type="application/rss+xml" />
+	<link>/programacion/web/como-poner-un-icono-junto-al-nombre-de-vuestra-pagina/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=como-poner-un-icono-junto-al-nombre-de-vuestra-pagina</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 23:16:16 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/web/como-poner-un-icono-junto-al-nombre-de-vuestra-pagina/#comment-4136</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Tue, 27 Jan 2009 01:33:52 +0000</pubDate>
+		<guid isPermaLink="false">/2007/01/20/como-poner-un-icono-junto-al-nombre-de-vuestra-pagina/#comment-4136</guid>
+
+					<description><![CDATA[Sobre lo primero. Hace mucho tiempo que no utilizo Dreamweaver, así que no te podría decir exactamente, pero el código tiene que ir entre las etiquetas HEAD. Supongo que tendrás alguna manera de ver el código o alguna opción para insertar código de cabecera.&lt;br /&gt;&lt;br /&gt;Y sobre lo segundo, no es necesario (puede ser cualquier ruta), pero es más que aconsejable que lo tengas en tu dominio, no sea que te lo borren.]]></description>
+			<content:encoded><![CDATA[<p>Sobre lo primero. Hace mucho tiempo que no utilizo Dreamweaver, así que no te podría decir exactamente, pero el código tiene que ir entre las etiquetas HEAD. Supongo que tendrás alguna manera de ver el código o alguna opción para insertar código de cabecera.</p>
+<p>Y sobre lo segundo, no es necesario (puede ser cualquier ruta), pero es más que aconsejable que lo tengas en tu dominio, no sea que te lo borren.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: kometa		</title>
+		<link>/programacion/web/como-poner-un-icono-junto-al-nombre-de-vuestra-pagina/#comment-4134</link>
+
+		<dc:creator><![CDATA[kometa]]></dc:creator>
+		<pubDate>Sun, 25 Jan 2009 21:35:45 +0000</pubDate>
+		<guid isPermaLink="false">/2007/01/20/como-poner-un-icono-junto-al-nombre-de-vuestra-pagina/#comment-4134</guid>
+
+					<description><![CDATA[Y ahora os toca buscar el head de vuestra página / blog y ahí añadir el siguiente código:&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;esto no lo entiendo bien, se añade esta línea al final mismamente, yo suelo hacer mi web con el dreamweaver y sin códigos, sino como un word&lt;br /&gt;otra cosa supongo que tendré que subir la pequeña imagen en mi directorio donde tenga las imágenes verdád? GRACIAS&lt;br /&gt;por si no me llega la contestación, os agradecería me la mandaran al mail]]></description>
+			<content:encoded><![CDATA[<p>Y ahora os toca buscar el head de vuestra página / blog y ahí añadir el siguiente código:</p>
+<p>esto no lo entiendo bien, se añade esta línea al final mismamente, yo suelo hacer mi web con el dreamweaver y sin códigos, sino como un word<br />otra cosa supongo que tendré que subir la pequeña imagen en mi directorio donde tenga las imágenes verdád? GRACIAS<br />por si no me llega la contestación, os agradecería me la mandaran al mail</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/web/como-poner-un-icono-junto-al-nombre-de-vuestra-pagina/#comment-3582</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Wed, 27 Aug 2008 01:34:39 +0000</pubDate>
+		<guid isPermaLink="false">/2007/01/20/como-poner-un-icono-junto-al-nombre-de-vuestra-pagina/#comment-3582</guid>
+
+					<description><![CDATA[A ver si te funciona ;)]]></description>
+			<content:encoded><![CDATA[<p>A ver si te funciona ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Lau		</title>
+		<link>/programacion/web/como-poner-un-icono-junto-al-nombre-de-vuestra-pagina/#comment-3576</link>
+
+		<dc:creator><![CDATA[Lau]]></dc:creator>
+		<pubDate>Tue, 26 Aug 2008 12:48:37 +0000</pubDate>
+		<guid isPermaLink="false">/2007/01/20/como-poner-un-icono-junto-al-nombre-de-vuestra-pagina/#comment-3576</guid>
+
+					<description><![CDATA[Muchas gracias por la explicación, voy a probarlo!!!]]></description>
+			<content:encoded><![CDATA[<p>Muchas gracias por la explicación, voy a probarlo!!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/web/como-poner-un-icono-junto-al-nombre-de-vuestra-pagina/#comment-558</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Mon, 22 Jan 2007 10:06:37 +0000</pubDate>
+		<guid isPermaLink="false">/2007/01/20/como-poner-un-icono-junto-al-nombre-de-vuestra-pagina/#comment-558</guid>
+
+					<description><![CDATA[Errr... sé que me mataréis, pero en mi opinión, el lenguaje de marcas es de lo peor del mundo mundial... ¬.¬]]></description>
+			<content:encoded><![CDATA[<p>Errr&#8230; sé que me mataréis, pero en mi opinión, el lenguaje de marcas es de lo peor del mundo mundial&#8230; ¬.¬</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Erzsebet		</title>
+		<link>/programacion/web/como-poner-un-icono-junto-al-nombre-de-vuestra-pagina/#comment-556</link>
+
+		<dc:creator><![CDATA[Erzsebet]]></dc:creator>
+		<pubDate>Mon, 22 Jan 2007 08:49:25 +0000</pubDate>
+		<guid isPermaLink="false">/2007/01/20/como-poner-un-icono-junto-al-nombre-de-vuestra-pagina/#comment-556</guid>
+
+					<description><![CDATA[Ya, el HTML será todo lo tonto que quieras pero es básico, aunque hay que actualizarse.. XHTML rlz!!]]></description>
+			<content:encoded><![CDATA[<p>Ya, el HTML será todo lo tonto que quieras pero es básico, aunque hay que actualizarse.. XHTML rlz!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Darklady		</title>
+		<link>/programacion/web/como-poner-un-icono-junto-al-nombre-de-vuestra-pagina/#comment-553</link>
+
+		<dc:creator><![CDATA[Darklady]]></dc:creator>
+		<pubDate>Sun, 21 Jan 2007 14:47:59 +0000</pubDate>
+		<guid isPermaLink="false">/2007/01/20/como-poner-un-icono-junto-al-nombre-de-vuestra-pagina/#comment-553</guid>
+
+					<description><![CDATA[¿Ves? ¿Ves para qué sirve saber html? Para saber dónde está el /head XDDD Le daré las gracias a mi profesor de informática. A ver si le puedo dar uso a esto cuando tenga tiempo que... estoy un poquito liada, para variar *sigh*.&lt;br /&gt;  Y como dentro de poco ya tendré una página de traducciones bonitas, puesssssssssss pondré ahí una imagen bonita bonita en tu sección de links. ^_^]]></description>
+			<content:encoded><![CDATA[<p>¿Ves? ¿Ves para qué sirve saber html? Para saber dónde está el /head XDDD Le daré las gracias a mi profesor de informática. A ver si le puedo dar uso a esto cuando tenga tiempo que&#8230; estoy un poquito liada, para variar *sigh*.<br />  Y como dentro de poco ya tendré una página de traducciones bonitas, puesssssssssss pondré ahí una imagen bonita bonita en tu sección de links. ^_^</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:41:01 by W3 Total Cache
+-->

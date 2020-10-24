@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Conectando a Internet con Yoigo	</title>
+	<atom:link href="/sistemas-operativos/linux/conectando-a-internet-con-yoigo/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/linux/conectando-a-internet-con-yoigo/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=conectando-a-internet-con-yoigo</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 23:16:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: moeblog » Conectarse a internet a través del movil y bluetooth (yoigo)		</title>
+		<link>/sistemas-operativos/linux/conectando-a-internet-con-yoigo/#comment-2673</link>
+
+		<dc:creator><![CDATA[moeblog » Conectarse a internet a través del movil y bluetooth (yoigo)]]></dc:creator>
+		<pubDate>Fri, 14 Mar 2008 01:47:01 +0000</pubDate>
+		<guid isPermaLink="false">/2007/10/30/conectando-a-internet-con-yoigo/#comment-2673</guid>
+
+					<description><![CDATA[[...] Conectarse a internet a través del movil y bluetooth (yoigo) Post-nota mental antes de marcharme para que no se me olvide. Una muy buena explicación: http://www.pongaunagujeronegroensuvida.es/2007/10/30/conectando-a-internet-con-yoigo/ [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Conectarse a internet a través del movil y bluetooth (yoigo) Post-nota mental antes de marcharme para que no se me olvide. Una muy buena explicación: <a href="http://www.pongaunagujeronegroensuvida.es/2007/10/30/conectando-a-internet-con-yoigo/" rel="nofollow ugc external noopener noreferrer" data-wpel-link="external" target="_blank" class="ext-link">http://www.pongaunagujeronegroensuvida.es/2007/10/30/conectando-a-internet-con-yoigo/</a> [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/conectando-a-internet-con-yoigo/#comment-2028</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Tue, 30 Oct 2007 21:13:20 +0000</pubDate>
+		<guid isPermaLink="false">/2007/10/30/conectando-a-internet-con-yoigo/#comment-2028</guid>
+
+					<description><![CDATA[Sep, kilobytes...&lt;br /&gt;&lt;br /&gt;Pues no lo sé... es que hasta que no llegue a Madrid no tendré una conexión UMTS, con lo que no le he dado uso en Ponferrada... Pero no te preocupes que en breves hago una review del &quot;éxito&quot; obtenido :D&lt;br /&gt;&lt;br /&gt;Pues con el GPRS tendrías... más o menos el doble de un modem normal... Eso sí, tarifa plana diaria y, si no lo usas, no pagarías ese 1.2€ del día.]]></description>
+			<content:encoded><![CDATA[<p>Sep, kilobytes&#8230;</p>
+<p>Pues no lo sé&#8230; es que hasta que no llegue a Madrid no tendré una conexión UMTS, con lo que no le he dado uso en Ponferrada&#8230; Pero no te preocupes que en breves hago una review del &#8220;éxito&#8221; obtenido :D</p>
+<p>Pues con el GPRS tendrías&#8230; más o menos el doble de un modem normal&#8230; Eso sí, tarifa plana diaria y, si no lo usas, no pagarías ese 1.2€ del día.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/sistemas-operativos/linux/conectando-a-internet-con-yoigo/#comment-2027</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Tue, 30 Oct 2007 20:33:26 +0000</pubDate>
+		<guid isPermaLink="false">/2007/10/30/conectando-a-internet-con-yoigo/#comment-2027</guid>
+
+					<description><![CDATA[BlackHole = (1.2 x 30) + 16% = 40E/mes por 8KB/s bajada (Son kilobytes no?, no kilobits o Kbaudios?)&lt;br /&gt;&lt;br /&gt;Yo = 16 + 16% = 18E/mes por 3.5KB/s maximo, con cortes de la línea si lo dejas enchufado muchas horas y restrigido a horario 18:00-8:00 + findes ...&lt;br /&gt;&lt;br /&gt;Pues si permiten una conexion estable durante... pongamos 6h y a esa velocidad... MUY INTERESANTE... hmmmm, es para pensárselo.&lt;br /&gt;&lt;br /&gt;Yo tengo un K700i libre que es GPRS (no 3G)...&lt;br /&gt;&lt;br /&gt;¿Capan puertos P2P?]]></description>
+			<content:encoded><![CDATA[<p>BlackHole = (1.2 x 30) + 16% = 40E/mes por 8KB/s bajada (Son kilobytes no?, no kilobits o Kbaudios?)</p>
+<p>Yo = 16 + 16% = 18E/mes por 3.5KB/s maximo, con cortes de la línea si lo dejas enchufado muchas horas y restrigido a horario 18:00-8:00 + findes &#8230;</p>
+<p>Pues si permiten una conexion estable durante&#8230; pongamos 6h y a esa velocidad&#8230; MUY INTERESANTE&#8230; hmmmm, es para pensárselo.</p>
+<p>Yo tengo un K700i libre que es GPRS (no 3G)&#8230;</p>
+<p>¿Capan puertos P2P?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/conectando-a-internet-con-yoigo/#comment-2026</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Tue, 30 Oct 2007 17:29:31 +0000</pubDate>
+		<guid isPermaLink="false">/2007/10/30/conectando-a-internet-con-yoigo/#comment-2026</guid>
+
+					<description><![CDATA[Jejeje... Veamos, el GPRS es tirando a lentillo, cosa de uno 7-10Kbytes de bajada. Pero es que en Madrid, Yoigo tiene una cobertura 3G, que da a ojo unos 30 de bajada (pero muy a ojo)&lt;br /&gt;&lt;br /&gt;Y de los planes de precios pues depende con quien vayas. Tanto los azules, como rojos como naranjas tienen ya modems usb para conectar al ordenador, pero sus tarifas de precios depende de lo que te bajes en su mayoría, cobrándote más o bajándote la velocidad luego.&lt;br /&gt;&lt;br /&gt;Por su parte Yoigo no tiene modems, con lo que tienes que arreglarte con el móvil (que tienen un modem interno casi todos). Su tarifa es única y es un máximo 1.2€ + IVA al día, es decir, que por lo menos hasta que tenga conexión por adsl, sale bastante bien.]]></description>
+			<content:encoded><![CDATA[<p>Jejeje&#8230; Veamos, el GPRS es tirando a lentillo, cosa de uno 7-10Kbytes de bajada. Pero es que en Madrid, Yoigo tiene una cobertura 3G, que da a ojo unos 30 de bajada (pero muy a ojo)</p>
+<p>Y de los planes de precios pues depende con quien vayas. Tanto los azules, como rojos como naranjas tienen ya modems usb para conectar al ordenador, pero sus tarifas de precios depende de lo que te bajes en su mayoría, cobrándote más o bajándote la velocidad luego.</p>
+<p>Por su parte Yoigo no tiene modems, con lo que tienes que arreglarte con el móvil (que tienen un modem interno casi todos). Su tarifa es única y es un máximo 1.2€ + IVA al día, es decir, que por lo menos hasta que tenga conexión por adsl, sale bastante bien.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Oscar		</title>
+		<link>/sistemas-operativos/linux/conectando-a-internet-con-yoigo/#comment-2025</link>
+
+		<dc:creator><![CDATA[Oscar]]></dc:creator>
+		<pubDate>Tue, 30 Oct 2007 15:48:02 +0000</pubDate>
+		<guid isPermaLink="false">/2007/10/30/conectando-a-internet-con-yoigo/#comment-2025</guid>
+
+					<description><![CDATA[Yo no estoy muy puesto en eso del GPRS. ¿Cuánto ancho de banda da? ¿es estable? ¿es caro? ¿cómo tarifican (tarifa plana, tanto por segundo...)?&lt;br /&gt;&lt;br /&gt;Fíjate, y nos reíamos de la primera peli de Misión Imposible, cuando el negro accedía a la red desde su portátil mediante el teléfono móvil porque era una auténtica fantasmada...&lt;br /&gt;&lt;br /&gt;Ayyyysss, también se rieron de Julio Verne... :-P]]></description>
+			<content:encoded><![CDATA[<p>Yo no estoy muy puesto en eso del GPRS. ¿Cuánto ancho de banda da? ¿es estable? ¿es caro? ¿cómo tarifican (tarifa plana, tanto por segundo&#8230;)?</p>
+<p>Fíjate, y nos reíamos de la primera peli de Misión Imposible, cuando el negro accedía a la red desde su portátil mediante el teléfono móvil porque era una auténtica fantasmada&#8230;</p>
+<p>Ayyyysss, también se rieron de Julio Verne&#8230; :-P</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/conectando-a-internet-con-yoigo/#comment-2024</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Tue, 30 Oct 2007 13:28:04 +0000</pubDate>
+		<guid isPermaLink="false">/2007/10/30/conectando-a-internet-con-yoigo/#comment-2024</guid>
+
+					<description><![CDATA[Cachis, entonces nada :/&lt;br /&gt;&lt;br /&gt;La verdad es que de esas cosas no estoy muy puesto :S Como mi portatil no admite juegos nuevos en ningún SO pues... lo he dejado un poco de lado :/]]></description>
+			<content:encoded><![CDATA[<p>Cachis, entonces nada :/</p>
+<p>La verdad es que de esas cosas no estoy muy puesto :S Como mi portatil no admite juegos nuevos en ningún SO pues&#8230; lo he dejado un poco de lado :/</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/sistemas-operativos/linux/conectando-a-internet-con-yoigo/#comment-2023</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Tue, 30 Oct 2007 13:06:07 +0000</pubDate>
+		<guid isPermaLink="false">/2007/10/30/conectando-a-internet-con-yoigo/#comment-2023</guid>
+
+					<description><![CDATA[Si, ya lo probe, era:&lt;br /&gt;mks.enable3d= &quot;TRUE&quot;&lt;br /&gt;y asignarle 128MB maximo en otro parametro (de este no me acuerdo) para la VRAM, pero nada.&lt;br /&gt;&lt;br /&gt;Eso sólo parece funcionar con Linux como host y virtualizando un XP como guest. Aun así solo debe traducir hasta ShaderModel 2.0 de las DirectX, porque por mas que les pese a los Linuxeros, las SM3.0 del DX estan muuuuy por encima de lo que ofrece OpenGL...]]></description>
+			<content:encoded><![CDATA[<p>Si, ya lo probe, era:<br />mks.enable3d= &#8220;TRUE&#8221;<br />y asignarle 128MB maximo en otro parametro (de este no me acuerdo) para la VRAM, pero nada.</p>
+<p>Eso sólo parece funcionar con Linux como host y virtualizando un XP como guest. Aun así solo debe traducir hasta ShaderModel 2.0 de las DirectX, porque por mas que les pese a los Linuxeros, las SM3.0 del DX estan muuuuy por encima de lo que ofrece OpenGL&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/conectando-a-internet-con-yoigo/#comment-2022</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Tue, 30 Oct 2007 11:54:32 +0000</pubDate>
+		<guid isPermaLink="false">/2007/10/30/conectando-a-internet-con-yoigo/#comment-2022</guid>
+
+					<description><![CDATA[1. Desde Julio O_O Pardiez, si que te tienen desde hace tiempo :/&lt;br /&gt;&lt;br /&gt;De todas, todas... Dentro de unos días volveré a publicar algo diciendo que tal va de verdad... porque ahora solo fue una conexión por gprs (en Ponferrada es lo que hay xD) y sin muchas pruebas. Eso sí, píllate otro teléfono, porque ese LG es un horror para conectarte :S&lt;br /&gt;&lt;br /&gt;2. Si es que somos unos machotes de cuidado :P&lt;br /&gt;&lt;br /&gt;3. Bueno... y en Windows no lo he conseguido todaví!! :P Pero te digo a la par, que si ponía mi Sony Ericsson en Windows enchufado, lo hacía todo al instante... Si es que casi todo es culpa de la caca de móvil que es ese :/&lt;br /&gt;&lt;br /&gt;Pooor cierto, había un parámetro en VMware (no me preguntes cual) que tenía algo para aceleración gráfica (creo que lo vi hace mucho en Kriptopolis, pero no estoy seguro)... quizás echándole un vistazo... :D]]></description>
+			<content:encoded><![CDATA[<p>1. Desde Julio O_O Pardiez, si que te tienen desde hace tiempo :/</p>
+<p>De todas, todas&#8230; Dentro de unos días volveré a publicar algo diciendo que tal va de verdad&#8230; porque ahora solo fue una conexión por gprs (en Ponferrada es lo que hay xD) y sin muchas pruebas. Eso sí, píllate otro teléfono, porque ese LG es un horror para conectarte :S</p>
+<p>2. Si es que somos unos machotes de cuidado :P</p>
+<p>3. Bueno&#8230; y en Windows no lo he conseguido todaví!! :P Pero te digo a la par, que si ponía mi Sony Ericsson en Windows enchufado, lo hacía todo al instante&#8230; Si es que casi todo es culpa de la caca de móvil que es ese :/</p>
+<p>Pooor cierto, había un parámetro en VMware (no me preguntes cual) que tenía algo para aceleración gráfica (creo que lo vi hace mucho en Kriptopolis, pero no estoy seguro)&#8230; quizás echándole un vistazo&#8230; :D</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/sistemas-operativos/linux/conectando-a-internet-con-yoigo/#comment-2021</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Tue, 30 Oct 2007 10:16:04 +0000</pubDate>
+		<guid isPermaLink="false">/2007/10/30/conectando-a-internet-con-yoigo/#comment-2021</guid>
+
+					<description><![CDATA[Y hay que hacer todo eso????&lt;br /&gt;&lt;br /&gt;Yo probe la Kubuntu, no reconocía el USB 56k, ergo no habia apt-get = no habia acelaracion 3D = pase de Kubuntu.&lt;br /&gt;&lt;br /&gt;Ahora tengo Kubuntu virtualizada gracias a VMware con módulos de kernel paravirtualizados (creo que se dice así) tirando del soporte para virtualización por hardware que trae la CPU.&lt;br /&gt;La VM la he creado con un solo core y 512RAM y con red &quot;virtual&quot; por NAT. Va bastante rápido = no hay motivo para instalarla &quot;físicamente&quot; ^^U.&lt;br /&gt;&lt;br /&gt;Pero sigo sin 3D en la Kubuntu...]]></description>
+			<content:encoded><![CDATA[<p>Y hay que hacer todo eso????</p>
+<p>Yo probe la Kubuntu, no reconocía el USB 56k, ergo no habia apt-get = no habia acelaracion 3D = pase de Kubuntu.</p>
+<p>Ahora tengo Kubuntu virtualizada gracias a VMware con módulos de kernel paravirtualizados (creo que se dice así) tirando del soporte para virtualización por hardware que trae la CPU.<br />La VM la he creado con un solo core y 512RAM y con red &#8220;virtual&#8221; por NAT. Va bastante rápido = no hay motivo para instalarla &#8220;físicamente&#8221; ^^U.</p>
+<p>Pero sigo sin 3D en la Kubuntu&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ucedaman		</title>
+		<link>/sistemas-operativos/linux/conectando-a-internet-con-yoigo/#comment-2020</link>
+
+		<dc:creator><![CDATA[Ucedaman]]></dc:creator>
+		<pubDate>Tue, 30 Oct 2007 09:52:42 +0000</pubDate>
+		<guid isPermaLink="false">/2007/10/30/conectando-a-internet-con-yoigo/#comment-2020</guid>
+
+					<description><![CDATA[Pues yo el otro día me instalé un juego sin ayuda de nadie...&lt;br /&gt;&lt;br /&gt;Tenemos la informática dominada :D]]></description>
+			<content:encoded><![CDATA[<p>Pues yo el otro día me instalé un juego sin ayuda de nadie&#8230;</p>
+<p>Tenemos la informática dominada :D</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:28:27 by W3 Total Cache
+-->

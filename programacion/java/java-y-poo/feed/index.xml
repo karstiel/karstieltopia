@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Java y POO	</title>
+	<atom:link href="/programacion/java/java-y-poo/feed/" rel="self" type="application/rss+xml" />
+	<link>/programacion/java/java-y-poo/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=java-y-poo</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Mon, 22 Feb 2016 05:56:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Herencia y jerarquía - Karstieltopia Karstieltopia		</title>
+		<link>/programacion/java/java-y-poo/#comment-28580</link>
+
+		<dc:creator><![CDATA[Herencia y jerarquía - Karstieltopia Karstieltopia]]></dc:creator>
+		<pubDate>Mon, 22 Feb 2016 05:56:06 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2309#comment-28580</guid>
+
+					<description><![CDATA[[&#8230;] hemos visto que son las clases (aquí) y también hemos visto algunos detalles sobre la clase String usando ejemplos (aquí) pero hay [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] hemos visto que son las clases (aquí) y también hemos visto algunos detalles sobre la clase String usando ejemplos (aquí) pero hay [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: ¿Qué es un String en Java? - Karstieltopia Karstieltopia		</title>
+		<link>/programacion/java/java-y-poo/#comment-28579</link>
+
+		<dc:creator><![CDATA[¿Qué es un String en Java? - Karstieltopia Karstieltopia]]></dc:creator>
+		<pubDate>Mon, 22 Feb 2016 05:38:44 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2309#comment-28579</guid>
+
+					<description><![CDATA[[&#8230;] os comenté anteriormente en esta entrada, podemos crear un objeto de la siguiente [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] os comenté anteriormente en esta entrada, podemos crear un objeto de la siguiente [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:31:17 by W3 Total Cache
+-->

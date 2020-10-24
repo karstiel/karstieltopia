@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: ¡Ya tengo ordenador!	</title>
+	<atom:link href="/trastero/ya-tengo-ordenador/feed/" rel="self" type="application/rss+xml" />
+	<link>/trastero/ya-tengo-ordenador/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ya-tengo-ordenador</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Tue, 28 Oct 2008 01:24:38 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/trastero/ya-tengo-ordenador/#comment-3868</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Tue, 28 Oct 2008 01:24:38 +0000</pubDate>
+		<guid isPermaLink="false">/2008/10/27/ya-tengo-ordenador/#comment-3868</guid>
+
+					<description><![CDATA[Uala, mañana mismo lo pruebo, a ver que tal :D&lt;br /&gt;&lt;br /&gt;Graciñas!!! ;)]]></description>
+			<content:encoded><![CDATA[<p>Uala, mañana mismo lo pruebo, a ver que tal :D</p>
+<p>Graciñas!!! ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/trastero/ya-tengo-ordenador/#comment-3867</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Tue, 28 Oct 2008 01:07:28 +0000</pubDate>
+		<guid isPermaLink="false">/2008/10/27/ya-tengo-ordenador/#comment-3867</guid>
+
+					<description><![CDATA[Lo veo jugable, mejor que el mio XDDD.&lt;br /&gt;&lt;br /&gt;Añade estas lineas (si usas XP y por ende DX) para desbloquear cosas de DX10 q casi no merman rendimiento y le dan realisno):&lt;br /&gt;&lt;br /&gt;X:\...\Electronic Arts\Crytek\Crysis\Game\Config\singleplayer.cfg&lt;br /&gt;&lt;br /&gt;y añades:&lt;br /&gt;&lt;br /&gt;r_sunshafts=1&lt;br /&gt;&lt;br /&gt;Yo además tengo esto (para instanciar cosas en la RAM al cargar una pantalla ni no en real time):&lt;br /&gt;&lt;br /&gt;e_hw_occlusion_culling_object=1&lt;br /&gt;e_precache_level=1&lt;br /&gt;r_SSAO=0&lt;br /&gt;r_UsePOM=0]]></description>
+			<content:encoded><![CDATA[<p>Lo veo jugable, mejor que el mio XDDD.</p>
+<p>Añade estas lineas (si usas XP y por ende DX) para desbloquear cosas de DX10 q casi no merman rendimiento y le dan realisno):</p>
+<p>X:\&#8230;\Electronic Arts\Crytek\Crysis\Game\Config\singleplayer.cfg</p>
+<p>y añades:</p>
+<p>r_sunshafts=1</p>
+<p>Yo además tengo esto (para instanciar cosas en la RAM al cargar una pantalla ni no en real time):</p>
+<p>e_hw_occlusion_culling_object=1<br />e_precache_level=1<br />r_SSAO=0<br />r_UsePOM=0</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/trastero/ya-tengo-ordenador/#comment-3865</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Tue, 28 Oct 2008 00:11:10 +0000</pubDate>
+		<guid isPermaLink="false">/2008/10/27/ya-tengo-ordenador/#comment-3865</guid>
+
+					<description><![CDATA[Pues veamos, a 1680x1050, modo ¿jugador? y sincronía con el monitor, oscila entre los 38 hasta los 50 fps... ¿qué tal lo ves?]]></description>
+			<content:encoded><![CDATA[<p>Pues veamos, a 1680&#215;1050, modo ¿jugador? y sincronía con el monitor, oscila entre los 38 hasta los 50 fps&#8230; ¿qué tal lo ves?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/trastero/ya-tengo-ordenador/#comment-3863</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Mon, 27 Oct 2008 11:45:52 +0000</pubDate>
+		<guid isPermaLink="false">/2008/10/27/ya-tengo-ordenador/#comment-3863</guid>
+
+					<description><![CDATA[Me suena que lo comente, TX=gama media y no es modular (= manojo de cables dentro de la caja a la antigua usanza), por eso decia la HX620W, no obstante es un buen bicho ;).&lt;br /&gt;&lt;br /&gt;Pues lo del otro cable se me pasó decirtelo. Es la alimentacion de CPU, de hecho, aunque es gama media, podría llevar 2 tomas de esas (la fuente, no la placa) mas pequeñas de 4 o 6 pines (ya no recuerdo) para sistemas multi-CPU.&lt;br /&gt;&lt;br /&gt;Debes poner un XP y hacer la prueba de fuego: CRYSIS/CRYSIS WARHEAD! XDDD&lt;br /&gt;Te metes en la consola con &quot;º&quot; y escribes &quot;r_displayinfo 1&quot; y a ver esos fps, que es un tarjeton]]></description>
+			<content:encoded><![CDATA[<p>Me suena que lo comente, TX=gama media y no es modular (= manojo de cables dentro de la caja a la antigua usanza), por eso decia la HX620W, no obstante es un buen bicho ;).</p>
+<p>Pues lo del otro cable se me pasó decirtelo. Es la alimentacion de CPU, de hecho, aunque es gama media, podría llevar 2 tomas de esas (la fuente, no la placa) mas pequeñas de 4 o 6 pines (ya no recuerdo) para sistemas multi-CPU.</p>
+<p>Debes poner un XP y hacer la prueba de fuego: CRYSIS/CRYSIS WARHEAD! XDDD<br />Te metes en la consola con &#8220;º&#8221; y escribes &#8220;r_displayinfo 1&#8221; y a ver esos fps, que es un tarjeton</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/trastero/ya-tengo-ordenador/#comment-3862</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Mon, 27 Oct 2008 11:06:52 +0000</pubDate>
+		<guid isPermaLink="false">/2008/10/27/ya-tengo-ordenador/#comment-3862</guid>
+
+					<description><![CDATA[1. Juas, casi igual salvo por lo de Ubuntu, que todavía estoy pensando que poner...&lt;br /&gt;&lt;br /&gt;2. Pues la fuente de alimentación fue una Corsair 650W TX y la caja fue una barata (la que tu me recomendabas era la leche en todos los sentidos :P), concretamente una Aerocool i-curve con lcd (eso sí, sin enchufar xD)]]></description>
+			<content:encoded><![CDATA[<p>1. Juas, casi igual salvo por lo de Ubuntu, que todavía estoy pensando que poner&#8230;</p>
+<p>2. Pues la fuente de alimentación fue una Corsair 650W TX y la caja fue una barata (la que tu me recomendabas era la leche en todos los sentidos :P), concretamente una Aerocool i-curve con lcd (eso sí, sin enchufar xD)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/trastero/ya-tengo-ordenador/#comment-3860</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Mon, 27 Oct 2008 10:06:01 +0000</pubDate>
+		<guid isPermaLink="false">/2008/10/27/ya-tengo-ordenador/#comment-3860</guid>
+
+					<description><![CDATA[¿Que caja y que fuente al final le metiste?]]></description>
+			<content:encoded><![CDATA[<p>¿Que caja y que fuente al final le metiste?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ucedaman		</title>
+		<link>/trastero/ya-tengo-ordenador/#comment-3858</link>
+
+		<dc:creator><![CDATA[Ucedaman]]></dc:creator>
+		<pubDate>Mon, 27 Oct 2008 09:18:11 +0000</pubDate>
+		<guid isPermaLink="false">/2008/10/27/ya-tengo-ordenador/#comment-3858</guid>
+
+					<description><![CDATA[Ya te imagino en casa:&lt;br /&gt;&lt;i&gt;Bueno amigos,  mientras se instala Ubuntu...Vamos a ver un briconsejo de jardinería.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;;)]]></description>
+			<content:encoded><![CDATA[<p>Ya te imagino en casa:<br /><i>Bueno amigos,  mientras se instala Ubuntu&#8230;Vamos a ver un briconsejo de jardinería.</i></p>
+<p>;)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:50:52 by W3 Total Cache
+-->

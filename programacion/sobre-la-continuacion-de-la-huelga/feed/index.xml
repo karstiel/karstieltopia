@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Sobre la continuación de la huelga	</title>
+	<atom:link href="/programacion/sobre-la-continuacion-de-la-huelga/feed/" rel="self" type="application/rss+xml" />
+	<link>/programacion/sobre-la-continuacion-de-la-huelga/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sobre-la-continuacion-de-la-huelga</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Tue, 25 Nov 2008 03:24:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/sobre-la-continuacion-de-la-huelga/#comment-3938</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Tue, 25 Nov 2008 03:24:09 +0000</pubDate>
+		<guid isPermaLink="false">/2008/11/24/sobre-la-continuacion-de-la-huelga/#comment-3938</guid>
+
+					<description><![CDATA[Lo sé :P]]></description>
+			<content:encoded><![CDATA[<p>Lo sé :P</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Erzsebet		</title>
+		<link>/programacion/sobre-la-continuacion-de-la-huelga/#comment-3937</link>
+
+		<dc:creator><![CDATA[Erzsebet]]></dc:creator>
+		<pubDate>Mon, 24 Nov 2008 10:26:09 +0000</pubDate>
+		<guid isPermaLink="false">/2008/11/24/sobre-la-continuacion-de-la-huelga/#comment-3937</guid>
+
+					<description><![CDATA[No se me ocurre más que esto: tienes razón :P]]></description>
+			<content:encoded><![CDATA[<p>No se me ocurre más que esto: tienes razón :P</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:20:26 by W3 Total Cache
+-->

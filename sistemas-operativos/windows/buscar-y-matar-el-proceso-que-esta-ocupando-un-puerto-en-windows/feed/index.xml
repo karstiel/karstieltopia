@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Buscar y matar el proceso que está ocupando un puerto en Windows	</title>
+	<atom:link href="/sistemas-operativos/windows/buscar-y-matar-el-proceso-que-esta-ocupando-un-puerto-en-windows/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/windows/buscar-y-matar-el-proceso-que-esta-ocupando-un-puerto-en-windows/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=buscar-y-matar-el-proceso-que-esta-ocupando-un-puerto-en-windows</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sun, 16 Feb 2014 17:58:02 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: karstiel		</title>
+		<link>/sistemas-operativos/windows/buscar-y-matar-el-proceso-que-esta-ocupando-un-puerto-en-windows/#comment-5539</link>
+
+		<dc:creator><![CDATA[karstiel]]></dc:creator>
+		<pubDate>Sun, 16 Feb 2014 17:58:02 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1369#comment-5539</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;/sistemas-operativos/windows/buscar-y-matar-el-proceso-que-esta-ocupando-un-puerto-en-windows/#comment-5538&quot;&gt;Drizzt&lt;/a&gt;.
+
+Yo también me quedé ojiplático]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="/sistemas-operativos/windows/buscar-y-matar-el-proceso-que-esta-ocupando-un-puerto-en-windows/#comment-5538" data-wpel-link="internal">Drizzt</a>.</p>
+<p>Yo también me quedé ojiplático</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/sistemas-operativos/windows/buscar-y-matar-el-proceso-que-esta-ocupando-un-puerto-en-windows/#comment-5538</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Sat, 15 Feb 2014 16:00:46 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1369#comment-5538</guid>
+
+					<description><![CDATA[Anda... ¡Windows tenía &quot;grep&quot;!!!! Esa me la apunto]]></description>
+			<content:encoded><![CDATA[<p>Anda&#8230; ¡Windows tenía &#8220;grep&#8221;!!!! Esa me la apunto</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:52:31 by W3 Total Cache
+-->

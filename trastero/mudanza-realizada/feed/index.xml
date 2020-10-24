@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Mudanza realizada	</title>
+	<atom:link href="/trastero/mudanza-realizada/feed/" rel="self" type="application/rss+xml" />
+	<link>/trastero/mudanza-realizada/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mudanza-realizada</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Mon, 11 Dec 2006 20:13:05 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/trastero/mudanza-realizada/#comment-219</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Mon, 11 Dec 2006 20:13:05 +0000</pubDate>
+		<guid isPermaLink="false">/2006/12/11/mudanza-realizada/#comment-219</guid>
+
+					<description><![CDATA[Pues sí señorita, ha sido la primera en saludar a este nuevo antro ^^&lt;br /&gt;&lt;br /&gt;Espero que la alquimia vaya bien ;)]]></description>
+			<content:encoded><![CDATA[<p>Pues sí señorita, ha sido la primera en saludar a este nuevo antro ^^</p>
+<p>Espero que la alquimia vaya bien ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: EGO		</title>
+		<link>/trastero/mudanza-realizada/#comment-218</link>
+
+		<dc:creator><![CDATA[EGO]]></dc:creator>
+		<pubDate>Mon, 11 Dec 2006 19:29:03 +0000</pubDate>
+		<guid isPermaLink="false">/2006/12/11/mudanza-realizada/#comment-218</guid>
+
+					<description><![CDATA[Soy la primera en comentar!!! ^_^Y&lt;br /&gt;Pues nada... mmm... que me paso por aquí a saludar - que estoy haciendo alquimia y robo el ordenador a mi compañera de piso, ju  ju.]]></description>
+			<content:encoded><![CDATA[<p>Soy la primera en comentar!!! ^_^Y<br />Pues nada&#8230; mmm&#8230; que me paso por aquí a saludar &#8211; que estoy haciendo alquimia y robo el ordenador a mi compañera de piso, ju  ju.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:31:27 by W3 Total Cache
+-->

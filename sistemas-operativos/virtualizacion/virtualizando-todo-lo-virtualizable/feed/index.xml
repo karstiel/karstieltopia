@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Virtualizando todo lo virtualizable	</title>
+	<atom:link href="/sistemas-operativos/virtualizacion/virtualizando-todo-lo-virtualizable/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/virtualizacion/virtualizando-todo-lo-virtualizable/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=virtualizando-todo-lo-virtualizable</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 16:01:11 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/virtualizacion/virtualizando-todo-lo-virtualizable/#comment-4250</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Sun, 01 Mar 2009 13:41:02 +0000</pubDate>
+		<guid isPermaLink="false">/2009/02/26/virtualizando-todo-lo-virtualizable/#comment-4250</guid>
+
+					<description><![CDATA[1. Hmmm, hombre, ciertamente la arquitectura central se complica un poco, pero se abarata con la simplificación de los terminales &quot;tontos&quot; y el no tener que actualizarlos a menudo. Así mismo la complicación no es tan grande, simplemente el usuario tiene que entrar en el sistema virtualizado (qué podría estar automatizado) y podría olvidarse de todo, creyendo así que estaría en remoto directamente...&lt;br /&gt;&lt;br /&gt;Y sobre las brechas de seguridad, no veo que haya un incremento respecto a las soluciones no virtualizadas, dado que el problema sería el mismo en ambos...&lt;br /&gt;&lt;br /&gt;2. Yo me quedé con cara de o.O??? WTF??? O_o]]></description>
+			<content:encoded><![CDATA[<p>1. Hmmm, hombre, ciertamente la arquitectura central se complica un poco, pero se abarata con la simplificación de los terminales &#8220;tontos&#8221; y el no tener que actualizarlos a menudo. Así mismo la complicación no es tan grande, simplemente el usuario tiene que entrar en el sistema virtualizado (qué podría estar automatizado) y podría olvidarse de todo, creyendo así que estaría en remoto directamente&#8230;</p>
+<p>Y sobre las brechas de seguridad, no veo que haya un incremento respecto a las soluciones no virtualizadas, dado que el problema sería el mismo en ambos&#8230;</p>
+<p>2. Yo me quedé con cara de o.O??? WTF??? O_o</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/sistemas-operativos/virtualizacion/virtualizando-todo-lo-virtualizable/#comment-4247</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Thu, 26 Feb 2009 15:37:28 +0000</pubDate>
+		<guid isPermaLink="false">/2009/02/26/virtualizando-todo-lo-virtualizable/#comment-4247</guid>
+
+					<description><![CDATA[Lo del CERN y los XServe ya lo lei... que lástima, que pena...]]></description>
+			<content:encoded><![CDATA[<p>Lo del CERN y los XServe ya lo lei&#8230; que lástima, que pena&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Alfonso FR		</title>
+		<link>/sistemas-operativos/virtualizacion/virtualizando-todo-lo-virtualizable/#comment-4246</link>
+
+		<dc:creator><![CDATA[Alfonso FR]]></dc:creator>
+		<pubDate>Thu, 26 Feb 2009 13:43:56 +0000</pubDate>
+		<guid isPermaLink="false">/2009/02/26/virtualizando-todo-lo-virtualizable/#comment-4246</guid>
+
+					<description><![CDATA[He leído y entendido el artículo de D&#039;Oh! que rompe una lanza a favor de la virtualización de código abierto pero no detalla los inconvenientes. Por nombrar algunos: mayor coste de la infraestructura central y de los recursos humanos dedicados a mantenerla (nosaltres); complicación de la infraestructura; dificultad de acceso al usuario final, con las consecuentes necesidades de impartir formación específica; capitalización de la infraestructura tecnológica con las posibles derivas hacia un sistema cerrado, incompatible y burocratizado; incremento del riesgo de impacto sobre el negocio en caso de fallo, brecha de seguridad o infección vírica de la infraestructura servidor, siendo este un problema de todo sistema centralizado; etc, etc, etc.&lt;br /&gt;No digo que no abogue también sobre la virtualización open source, sino que siempre hay que sopesar bien tanto las ventajas como los inconvenientes para cada caso específico.]]></description>
+			<content:encoded><![CDATA[<p>He leído y entendido el artículo de D&#8217;Oh! que rompe una lanza a favor de la virtualización de código abierto pero no detalla los inconvenientes. Por nombrar algunos: mayor coste de la infraestructura central y de los recursos humanos dedicados a mantenerla (nosaltres); complicación de la infraestructura; dificultad de acceso al usuario final, con las consecuentes necesidades de impartir formación específica; capitalización de la infraestructura tecnológica con las posibles derivas hacia un sistema cerrado, incompatible y burocratizado; incremento del riesgo de impacto sobre el negocio en caso de fallo, brecha de seguridad o infección vírica de la infraestructura servidor, siendo este un problema de todo sistema centralizado; etc, etc, etc.<br />No digo que no abogue también sobre la virtualización open source, sino que siempre hay que sopesar bien tanto las ventajas como los inconvenientes para cada caso específico.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:29:42 by W3 Total Cache
+-->

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Creando un entorno	</title>
+	<atom:link href="/sistemas-operativos/virtualizacion/creando-un-entorno/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/virtualizacion/creando-un-entorno/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=creando-un-entorno</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Thu, 30 Oct 2008 01:18:24 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/virtualizacion/creando-un-entorno/#comment-3876</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Thu, 30 Oct 2008 01:18:24 +0000</pubDate>
+		<guid isPermaLink="false">/2008/10/29/creando-un-entorno/#comment-3876</guid>
+
+					<description><![CDATA[Jsjsjsjs, ciertamente, ciertamente :P]]></description>
+			<content:encoded><![CDATA[<p>Jsjsjsjs, ciertamente, ciertamente :P</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/sistemas-operativos/virtualizacion/creando-un-entorno/#comment-3875</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Wed, 29 Oct 2008 12:41:24 +0000</pubDate>
+		<guid isPermaLink="false">/2008/10/29/creando-un-entorno/#comment-3875</guid>
+
+					<description><![CDATA[VMWare tiene para los SO virtualizados una extension llamada VMWare tools para hacer bypass al ciertas cosas del kernel virtualizado y que lo ejecute el propio virtualizador como nativo. O algo así.&lt;br /&gt;&lt;br /&gt;VMWare también es &quot;gratis&quot; :P]]></description>
+			<content:encoded><![CDATA[<p>VMWare tiene para los SO virtualizados una extension llamada VMWare tools para hacer bypass al ciertas cosas del kernel virtualizado y que lo ejecute el propio virtualizador como nativo. O algo así.</p>
+<p>VMWare también es &#8220;gratis&#8221; :P</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:29:49 by W3 Total Cache
+-->

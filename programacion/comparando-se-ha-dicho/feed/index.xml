@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Comparando se ha dicho	</title>
+	<atom:link href="/programacion/comparando-se-ha-dicho/feed/" rel="self" type="application/rss+xml" />
+	<link>/programacion/comparando-se-ha-dicho/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=comparando-se-ha-dicho</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Mon, 13 Jul 2009 10:53:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/comparando-se-ha-dicho/#comment-4736</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Mon, 13 Jul 2009 10:53:09 +0000</pubDate>
+		<guid isPermaLink="false">/2009/07/09/comparando-se-ha-dicho/#comment-4736</guid>
+
+					<description><![CDATA[&lt;b&gt;Oscar&lt;/b&gt;: También es verdad... de ahí que existan las técnicas de refactorizaciones masivas]]></description>
+			<content:encoded><![CDATA[<p><b>Oscar</b>: También es verdad&#8230; de ahí que existan las técnicas de refactorizaciones masivas</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Oscar		</title>
+		<link>/programacion/comparando-se-ha-dicho/#comment-4731</link>
+
+		<dc:creator><![CDATA[Oscar]]></dc:creator>
+		<pubDate>Fri, 10 Jul 2009 14:57:21 +0000</pubDate>
+		<guid isPermaLink="false">/2009/07/09/comparando-se-ha-dicho/#comment-4731</guid>
+
+					<description><![CDATA[Que estas herramientas no lleguen a manos de profes de universidad, porque si no los alumnos tendrían que refinar su técnica de &quot;copypaste-xagered mode&quot;.&lt;br /&gt;&lt;br /&gt;Y eso no puede ser, hombre. XD]]></description>
+			<content:encoded><![CDATA[<p>Que estas herramientas no lleguen a manos de profes de universidad, porque si no los alumnos tendrían que refinar su técnica de &#8220;copypaste-xagered mode&#8221;.</p>
+<p>Y eso no puede ser, hombre. XD</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/comparando-se-ha-dicho/#comment-4726</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Thu, 09 Jul 2009 15:43:08 +0000</pubDate>
+		<guid isPermaLink="false">/2009/07/09/comparando-se-ha-dicho/#comment-4726</guid>
+
+					<description><![CDATA[&lt;b&gt;Ucedaman&lt;/b&gt;: Le echaré un vistazo de nuevo al Araxis (¿lo usábamos en aquel antro de perdición? xD)]]></description>
+			<content:encoded><![CDATA[<p><b>Ucedaman</b>: Le echaré un vistazo de nuevo al Araxis (¿lo usábamos en aquel antro de perdición? xD)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ucedaman		</title>
+		<link>/programacion/comparando-se-ha-dicho/#comment-4724</link>
+
+		<dc:creator><![CDATA[Ucedaman]]></dc:creator>
+		<pubDate>Thu, 09 Jul 2009 08:47:56 +0000</pubDate>
+		<guid isPermaLink="false">/2009/07/09/comparando-se-ha-dicho/#comment-4724</guid>
+
+					<description><![CDATA[Yo siempre me he apañado con el comparador de Eclipse y el Araxis Merge. Ahora tengo el CompareIt y es bastante más regulero.&lt;br /&gt;Al menos lo de comparar por funciones sé que lo he hecho, pero no recuerdo con cual de ellos :\]]></description>
+			<content:encoded><![CDATA[<p>Yo siempre me he apañado con el comparador de Eclipse y el Araxis Merge. Ahora tengo el CompareIt y es bastante más regulero.<br />Al menos lo de comparar por funciones sé que lo he hecho, pero no recuerdo con cual de ellos :\</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:42:27 by W3 Total Cache
+-->

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Acelerando a Pacman	</title>
+	<atom:link href="/sistemas-operativos/linux/acelerando-a-pacman/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/linux/acelerando-a-pacman/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=acelerando-a-pacman</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 21:25:20 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/acelerando-a-pacman/#comment-4826</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Tue, 11 Aug 2009 12:19:35 +0000</pubDate>
+		<guid isPermaLink="false">/2009/08/11/acelerando-a-pacman/#comment-4826</guid>
+
+					<description><![CDATA[&lt;b&gt;@Ucedaman&lt;/b&gt;: Como evocas al generador de los pastilleros actuales :P]]></description>
+			<content:encoded><![CDATA[<p><b>@Ucedaman</b>: Como evocas al generador de los pastilleros actuales :P</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ucedaman		</title>
+		<link>/sistemas-operativos/linux/acelerando-a-pacman/#comment-4825</link>
+
+		<dc:creator><![CDATA[Ucedaman]]></dc:creator>
+		<pubDate>Tue, 11 Aug 2009 01:10:42 +0000</pubDate>
+		<guid isPermaLink="false">/2009/08/11/acelerando-a-pacman/#comment-4825</guid>
+
+					<description><![CDATA[Bah... si no es el comecocos... :p]]></description>
+			<content:encoded><![CDATA[<p>Bah&#8230; si no es el comecocos&#8230; :p</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:09:22 by W3 Total Cache
+-->

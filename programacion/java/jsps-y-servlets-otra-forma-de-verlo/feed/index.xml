@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: JSPs y Servlets, otra forma de verlo	</title>
+	<atom:link href="/programacion/java/jsps-y-servlets-otra-forma-de-verlo/feed/" rel="self" type="application/rss+xml" />
+	<link>/programacion/java/jsps-y-servlets-otra-forma-de-verlo/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=jsps-y-servlets-otra-forma-de-verlo</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 23:37:39 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/java/jsps-y-servlets-otra-forma-de-verlo/#comment-985</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Fri, 30 Mar 2007 03:04:40 +0000</pubDate>
+		<guid isPermaLink="false">/2007/03/29/jsps-y-servlets-otra-forma-de-verlo/#comment-985</guid>
+
+					<description><![CDATA[Pues bueno, puesto que mi fuerte tampoco son los JSP y los rehuyo como la peste no te podría decir... En principio no hay mucho más... salvo el Eclipse y compañía que tienen plugins que te pueden chivar algo... y luego meterle las pruebas con algo tipo HttpUnit pues.... poco más&lt;br /&gt;&lt;br /&gt;Guau... ¡¡Overclock Rules!!]]></description>
+			<content:encoded><![CDATA[<p>Pues bueno, puesto que mi fuerte tampoco son los JSP y los rehuyo como la peste no te podría decir&#8230; En principio no hay mucho más&#8230; salvo el Eclipse y compañía que tienen plugins que te pueden chivar algo&#8230; y luego meterle las pruebas con algo tipo HttpUnit pues&#8230;. poco más</p>
+<p>Guau&#8230; ¡¡Overclock Rules!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/programacion/java/jsps-y-servlets-otra-forma-de-verlo/#comment-984</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Fri, 30 Mar 2007 00:03:28 +0000</pubDate>
+		<guid isPermaLink="false">/2007/03/29/jsps-y-servlets-otra-forma-de-verlo/#comment-984</guid>
+
+					<description><![CDATA[Cierto, de hecho, yo no se como se depuran los JSP, al menos una depuración mas allá de la traza de excepciones que te suelta el OC4J o el Tomcat porque no le gusta el JSP. ¿Cómo se depuran? Yo sólo se de esa forma. ¿Hay mas formas?&lt;br /&gt;&lt;br /&gt;Scythe Ninja Plus: disipador + ventilador para la CPU. Cerca de medio kilo de cobre y aluminio de fabricación 100% japonesa ... ainsss... no te pongo el link porque lo trata como SPAM, simplemente buscalo en google imagenes y lo ves. Estaba mirando fotos para ver que tal queda puesto con la placa base en vertical (como la tiene todo el mundo) porque... es que es medio kilo ahí colgando...da cosa... eso si, subes el micro de 2.4GHz (stock) a 3GHz y ni se inmuta... ainsss... jeje... me callo que estas cosas me pierden... ^^UUUUU&lt;br /&gt;&lt;br /&gt;P.D: Está genial lo de gravatar en el blog... ;)]]></description>
+			<content:encoded><![CDATA[<p>Cierto, de hecho, yo no se como se depuran los JSP, al menos una depuración mas allá de la traza de excepciones que te suelta el OC4J o el Tomcat porque no le gusta el JSP. ¿Cómo se depuran? Yo sólo se de esa forma. ¿Hay mas formas?</p>
+<p>Scythe Ninja Plus: disipador + ventilador para la CPU. Cerca de medio kilo de cobre y aluminio de fabricación 100% japonesa &#8230; ainsss&#8230; no te pongo el link porque lo trata como SPAM, simplemente buscalo en google imagenes y lo ves. Estaba mirando fotos para ver que tal queda puesto con la placa base en vertical (como la tiene todo el mundo) porque&#8230; es que es medio kilo ahí colgando&#8230;da cosa&#8230; eso si, subes el micro de 2.4GHz (stock) a 3GHz y ni se inmuta&#8230; ainsss&#8230; jeje&#8230; me callo que estas cosas me pierden&#8230; ^^UUUUU</p>
+<p>P.D: Está genial lo de gravatar en el blog&#8230; ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/java/jsps-y-servlets-otra-forma-de-verlo/#comment-983</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Thu, 29 Mar 2007 22:51:48 +0000</pubDate>
+		<guid isPermaLink="false">/2007/03/29/jsps-y-servlets-otra-forma-de-verlo/#comment-983</guid>
+
+					<description><![CDATA[En los casos que me comentas, por supuesto que sí que tiene que ser así... Pero luego por un lado están lo JSP de 4000 líneas (verídico y sufrido por un servidor...) y por otro están los que simplemente quieren una interfaz para el manejo de cosas, no para presentar a cliente ni nada...&lt;br /&gt;&lt;br /&gt;De todas, yo creo que a los JSPs aun les hace falta una vuelta más de tuerca, porque el lenguaje de etiquetas es incomodo y dificultoso de depurar... Falta una evolución por ahí todavía ;)&lt;br /&gt;&lt;br /&gt;¿¿Fotos del Scythe Ninja Plus?? ¿¿Qué es eso?? :O]]></description>
+			<content:encoded><![CDATA[<p>En los casos que me comentas, por supuesto que sí que tiene que ser así&#8230; Pero luego por un lado están lo JSP de 4000 líneas (verídico y sufrido por un servidor&#8230;) y por otro están los que simplemente quieren una interfaz para el manejo de cosas, no para presentar a cliente ni nada&#8230;</p>
+<p>De todas, yo creo que a los JSPs aun les hace falta una vuelta más de tuerca, porque el lenguaje de etiquetas es incomodo y dificultoso de depurar&#8230; Falta una evolución por ahí todavía ;)</p>
+<p>¿¿Fotos del Scythe Ninja Plus?? ¿¿Qué es eso?? :O</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/programacion/java/jsps-y-servlets-otra-forma-de-verlo/#comment-982</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Thu, 29 Mar 2007 20:46:51 +0000</pubDate>
+		<guid isPermaLink="false">/2007/03/29/jsps-y-servlets-otra-forma-de-verlo/#comment-982</guid>
+
+					<description><![CDATA[Bueno, yo siempre que use (o vi en código cuando toco parchear) JSP eran sólo para presentación y ahí si los veo MUY utiles. Dejabas todo como properties de la request y ale, ya le podía dar la vena al cliente de quererte cambiar la interfaz, que tus Struts eran sagrados y no los tocaba nadie...&lt;br /&gt;&lt;br /&gt;No se, soy mas novato que tú en temas cárnicos, pero yo la MVC y los frameworks estos tipo Struts los veo útiles y que ahorran tiempo, que van lentos, pues que compren máquina nueva (que les da igual comprarla, pero pagar a un cárnico por encima de la tarifa marco - o como se llame eso - para hacer la aplicación rápida y bien, nooo eso no... eso es pecao yles quitan la subscrición al &quot;Expansión&quot; o al &quot;Cinco Días&quot; XDDDD).&lt;br /&gt;&lt;br /&gt;Eso si, meter lógica de negocio en JSPs kilométricos (que por suerte aún no los he visto) debería quitar hasta puntos del carné...&lt;br /&gt;&lt;br /&gt;Bueno, no me enrollo más :P, que los JSPs pues depende para qué... ale me voy a ver fotos del Scythe Ninja Plus que me esta entrado antojo y mañana puede que caiga... juguetitos *__*, etc ...]]></description>
+			<content:encoded><![CDATA[<p>Bueno, yo siempre que use (o vi en código cuando toco parchear) JSP eran sólo para presentación y ahí si los veo MUY utiles. Dejabas todo como properties de la request y ale, ya le podía dar la vena al cliente de quererte cambiar la interfaz, que tus Struts eran sagrados y no los tocaba nadie&#8230;</p>
+<p>No se, soy mas novato que tú en temas cárnicos, pero yo la MVC y los frameworks estos tipo Struts los veo útiles y que ahorran tiempo, que van lentos, pues que compren máquina nueva (que les da igual comprarla, pero pagar a un cárnico por encima de la tarifa marco &#8211; o como se llame eso &#8211; para hacer la aplicación rápida y bien, nooo eso no&#8230; eso es pecao yles quitan la subscrición al &#8220;Expansión&#8221; o al &#8220;Cinco Días&#8221; XDDDD).</p>
+<p>Eso si, meter lógica de negocio en JSPs kilométricos (que por suerte aún no los he visto) debería quitar hasta puntos del carné&#8230;</p>
+<p>Bueno, no me enrollo más :P, que los JSPs pues depende para qué&#8230; ale me voy a ver fotos del Scythe Ninja Plus que me esta entrado antojo y mañana puede que caiga&#8230; juguetitos *__*, etc &#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:57:39 by W3 Total Cache
+-->

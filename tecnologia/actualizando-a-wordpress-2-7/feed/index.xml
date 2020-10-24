@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Actualizando a WordPress 2.7	</title>
+	<atom:link href="/tecnologia/actualizando-a-wordpress-2-7/feed/" rel="self" type="application/rss+xml" />
+	<link>/tecnologia/actualizando-a-wordpress-2-7/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=actualizando-a-wordpress-2-7</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Fri, 19 Feb 2016 19:49:49 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/tecnologia/actualizando-a-wordpress-2-7/#comment-3997</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Fri, 12 Dec 2008 12:20:29 +0000</pubDate>
+		<guid isPermaLink="false">/2008/12/11/actualizando-a-wordpress-2-7/#comment-3997</guid>
+
+					<description><![CDATA[Hombre, actualizo porque quiero, no porque sea obligatorio.&lt;br /&gt;&lt;br /&gt;Y por otro lado, tu usas blogger que es de google y te limita según lo que ellos quieren; yo tengo un espacio web en el que tengo un wordpress que yo mantengo, pero podría cambiarlo a otro o inclusive volver a meter aquel antiquísimo que había hecho yo hace mil millones de años... Vamos, que puedes hacer lo que quieras xD]]></description>
+			<content:encoded><![CDATA[<p>Hombre, actualizo porque quiero, no porque sea obligatorio.</p>
+<p>Y por otro lado, tu usas blogger que es de google y te limita según lo que ellos quieren; yo tengo un espacio web en el que tengo un wordpress que yo mantengo, pero podría cambiarlo a otro o inclusive volver a meter aquel antiquísimo que había hecho yo hace mil millones de años&#8230; Vamos, que puedes hacer lo que quieras xD</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Oscar		</title>
+		<link>/tecnologia/actualizando-a-wordpress-2-7/#comment-3996</link>
+
+		<dc:creator><![CDATA[Oscar]]></dc:creator>
+		<pubDate>Fri, 12 Dec 2008 12:17:48 +0000</pubDate>
+		<guid isPermaLink="false">/2008/12/11/actualizando-a-wordpress-2-7/#comment-3996</guid>
+
+					<description><![CDATA[Con lo agusto que estoy yo en blogger sin cosas de esas... :-P&lt;br /&gt;&lt;br /&gt;La verdad, esto de wordpress debe ser la caña, pero cada vez que sale una actualización tienes algún lío. ¿No es un poco pesado?]]></description>
+			<content:encoded><![CDATA[<p>Con lo agusto que estoy yo en blogger sin cosas de esas&#8230; :-P</p>
+<p>La verdad, esto de wordpress debe ser la caña, pero cada vez que sale una actualización tienes algún lío. ¿No es un poco pesado?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/tecnologia/actualizando-a-wordpress-2-7/#comment-3995</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Fri, 12 Dec 2008 03:03:54 +0000</pubDate>
+		<guid isPermaLink="false">/2008/12/11/actualizando-a-wordpress-2-7/#comment-3995</guid>
+
+					<description><![CDATA[A ver si ahora lo está ;)]]></description>
+			<content:encoded><![CDATA[<p>A ver si ahora lo está ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/tecnologia/actualizando-a-wordpress-2-7/#comment-3994</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Fri, 12 Dec 2008 00:47:03 +0000</pubDate>
+		<guid isPermaLink="false">/2008/12/11/actualizando-a-wordpress-2-7/#comment-3994</guid>
+
+					<description><![CDATA[El &quot;Línkame&quot; sigues sin actualizarlo :P]]></description>
+			<content:encoded><![CDATA[<p>El &#8220;Línkame&#8221; sigues sin actualizarlo :P</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:07:26 by W3 Total Cache
+-->

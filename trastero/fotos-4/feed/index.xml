@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Fotos… 4…	</title>
+	<atom:link href="/trastero/fotos-4/feed/" rel="self" type="application/rss+xml" />
+	<link>/trastero/fotos-4/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=fotos-4</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Fri, 19 Feb 2016 20:08:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/trastero/fotos-4/#comment-607</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Mon, 29 Jan 2007 10:04:53 +0000</pubDate>
+		<guid isPermaLink="false">/2007/01/28/fotos-4/#comment-607</guid>
+
+					<description><![CDATA[Pues ale, me alegro de que sean beneficiosas, aunque solo subo unas pocas... xD]]></description>
+			<content:encoded><![CDATA[<p>Pues ale, me alegro de que sean beneficiosas, aunque solo subo unas pocas&#8230; xD</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Darklady		</title>
+		<link>/trastero/fotos-4/#comment-603</link>
+
+		<dc:creator><![CDATA[Darklady]]></dc:creator>
+		<pubDate>Mon, 29 Jan 2007 09:51:28 +0000</pubDate>
+		<guid isPermaLink="false">/2007/01/28/fotos-4/#comment-603</guid>
+
+					<description><![CDATA[Fin de semana, ya tocaba fotos ^_^&lt;br /&gt;Las estaba esperando, jeje&lt;br /&gt;¿Sabes? Sigue haciéndoseme muy raro recuerar gracias a ti muchas de mis fotos de París perdidas en el otro ordenador O_O Se agradece, se agradece... y me das ganas terribles de salir a la calle cargando con cámara :P (HORTA ME ESPERA)&lt;br /&gt;&lt;br /&gt;A ver si puede ser cuando mi volumen de trabajo baje... que con lo de traducción de manga ya sí que no tengo tiempo de comer más de una vez al día :P]]></description>
+			<content:encoded><![CDATA[<p>Fin de semana, ya tocaba fotos ^_^<br />Las estaba esperando, jeje<br />¿Sabes? Sigue haciéndoseme muy raro recuerar gracias a ti muchas de mis fotos de París perdidas en el otro ordenador O_O Se agradece, se agradece&#8230; y me das ganas terribles de salir a la calle cargando con cámara :P (HORTA ME ESPERA)</p>
+<p>A ver si puede ser cuando mi volumen de trabajo baje&#8230; que con lo de traducción de manga ya sí que no tengo tiempo de comer más de una vez al día :P</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 17:16:45 by W3 Total Cache
+-->

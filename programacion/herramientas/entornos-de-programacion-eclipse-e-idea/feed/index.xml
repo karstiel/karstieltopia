@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Entornos de programación: Eclipse e Idea	</title>
+	<atom:link href="/programacion/herramientas/entornos-de-programacion-eclipse-e-idea/feed/" rel="self" type="application/rss+xml" />
+	<link>/programacion/herramientas/entornos-de-programacion-eclipse-e-idea/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=entornos-de-programacion-eclipse-e-idea</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sun, 21 Feb 2016 15:18:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/herramientas/entornos-de-programacion-eclipse-e-idea/#comment-352</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Sat, 30 Dec 2006 16:24:54 +0000</pubDate>
+		<guid isPermaLink="false">/2006/10/22/entornos-de-programacion-eclipse-e-idea/#comment-352</guid>
+
+					<description><![CDATA[Sí es que al final, lenguaje humano o lenguaje computacional... ¿qué más da? O_O]]></description>
+			<content:encoded><![CDATA[<p>Sí es que al final, lenguaje humano o lenguaje computacional&#8230; ¿qué más da? O_O</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Darklady		</title>
+		<link>/programacion/herramientas/entornos-de-programacion-eclipse-e-idea/#comment-339</link>
+
+		<dc:creator><![CDATA[Darklady]]></dc:creator>
+		<pubDate>Sat, 30 Dec 2006 15:49:20 +0000</pubDate>
+		<guid isPermaLink="false">/2006/10/22/entornos-de-programacion-eclipse-e-idea/#comment-339</guid>
+
+					<description><![CDATA[Mira que no tiene nada que ver... pero esto empieza a sonar a las críticas que he leido sobre memorias de traducción, y sistemas de TAO (traducción asistida por ordenador)... básicamente sólo hay que cambiar 4 términos O_O]]></description>
+			<content:encoded><![CDATA[<p>Mira que no tiene nada que ver&#8230; pero esto empieza a sonar a las críticas que he leido sobre memorias de traducción, y sistemas de TAO (traducción asistida por ordenador)&#8230; básicamente sólo hay que cambiar 4 términos O_O</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:32:53 by W3 Total Cache
+-->

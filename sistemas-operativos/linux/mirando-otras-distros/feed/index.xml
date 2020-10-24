@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Mirando otras distros	</title>
+	<atom:link href="/sistemas-operativos/linux/mirando-otras-distros/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/linux/mirando-otras-distros/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mirando-otras-distros</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Wed, 11 Jun 2008 00:11:19 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/mirando-otras-distros/#comment-3219</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Wed, 11 Jun 2008 00:11:19 +0000</pubDate>
+		<guid isPermaLink="false">/2008/06/10/mirando-otras-distros/#comment-3219</guid>
+
+					<description><![CDATA[Sipi, eso lo sabía, pero no sé, lo veía diferente y me ponía nervioso... así que quise ponerme el Firefox 3 y... en fin, eso :P&lt;br /&gt;&lt;br /&gt;¡¡¡Quíiiiiitalo!!! ;P]]></description>
+			<content:encoded><![CDATA[<p>Sipi, eso lo sabía, pero no sé, lo veía diferente y me ponía nervioso&#8230; así que quise ponerme el Firefox 3 y&#8230; en fin, eso :P</p>
+<p>¡¡¡Quíiiiiitalo!!! ;P</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Disquete Enmascarado		</title>
+		<link>/sistemas-operativos/linux/mirando-otras-distros/#comment-3218</link>
+
+		<dc:creator><![CDATA[Disquete Enmascarado]]></dc:creator>
+		<pubDate>Tue, 10 Jun 2008 09:43:06 +0000</pubDate>
+		<guid isPermaLink="false">/2008/06/10/mirando-otras-distros/#comment-3218</guid>
+
+					<description><![CDATA[En Debian el Firefox se llama IceWeasel, que eso de que el logo de Firefox es de la fundación Mozilla no mola en Debian. Por lo que sé es lo mismo pero con logos y nombres cambiados, algo así como RedHat y CentOS.&lt;br /&gt;&lt;br /&gt;Yo todavía no me he decidido si quito o no PulseAudio, ahí anda todavía.]]></description>
+			<content:encoded><![CDATA[<p>En Debian el Firefox se llama IceWeasel, que eso de que el logo de Firefox es de la fundación Mozilla no mola en Debian. Por lo que sé es lo mismo pero con logos y nombres cambiados, algo así como RedHat y CentOS.</p>
+<p>Yo todavía no me he decidido si quito o no PulseAudio, ahí anda todavía.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:14:19 by W3 Total Cache
+-->

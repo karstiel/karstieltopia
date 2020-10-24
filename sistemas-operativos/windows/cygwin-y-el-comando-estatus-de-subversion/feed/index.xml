@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Cygwin y el comando estatus de subversion	</title>
+	<atom:link href="/sistemas-operativos/windows/cygwin-y-el-comando-estatus-de-subversion/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/windows/cygwin-y-el-comando-estatus-de-subversion/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cygwin-y-el-comando-estatus-de-subversion</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 05:45:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: karstiel		</title>
+		<link>/sistemas-operativos/windows/cygwin-y-el-comando-estatus-de-subversion/#comment-6</link>
+
+		<dc:creator><![CDATA[karstiel]]></dc:creator>
+		<pubDate>Sun, 28 Jul 2013 08:03:46 +0000</pubDate>
+		<guid isPermaLink="false">/?p=247#comment-6</guid>
+
+					<description><![CDATA[(Mirando que es SilkSVN) Pues sí, o tirar del Tortoise también... pero tantos años usando exclusivamente línea de comandos en linux pues... ¡me han hecho un poco &quot;purista&quot; en ese aspecto ^_^U!]]></description>
+			<content:encoded><![CDATA[<p>(Mirando que es SilkSVN) Pues sí, o tirar del Tortoise también&#8230; pero tantos años usando exclusivamente línea de comandos en linux pues&#8230; ¡me han hecho un poco &#8220;purista&#8221; en ese aspecto ^_^U!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/sistemas-operativos/windows/cygwin-y-el-comando-estatus-de-subversion/#comment-5</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Sat, 27 Jul 2013 10:14:43 +0000</pubDate>
+		<guid isPermaLink="false">/?p=247#comment-5</guid>
+
+					<description><![CDATA[Si da guerra, al ser cygwin, podrías tirar de un SilkSVN nativo Win32 o similar desde el propio Cygwin ¿no?]]></description>
+			<content:encoded><![CDATA[<p>Si da guerra, al ser cygwin, podrías tirar de un SilkSVN nativo Win32 o similar desde el propio Cygwin ¿no?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:47:53 by W3 Total Cache
+-->

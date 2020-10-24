@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Más pasos con Arch Linux	</title>
+	<atom:link href="/sistemas-operativos/linux/mas-pasos-con-arch-linux/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/linux/mas-pasos-con-arch-linux/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mas-pasos-con-arch-linux</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Mon, 15 Feb 2016 22:45:56 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/mas-pasos-con-arch-linux/#comment-4308</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Sat, 21 Mar 2009 14:22:00 +0000</pubDate>
+		<guid isPermaLink="false">/2009/03/18/mas-pasos-con-arch-linux/#comment-4308</guid>
+
+					<description><![CDATA[1. Jsjsjsjs, ¿pero y lo que te diviertes? :D&lt;br /&gt;&lt;br /&gt;2. Hmmmm, recompilaaarrr.... :P Nah, si lo chulo de esta distro es que dominas por completo todo lo que pasa... si acabas harto de no poder dominar todo, acabas echando de menos una distro que no tenga todo automatizado y puedas toquetearla tranquilamente&lt;br /&gt;&lt;br /&gt;3. Son conceptos diferentes. La verdad es que si no tienes tiempo y prefieres la rápido y automático, Ubntu (u otras tipo Mandriva o similares) son mejor opción. Si tienes un poco de tiempo y no te molesta buscarte un poco las castañas (que por cierto hay mucha y muy buena información), Arch es una grandiosa opción...]]></description>
+			<content:encoded><![CDATA[<p>1. Jsjsjsjs, ¿pero y lo que te diviertes? :D</p>
+<p>2. Hmmmm, recompilaaarrr&#8230;. :P Nah, si lo chulo de esta distro es que dominas por completo todo lo que pasa&#8230; si acabas harto de no poder dominar todo, acabas echando de menos una distro que no tenga todo automatizado y puedas toquetearla tranquilamente</p>
+<p>3. Son conceptos diferentes. La verdad es que si no tienes tiempo y prefieres la rápido y automático, Ubntu (u otras tipo Mandriva o similares) son mejor opción. Si tienes un poco de tiempo y no te molesta buscarte un poco las castañas (que por cierto hay mucha y muy buena información), Arch es una grandiosa opción&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: jame		</title>
+		<link>/sistemas-operativos/linux/mas-pasos-con-arch-linux/#comment-4305</link>
+
+		<dc:creator><![CDATA[jame]]></dc:creator>
+		<pubDate>Thu, 19 Mar 2009 23:04:09 +0000</pubDate>
+		<guid isPermaLink="false">/2009/03/18/mas-pasos-con-arch-linux/#comment-4305</guid>
+
+					<description><![CDATA[Disquete Enmascarado said no sabes lo que dices, yo he sido usuario de ubuntu unos cuatro años y no lo cambiaba por nada, hasta que hace seis o siete meses me tope con archlinux y no hay color, para mi sobrepasa ubuntu dos leguas, es lo mejor de lo mejor que he probado de GNU/linux con diferencia]]></description>
+			<content:encoded><![CDATA[<p>Disquete Enmascarado said no sabes lo que dices, yo he sido usuario de ubuntu unos cuatro años y no lo cambiaba por nada, hasta que hace seis o siete meses me tope con archlinux y no hay color, para mi sobrepasa ubuntu dos leguas, es lo mejor de lo mejor que he probado de GNU/linux con diferencia</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Disquete Enmascarado		</title>
+		<link>/sistemas-operativos/linux/mas-pasos-con-arch-linux/#comment-4302</link>
+
+		<dc:creator><![CDATA[Disquete Enmascarado]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2009 11:03:33 +0000</pubDate>
+		<guid isPermaLink="false">/2009/03/18/mas-pasos-con-arch-linux/#comment-4302</guid>
+
+					<description><![CDATA[Podría ser peor, no ha tenido que compilar nada :)&lt;br /&gt;Ni aunque me ofrezca dos, no cambio mi Ubuntu por eso.]]></description>
+			<content:encoded><![CDATA[<p>Podría ser peor, no ha tenido que compilar nada :)<br />Ni aunque me ofrezca dos, no cambio mi Ubuntu por eso.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ucedaman		</title>
+		<link>/sistemas-operativos/linux/mas-pasos-con-arch-linux/#comment-4300</link>
+
+		<dc:creator><![CDATA[Ucedaman]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2009 09:20:23 +0000</pubDate>
+		<guid isPermaLink="false">/2009/03/18/mas-pasos-con-arch-linux/#comment-4300</guid>
+
+					<description><![CDATA[Me reitero, ¡menos mal que era sencilla! XD]]></description>
+			<content:encoded><![CDATA[<p>Me reitero, ¡menos mal que era sencilla! XD</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:09:28 by W3 Total Cache
+-->

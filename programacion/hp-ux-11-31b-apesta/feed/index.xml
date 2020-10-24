@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: HP-UX 11.31B apesta	</title>
+	<atom:link href="/programacion/hp-ux-11-31b-apesta/feed/" rel="self" type="application/rss+xml" />
+	<link>/programacion/hp-ux-11-31b-apesta/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hp-ux-11-31b-apesta</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Tue, 06 Apr 2010 21:59:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Karstiel		</title>
+		<link>/programacion/hp-ux-11-31b-apesta/#comment-5296</link>
+
+		<dc:creator><![CDATA[Karstiel]]></dc:creator>
+		<pubDate>Tue, 06 Apr 2010 21:59:04 +0000</pubDate>
+		<guid isPermaLink="false">/2010/02/23/hp-ux-11-31b-apesta/#comment-5296</guid>
+
+					<description><![CDATA[&lt;b&gt;@Jose&lt;/b&gt;: La verdad es que por exigencias del guión, hemos tenido que usar el gcc en su versión 3.4.4, la cuál tiene unos cuántos bugs conocidos en esta plataforma :/&lt;br /&gt;&lt;br /&gt;Al final se hizo correctamente la migración (unos 5 - 6 meses, con pruebas y todo) y medio puesto en el cliente ;)]]></description>
+			<content:encoded><![CDATA[<p><b>@Jose</b>: La verdad es que por exigencias del guión, hemos tenido que usar el gcc en su versión 3.4.4, la cuál tiene unos cuántos bugs conocidos en esta plataforma :/</p>
+<p>Al final se hizo correctamente la migración (unos 5 &#8211; 6 meses, con pruebas y todo) y medio puesto en el cliente ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Jose		</title>
+		<link>/programacion/hp-ux-11-31b-apesta/#comment-5294</link>
+
+		<dc:creator><![CDATA[Jose]]></dc:creator>
+		<pubDate>Tue, 06 Apr 2010 09:28:47 +0000</pubDate>
+		<guid isPermaLink="false">/2010/02/23/hp-ux-11-31b-apesta/#comment-5294</guid>
+
+					<description><![CDATA[Estoy de acuerdo, para el que no sabe lo mejor es Java y para el que sabe un poco lo mejor es C.&lt;br /&gt;Respecto al S.O. me reservo mi opinión porque aun no la tengo clara.&lt;br /&gt;Y respecto a tooodos los problemas con los que os encontrais, la solución diría que empieza por subir las restricciones del compilador que useis, seguramente el aCC. Y leeros la ayuda sobre los flags de compilación que hay muchos.]]></description>
+			<content:encoded><![CDATA[<p>Estoy de acuerdo, para el que no sabe lo mejor es Java y para el que sabe un poco lo mejor es C.<br />Respecto al S.O. me reservo mi opinión porque aun no la tengo clara.<br />Y respecto a tooodos los problemas con los que os encontrais, la solución diría que empieza por subir las restricciones del compilador que useis, seguramente el aCC. Y leeros la ayuda sobre los flags de compilación que hay muchos.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Karstiel		</title>
+		<link>/programacion/hp-ux-11-31b-apesta/#comment-5268</link>
+
+		<dc:creator><![CDATA[Karstiel]]></dc:creator>
+		<pubDate>Thu, 25 Feb 2010 22:25:11 +0000</pubDate>
+		<guid isPermaLink="false">/2010/02/23/hp-ux-11-31b-apesta/#comment-5268</guid>
+
+					<description><![CDATA[&lt;b&gt;@Hypnotoad&lt;/b&gt;: Pues es relativamente sencillo lo de la falta de la definición... Ponte que lo linkas con la librería que lo posee, así que más o menos, funciona ;) Eso sí, supongo que saldrá un warning (de tantos) XD]]></description>
+			<content:encoded><![CDATA[<p><b>@Hypnotoad</b>: Pues es relativamente sencillo lo de la falta de la definición&#8230; Ponte que lo linkas con la librería que lo posee, así que más o menos, funciona ;) Eso sí, supongo que saldrá un warning (de tantos) XD</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Hypnotoad		</title>
+		<link>/programacion/hp-ux-11-31b-apesta/#comment-5265</link>
+
+		<dc:creator><![CDATA[Hypnotoad]]></dc:creator>
+		<pubDate>Thu, 25 Feb 2010 01:05:30 +0000</pubDate>
+		<guid isPermaLink="false">/2010/02/23/hp-ux-11-31b-apesta/#comment-5265</guid>
+
+					<description><![CDATA[Pobre lavadora... En fin. Java facilita mucho las cosas, pero no se te ocurra hacer un sistema de facturacion (ni de gestion de bonos) con el, y se lo que me digo.&lt;br /&gt;&lt;br /&gt;1.- No puedo entender como podia resolver una funcion de la que faltaba la deficnición. Eso me lo tienes que explicar mas detenidamente.&lt;br /&gt;&lt;br /&gt;2.- ¡Ole tus huevos, HP! A eso lo llamo yo ser POSIX-compilant.&lt;br /&gt;&lt;br /&gt;Paciencia chaval.]]></description>
+			<content:encoded><![CDATA[<p>Pobre lavadora&#8230; En fin. Java facilita mucho las cosas, pero no se te ocurra hacer un sistema de facturacion (ni de gestion de bonos) con el, y se lo que me digo.</p>
+<p>1.- No puedo entender como podia resolver una funcion de la que faltaba la deficnición. Eso me lo tienes que explicar mas detenidamente.</p>
+<p>2.- ¡Ole tus huevos, HP! A eso lo llamo yo ser POSIX-compilant.</p>
+<p>Paciencia chaval.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Karstiel		</title>
+		<link>/programacion/hp-ux-11-31b-apesta/#comment-5264</link>
+
+		<dc:creator><![CDATA[Karstiel]]></dc:creator>
+		<pubDate>Wed, 24 Feb 2010 23:49:03 +0000</pubDate>
+		<guid isPermaLink="false">/2010/02/23/hp-ux-11-31b-apesta/#comment-5264</guid>
+
+					<description><![CDATA[&lt;b&gt;@Carlos&lt;/b&gt;: Si es que, C.. ese ente maligno que trata las cadenas de texto como cosas raras de memoria :P]]></description>
+			<content:encoded><![CDATA[<p><b>@Carlos</b>: Si es que, C.. ese ente maligno que trata las cadenas de texto como cosas raras de memoria :P</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Carlos		</title>
+		<link>/programacion/hp-ux-11-31b-apesta/#comment-5263</link>
+
+		<dc:creator><![CDATA[Carlos]]></dc:creator>
+		<pubDate>Wed, 24 Feb 2010 08:36:11 +0000</pubDate>
+		<guid isPermaLink="false">/2010/02/23/hp-ux-11-31b-apesta/#comment-5263</guid>
+
+					<description><![CDATA[¡Ay, my friend! El problema no está en la plataforma, sino en el lenguaje. ¿Quién te manda usar C? Esto con Java no te pasaría, que lo puedes instalar hasta en una lavadora :-P]]></description>
+			<content:encoded><![CDATA[<p>¡Ay, my friend! El problema no está en la plataforma, sino en el lenguaje. ¿Quién te manda usar C? Esto con Java no te pasaría, que lo puedes instalar hasta en una lavadora :-P</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 17:04:03 by W3 Total Cache
+-->

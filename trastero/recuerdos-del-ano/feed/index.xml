@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Recuerdos del año	</title>
+	<atom:link href="/trastero/recuerdos-del-ano/feed/" rel="self" type="application/rss+xml" />
+	<link>/trastero/recuerdos-del-ano/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=recuerdos-del-ano</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Mon, 15 Feb 2016 22:47:42 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/trastero/recuerdos-del-ano/#comment-409</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Sun, 31 Dec 2006 16:50:09 +0000</pubDate>
+		<guid isPermaLink="false">/2006/12/31/recuerdos-del-ano/#comment-409</guid>
+
+					<description><![CDATA[Cotillee usted todo lo que quiera y feliz año nuevo también ^^]]></description>
+			<content:encoded><![CDATA[<p>Cotillee usted todo lo que quiera y feliz año nuevo también ^^</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Darklady		</title>
+		<link>/trastero/recuerdos-del-ano/#comment-390</link>
+
+		<dc:creator><![CDATA[Darklady]]></dc:creator>
+		<pubDate>Sun, 31 Dec 2006 13:01:37 +0000</pubDate>
+		<guid isPermaLink="false">/2006/12/31/recuerdos-del-ano/#comment-390</guid>
+
+					<description><![CDATA[De nadaaaaaaaaaaaaa ^_^Y&lt;br /&gt;Un placer leerte, ya lo sabes... de hecho, creo que el mayor placer de estos días (sí, incluyo la comida en la ecuación), me lo llevo de cotillearte por aquí ^_^&lt;br /&gt;Feliz Año Nuevo y ya veremos que nos va trayendo cuando llegue, no?&lt;br /&gt;Y para enterarme bien, seguiré cotilleando por aquí... que nunca viene mal tener un espacio virtual o un agujero negro, o ambas cosas a la vez que funcionen como sustitutas de una mesa de café ^^&lt;br /&gt;&lt;br /&gt;Que vaya bien... la la la.]]></description>
+			<content:encoded><![CDATA[<p>De nadaaaaaaaaaaaaa ^_^Y<br />Un placer leerte, ya lo sabes&#8230; de hecho, creo que el mayor placer de estos días (sí, incluyo la comida en la ecuación), me lo llevo de cotillearte por aquí ^_^<br />Feliz Año Nuevo y ya veremos que nos va trayendo cuando llegue, no?<br />Y para enterarme bien, seguiré cotilleando por aquí&#8230; que nunca viene mal tener un espacio virtual o un agujero negro, o ambas cosas a la vez que funcionen como sustitutas de una mesa de café ^^</p>
+<p>Que vaya bien&#8230; la la la.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:42:21 by W3 Total Cache
+-->

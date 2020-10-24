@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Conociendo el tipo de economía por el lenguaje de programación	</title>
+	<atom:link href="/trastero/conociendo-el-tipo-de-economia-por-el-lenguaje-de-programacion/feed/" rel="self" type="application/rss+xml" />
+	<link>/trastero/conociendo-el-tipo-de-economia-por-el-lenguaje-de-programacion/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=conociendo-el-tipo-de-economia-por-el-lenguaje-de-programacion</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 13:38:49 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Karstiel		</title>
+		<link>/trastero/conociendo-el-tipo-de-economia-por-el-lenguaje-de-programacion/#comment-5281</link>
+
+		<dc:creator><![CDATA[Karstiel]]></dc:creator>
+		<pubDate>Sat, 20 Mar 2010 01:10:43 +0000</pubDate>
+		<guid isPermaLink="false">/2010/03/16/conociendo-el-tipo-de-economia-por-el-lenguaje-de-programacion/#comment-5281</guid>
+
+					<description><![CDATA[&lt;b&gt;@Carlos&lt;/b&gt;: Hombre, ya ponía que generalizaba de una manera grandiosa. Por supuesto que sé que Java tiene muchas más aplicaciones (leches, ¡tú y yo compartimos un mundo Java profesional que no era web!), pero era eso, generalización a que sólo el mundo web parece que existe en ese mundo y que la innovación brilla por su ausencia.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;@Capitan Haddock&lt;/b&gt;: El gran problema que tiene Java es su facilidad para soportar lo que le echen... Consecuencia: mucha gente programa con la uña del pie y claro, así luego van las cosas...&lt;br /&gt;&lt;br /&gt;&lt;b&gt;@Drizzt&lt;/b&gt;: Te has ido a ejemplos grandes ;) Lo primero que se me ha ocurrido como respuesta son los rankings de popularidad de los lenguajes de programación. Generalmente C y Java andan a la par, y C++ se suele colocar como 3º o 4º... Si sumas C con C++ casi doblamos el uso a Java. Si te fijas, en España la mayoría es Java, así que sí que hay países en el que el uso de C/C++ es mucho más intensivo que lo otro y no creo que sea solamente para gestión (qué también, claro)]]></description>
+			<content:encoded><![CDATA[<p><b>@Carlos</b>: Hombre, ya ponía que generalizaba de una manera grandiosa. Por supuesto que sé que Java tiene muchas más aplicaciones (leches, ¡tú y yo compartimos un mundo Java profesional que no era web!), pero era eso, generalización a que sólo el mundo web parece que existe en ese mundo y que la innovación brilla por su ausencia.</p>
+<p><b>@Capitan Haddock</b>: El gran problema que tiene Java es su facilidad para soportar lo que le echen&#8230; Consecuencia: mucha gente programa con la uña del pie y claro, así luego van las cosas&#8230;</p>
+<p><b>@Drizzt</b>: Te has ido a ejemplos grandes ;) Lo primero que se me ha ocurrido como respuesta son los rankings de popularidad de los lenguajes de programación. Generalmente C y Java andan a la par, y C++ se suele colocar como 3º o 4º&#8230; Si sumas C con C++ casi doblamos el uso a Java. Si te fijas, en España la mayoría es Java, así que sí que hay países en el que el uso de C/C++ es mucho más intensivo que lo otro y no creo que sea solamente para gestión (qué también, claro)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/trastero/conociendo-el-tipo-de-economia-por-el-lenguaje-de-programacion/#comment-5280</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Thu, 18 Mar 2010 11:21:33 +0000</pubDate>
+		<guid isPermaLink="false">/2010/03/16/conociendo-el-tipo-de-economia-por-el-lenguaje-de-programacion/#comment-5280</guid>
+
+					<description><![CDATA[Pues no se que deciros, pero a pesar que cierto tipo de producto requieran Cs embebidos/C++, la mayor parte del negocio en &quot;cualquier pais desarrollado occidental&quot; creo que cae en el lado de la gestión/servicios. &lt;br /&gt;&lt;br /&gt;Por poner un ejemplo que quizas me pilla eljano y no conozca, Alemenaia no creo que tenga a una parte &quot;importante y significativa en porcentaje&quot; de informáticos haciendo soft para la VW o telefonia o en Crytek, contra el resto poblacion ocupada en softw de gestión.]]></description>
+			<content:encoded><![CDATA[<p>Pues no se que deciros, pero a pesar que cierto tipo de producto requieran Cs embebidos/C++, la mayor parte del negocio en &#8220;cualquier pais desarrollado occidental&#8221; creo que cae en el lado de la gestión/servicios. </p>
+<p>Por poner un ejemplo que quizas me pilla eljano y no conozca, Alemenaia no creo que tenga a una parte &#8220;importante y significativa en porcentaje&#8221; de informáticos haciendo soft para la VW o telefonia o en Crytek, contra el resto poblacion ocupada en softw de gestión.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Capitan HaddocK		</title>
+		<link>/trastero/conociendo-el-tipo-de-economia-por-el-lenguaje-de-programacion/#comment-5279</link>
+
+		<dc:creator><![CDATA[Capitan HaddocK]]></dc:creator>
+		<pubDate>Thu, 18 Mar 2010 10:17:41 +0000</pubDate>
+		<guid isPermaLink="false">/2010/03/16/conociendo-el-tipo-de-economia-por-el-lenguaje-de-programacion/#comment-5279</guid>
+
+					<description><![CDATA[Teienes bastante razón, o por lo menos parece que ese modelo se ajusta bastante a la realidad. Ahora me explico por que en un país de servicios se pide tanta gente con conocimiento de un lenguaje de servicios.&lt;br /&gt;&lt;br /&gt;@Carlos: mi experiencia con java es bastante limitada en lo que a programación se refiere. Sin embargo en los últimos meses he estado probando un STR hecho en java y puedo decirte que es una puta mierda. No se si se debe a que esta muy mal programado o simplemente a que java es con mucho la peor opción para desarrollar un producto de este tipo.]]></description>
+			<content:encoded><![CDATA[<p>Teienes bastante razón, o por lo menos parece que ese modelo se ajusta bastante a la realidad. Ahora me explico por que en un país de servicios se pide tanta gente con conocimiento de un lenguaje de servicios.</p>
+<p>@Carlos: mi experiencia con java es bastante limitada en lo que a programación se refiere. Sin embargo en los últimos meses he estado probando un STR hecho en java y puedo decirte que es una puta mierda. No se si se debe a que esta muy mal programado o simplemente a que java es con mucho la peor opción para desarrollar un producto de este tipo.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Carlos		</title>
+		<link>/trastero/conociendo-el-tipo-de-economia-por-el-lenguaje-de-programacion/#comment-5278</link>
+
+		<dc:creator><![CDATA[Carlos]]></dc:creator>
+		<pubDate>Tue, 16 Mar 2010 15:45:29 +0000</pubDate>
+		<guid isPermaLink="false">/2010/03/16/conociendo-el-tipo-de-economia-por-el-lenguaje-de-programacion/#comment-5278</guid>
+
+					<description><![CDATA[Mmm, pues no me había parado a pensarlo, pero creo que tienes razón. Sin embargo pienso que hay un error en la concepción: Java tiene potencial para ser mucho más que una plataforma web, pero no hay muchas compañías capaces de ver el mercado ahí y en general se limitan a tirar por el camino fácil de no crear nada ni abrir nuevos mercados. &lt;br /&gt;Generalizando, creo que esto está relacionado con la imagen que la sociedad tiene de nuestra profesión: un informático en este país no necesita ser ingeniero de software, ni saber nada de algoritmia ni de diseño ni de matemáticas o física, porque para desarrollar este tipo de aplicaciones que se hacen en serie (pero no en serio) todos estos conocimientos están de más.&lt;br /&gt;Ojo, no pretendo ofender a nadie: el desarrollo web no es mejor ni peor que cualquier otro, es la falta de innovación lo que me quema. Y así nos luce el pelo...]]></description>
+			<content:encoded><![CDATA[<p>Mmm, pues no me había parado a pensarlo, pero creo que tienes razón. Sin embargo pienso que hay un error en la concepción: Java tiene potencial para ser mucho más que una plataforma web, pero no hay muchas compañías capaces de ver el mercado ahí y en general se limitan a tirar por el camino fácil de no crear nada ni abrir nuevos mercados. <br />Generalizando, creo que esto está relacionado con la imagen que la sociedad tiene de nuestra profesión: un informático en este país no necesita ser ingeniero de software, ni saber nada de algoritmia ni de diseño ni de matemáticas o física, porque para desarrollar este tipo de aplicaciones que se hacen en serie (pero no en serio) todos estos conocimientos están de más.<br />Ojo, no pretendo ofender a nadie: el desarrollo web no es mejor ni peor que cualquier otro, es la falta de innovación lo que me quema. Y así nos luce el pelo&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:25:12 by W3 Total Cache
+-->

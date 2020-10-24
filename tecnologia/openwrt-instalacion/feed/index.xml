@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: OpenWRT &#8211; Instalación	</title>
+	<atom:link href="/tecnologia/openwrt-instalacion/feed/" rel="self" type="application/rss+xml" />
+	<link>/tecnologia/openwrt-instalacion/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=openwrt-instalacion</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Mon, 29 Feb 2016 13:35:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: karstiel		</title>
+		<link>/tecnologia/openwrt-instalacion/#comment-26542</link>
+
+		<dc:creator><![CDATA[karstiel]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2015 14:31:46 +0000</pubDate>
+		<guid isPermaLink="false">/?p=169#comment-26542</guid>
+
+					<description><![CDATA[Pues se reviven aleatoriamente, así que tiene su gracia que este haya aparecido :D]]></description>
+			<content:encoded><![CDATA[<p>Pues se reviven aleatoriamente, así que tiene su gracia que este haya aparecido :D</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/tecnologia/openwrt-instalacion/#comment-26490</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Wed, 16 Sep 2015 12:32:02 +0000</pubDate>
+		<guid isPermaLink="false">/?p=169#comment-26490</guid>
+
+					<description><![CDATA[¿Lo revives por el rumor?
+http://barrapunto.com/articles/15/09/13/2222225.shtml]]></description>
+			<content:encoded><![CDATA[<p>¿Lo revives por el rumor?<br />
+<a href="http://barrapunto.com/articles/15/09/13/2222225.shtml" rel="nofollow ugc external noopener noreferrer" data-wpel-link="external" target="_blank" class="ext-link">http://barrapunto.com/articles/15/09/13/2222225.shtml</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:28:59 by W3 Total Cache
+-->

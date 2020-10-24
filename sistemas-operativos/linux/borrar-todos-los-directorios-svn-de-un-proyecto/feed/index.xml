@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Borrar todos los directorios .svn de un proyecto	</title>
+	<atom:link href="/sistemas-operativos/linux/borrar-todos-los-directorios-svn-de-un-proyecto/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/linux/borrar-todos-los-directorios-svn-de-un-proyecto/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=borrar-todos-los-directorios-svn-de-un-proyecto</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 05:44:34 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: karstiel		</title>
+		<link>/sistemas-operativos/linux/borrar-todos-los-directorios-svn-de-un-proyecto/#comment-10</link>
+
+		<dc:creator><![CDATA[karstiel]]></dc:creator>
+		<pubDate>Wed, 30 Oct 2013 23:03:06 +0000</pubDate>
+		<guid isPermaLink="false">/?p=445#comment-10</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;/sistemas-operativos/linux/borrar-todos-los-directorios-svn-de-un-proyecto/#comment-9&quot;&gt;Drizzt&lt;/a&gt;.
+
+Toma ya :D]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="/sistemas-operativos/linux/borrar-todos-los-directorios-svn-de-un-proyecto/#comment-9" data-wpel-link="internal">Drizzt</a>.</p>
+<p>Toma ya :D</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/sistemas-operativos/linux/borrar-todos-los-directorios-svn-de-un-proyecto/#comment-9</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Thu, 10 Oct 2013 08:51:59 +0000</pubDate>
+		<guid isPermaLink="false">/?p=445#comment-9</guid>
+
+					<description><![CDATA[1.- C&#038;P
+2.- F3 + &quot;.svn&quot;
+3.- Ordenar por tipo + multi selección + Supr + Si
+
+= (2+2) + (1+5) + (4+2) = 16 pulsaciones de la interfaz &quot;silla-pantalla&quot;
+
+16 &#060; 38 
+:P]]></description>
+			<content:encoded><![CDATA[<p>1.- C&amp;P<br />
+2.- F3 + &#8220;.svn&#8221;<br />
+3.- Ordenar por tipo + multi selección + Supr + Si</p>
+<p>= (2+2) + (1+5) + (4+2) = 16 pulsaciones de la interfaz &#8220;silla-pantalla&#8221;</p>
+<p>16 &lt; 38<br />
+:P</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: karstiel		</title>
+		<link>/sistemas-operativos/linux/borrar-todos-los-directorios-svn-de-un-proyecto/#comment-8</link>
+
+		<dc:creator><![CDATA[karstiel]]></dc:creator>
+		<pubDate>Mon, 30 Sep 2013 10:14:51 +0000</pubDate>
+		<guid isPermaLink="false">/?p=445#comment-8</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;/sistemas-operativos/linux/borrar-todos-los-directorios-svn-de-un-proyecto/#comment-7&quot;&gt;Danielgd&lt;/a&gt;.
+
+Ciertamente, pero me he encontrado con el proyecto pasado con los .svn y sin subversion instalado en esa máquina :D]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="/sistemas-operativos/linux/borrar-todos-los-directorios-svn-de-un-proyecto/#comment-7" data-wpel-link="internal">Danielgd</a>.</p>
+<p>Ciertamente, pero me he encontrado con el proyecto pasado con los .svn y sin subversion instalado en esa máquina :D</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Danielgd		</title>
+		<link>/sistemas-operativos/linux/borrar-todos-los-directorios-svn-de-un-proyecto/#comment-7</link>
+
+		<dc:creator><![CDATA[Danielgd]]></dc:creator>
+		<pubDate>Mon, 30 Sep 2013 10:10:15 +0000</pubDate>
+		<guid isPermaLink="false">/?p=445#comment-7</guid>
+
+					<description><![CDATA[Y digo yo, ¿no es más fácil ahorranos un paso y hacer una copia del proyecto sin los .svn usando el comando export de svn?
+
+Añado que el comando expuesto en el post debe ejecutarse desde la ruta a limpiar, porque como un incauto lo haga desde su raíz se va a quedar sin tracking con svn en todos sus proyectos ;)]]></description>
+			<content:encoded><![CDATA[<p>Y digo yo, ¿no es más fácil ahorranos un paso y hacer una copia del proyecto sin los .svn usando el comando export de svn?</p>
+<p>Añado que el comando expuesto en el post debe ejecutarse desde la ruta a limpiar, porque como un incauto lo haga desde su raíz se va a quedar sin tracking con svn en todos sus proyectos ;)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:33:51 by W3 Total Cache
+-->

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: ¿Tenéis hambre?	</title>
+	<atom:link href="/trastero/teneis-hambre/feed/" rel="self" type="application/rss+xml" />
+	<link>/trastero/teneis-hambre/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=teneis-hambre</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Thu, 31 May 2007 17:02:56 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/trastero/teneis-hambre/#comment-1423</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Thu, 31 May 2007 17:02:56 +0000</pubDate>
+		<guid isPermaLink="false">/2007/05/31/teneis-hambre/#comment-1423</guid>
+
+					<description><![CDATA[Hay que aprovechar bien las oportunidades de la vida ;)]]></description>
+			<content:encoded><![CDATA[<p>Hay que aprovechar bien las oportunidades de la vida ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Sr PyYy		</title>
+		<link>/trastero/teneis-hambre/#comment-1421</link>
+
+		<dc:creator><![CDATA[Sr PyYy]]></dc:creator>
+		<pubDate>Thu, 31 May 2007 16:05:03 +0000</pubDate>
+		<guid isPermaLink="false">/2007/05/31/teneis-hambre/#comment-1421</guid>
+
+					<description><![CDATA[Buena informacion, como gran comedor de cantidades industriales esos datos me vienen muy bien :D a ver si nos vemos en una de esas comilonas:P]]></description>
+			<content:encoded><![CDATA[<p>Buena informacion, como gran comedor de cantidades industriales esos datos me vienen muy bien :D a ver si nos vemos en una de esas comilonas:P</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 17:06:42 by W3 Total Cache
+-->

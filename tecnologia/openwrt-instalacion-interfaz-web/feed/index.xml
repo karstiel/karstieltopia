@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: OpenWRT &#8211; Instalación interfaz web	</title>
+	<atom:link href="/tecnologia/openwrt-instalacion-interfaz-web/feed/" rel="self" type="application/rss+xml" />
+	<link>/tecnologia/openwrt-instalacion-interfaz-web/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=openwrt-instalacion-interfaz-web</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Wed, 19 Aug 2020 10:21:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: karstiel		</title>
+		<link>/tecnologia/openwrt-instalacion-interfaz-web/#comment-32720</link>
+
+		<dc:creator><![CDATA[karstiel]]></dc:creator>
+		<pubDate>Wed, 19 Aug 2020 10:21:13 +0000</pubDate>
+		<guid isPermaLink="false">/?p=196#comment-32720</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;/tecnologia/openwrt-instalacion-interfaz-web/#comment-32673&quot;&gt;Abel Reyes&lt;/a&gt;.
+
+Lo siento mucho, pero hace tiempo que ya no tengo esos paquetes :/]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="/tecnologia/openwrt-instalacion-interfaz-web/#comment-32673" data-wpel-link="internal">Abel Reyes</a>.</p>
+<p>Lo siento mucho, pero hace tiempo que ya no tengo esos paquetes :/</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Abel Reyes		</title>
+		<link>/tecnologia/openwrt-instalacion-interfaz-web/#comment-32673</link>
+
+		<dc:creator><![CDATA[Abel Reyes]]></dc:creator>
+		<pubDate>Wed, 22 Jul 2020 18:05:52 +0000</pubDate>
+		<guid isPermaLink="false">/?p=196#comment-32673</guid>
+
+					<description><![CDATA[Hola amigo , desafortunadamente los paquetes que indicas no los encuentro ni en el link que compartiste, si aun los tienes, cosa dificil, seria posible que me los compartas?]]></description>
+			<content:encoded><![CDATA[<p>Hola amigo , desafortunadamente los paquetes que indicas no los encuentro ni en el link que compartiste, si aun los tienes, cosa dificil, seria posible que me los compartas?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:06:05 by W3 Total Cache
+-->

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Cambios en el blog	</title>
+	<atom:link href="/trastero/cambios-en-el-blog/feed/" rel="self" type="application/rss+xml" />
+	<link>/trastero/cambios-en-el-blog/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cambios-en-el-blog</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Wed, 28 Mar 2007 18:14:27 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/trastero/cambios-en-el-blog/#comment-976</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Wed, 28 Mar 2007 18:14:27 +0000</pubDate>
+		<guid isPermaLink="false">/2007/03/28/cambios-en-el-blog/#comment-976</guid>
+
+					<description><![CDATA[Jejeje, moitas graciñas por visitarlo :)&lt;br /&gt;Voy a echarle un vistazo a ese blog ;)]]></description>
+			<content:encoded><![CDATA[<p>Jejeje, moitas graciñas por visitarlo :)<br />Voy a echarle un vistazo a ese blog ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Sr PyYy		</title>
+		<link>/trastero/cambios-en-el-blog/#comment-974</link>
+
+		<dc:creator><![CDATA[Sr PyYy]]></dc:creator>
+		<pubDate>Wed, 28 Mar 2007 15:01:33 +0000</pubDate>
+		<guid isPermaLink="false">/2007/03/28/cambios-en-el-blog/#comment-974</guid>
+
+					<description><![CDATA[Buen plugin, ya me resgistrado a ver si anda esto. Ya que estoy te voy a felicitar por tu blog, es, por ahora el unico blog personal que visito todos los dias:P, sera porque estoy enamorado:P.&lt;br /&gt;&lt;br /&gt;Por si alguien no conoce la direccion, voy a dejar aqui un excelente blog: www.curiosoperoinutil.com]]></description>
+			<content:encoded><![CDATA[<p>Buen plugin, ya me resgistrado a ver si anda esto. Ya que estoy te voy a felicitar por tu blog, es, por ahora el unico blog personal que visito todos los dias:P, sera porque estoy enamorado:P.</p>
+<p>Por si alguien no conoce la direccion, voy a dejar aqui un excelente blog: <a href="http://www.curiosoperoinutil.com/" rel="nofollow ugc external noopener noreferrer" data-wpel-link="external" target="_blank" class="ext-link">http://www.curiosoperoinutil.com/</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:37:49 by W3 Total Cache
+-->

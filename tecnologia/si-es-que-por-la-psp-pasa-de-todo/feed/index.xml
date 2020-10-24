@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Si es que por la PSP pasa de todo…	</title>
+	<atom:link href="/tecnologia/si-es-que-por-la-psp-pasa-de-todo/feed/" rel="self" type="application/rss+xml" />
+	<link>/tecnologia/si-es-que-por-la-psp-pasa-de-todo/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=si-es-que-por-la-psp-pasa-de-todo</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Mon, 15 Feb 2016 22:47:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/tecnologia/si-es-que-por-la-psp-pasa-de-todo/#comment-1410</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Tue, 29 May 2007 13:42:30 +0000</pubDate>
+		<guid isPermaLink="false">/2007/05/29/si-es-que-por-la-psp-pasa-de-todo/#comment-1410</guid>
+
+					<description><![CDATA[Jejeje, bueno, básicamente J2ME es una versión reducida con un repertorio básico de funcionalidades que, en principio, se utiliza para móviles, aunque cualquier otro aparatillo podría llevarlo.&lt;br /&gt;&lt;br /&gt;Aunque también es cierto que Java está intentando imponer ahora un nuevo sistema para que dejen de tener esas restricciones :P&lt;br /&gt;&lt;br /&gt;Y lo del firmware... es que en la versión 1.5 de la PSP fue la gran deseada dado que podías instalarle programas a través de un fallo del SO de la consola :P]]></description>
+			<content:encoded><![CDATA[<p>Jejeje, bueno, básicamente J2ME es una versión reducida con un repertorio básico de funcionalidades que, en principio, se utiliza para móviles, aunque cualquier otro aparatillo podría llevarlo.</p>
+<p>Aunque también es cierto que Java está intentando imponer ahora un nuevo sistema para que dejen de tener esas restricciones :P</p>
+<p>Y lo del firmware&#8230; es que en la versión 1.5 de la PSP fue la gran deseada dado que podías instalarle programas a través de un fallo del SO de la consola :P</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Sr PyYy		</title>
+		<link>/tecnologia/si-es-que-por-la-psp-pasa-de-todo/#comment-1409</link>
+
+		<dc:creator><![CDATA[Sr PyYy]]></dc:creator>
+		<pubDate>Tue, 29 May 2007 12:56:35 +0000</pubDate>
+		<guid isPermaLink="false">/2007/05/29/si-es-que-por-la-psp-pasa-de-todo/#comment-1409</guid>
+
+					<description><![CDATA[Me has dejado atonito, no me he enterado de una mierda xD me perdi despues de que dijeras J2ME, que tenia entendido de siempre que era el &quot;java para moviles&quot; o al menos asi lo presentaban cuando me dio por programar hace muuucho tiempo... ya no he entendio namas xD bueno si, la palabra compilar xD cabron xD]]></description>
+			<content:encoded><![CDATA[<p>Me has dejado atonito, no me he enterado de una mierda xD me perdi despues de que dijeras J2ME, que tenia entendido de siempre que era el &#8220;java para moviles&#8221; o al menos asi lo presentaban cuando me dio por programar hace muuucho tiempo&#8230; ya no he entendio namas xD bueno si, la palabra compilar xD cabron xD</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:48:31 by W3 Total Cache
+-->

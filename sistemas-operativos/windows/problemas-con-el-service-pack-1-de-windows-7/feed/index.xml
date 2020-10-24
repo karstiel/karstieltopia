@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: ¿Problemas con el service pack 1 de Windows 7?	</title>
+	<atom:link href="/sistemas-operativos/windows/problemas-con-el-service-pack-1-de-windows-7/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/windows/problemas-con-el-service-pack-1-de-windows-7/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=problemas-con-el-service-pack-1-de-windows-7</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 21:20:41 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Karstiel		</title>
+		<link>/sistemas-operativos/windows/problemas-con-el-service-pack-1-de-windows-7/#comment-5454</link>
+
+		<dc:creator><![CDATA[Karstiel]]></dc:creator>
+		<pubDate>Sun, 27 Feb 2011 21:46:42 +0000</pubDate>
+		<guid isPermaLink="false">/2011/02/25/problemas-con-el-service-pack-1-de-windows-7/#comment-5454</guid>
+
+					<description><![CDATA[&lt;b&gt;Drizzt&lt;/b&gt;: Me imaginaba tu método, lo que sí que me has dejado totalmente pillado con lo de que no se ven el consumo de los servicios... así que he mirado y la forma de hacerlo no es directa: sacas el administrador de tareas típico de windows, le das a rendimiento y ahí a monitor de recursos, en dónde sí que aparecen todos los procesos y servicios. Y si no encuentras el que buscas, miras el pid y comparas con el que aparece en la sección de servicios del administrador de tareas]]></description>
+			<content:encoded><![CDATA[<p><b>Drizzt</b>: Me imaginaba tu método, lo que sí que me has dejado totalmente pillado con lo de que no se ven el consumo de los servicios&#8230; así que he mirado y la forma de hacerlo no es directa: sacas el administrador de tareas típico de windows, le das a rendimiento y ahí a monitor de recursos, en dónde sí que aparecen todos los procesos y servicios. Y si no encuentras el que buscas, miras el pid y comparas con el que aparece en la sección de servicios del administrador de tareas</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/sistemas-operativos/windows/problemas-con-el-service-pack-1-de-windows-7/#comment-5451</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Sat, 26 Feb 2011 16:46:29 +0000</pubDate>
+		<guid isPermaLink="false">/2011/02/25/problemas-con-el-service-pack-1-de-windows-7/#comment-5451</guid>
+
+					<description><![CDATA[Instalado W7SP1x64 en VM sobre XPSP3x86 XDD (lo tengo como tester de los &quot;loaders&quot; para la version &quot;jack sparrow&quot; hasta que me decida a migrar el físico). Sin novedad al frente...&lt;br /&gt;&lt;br /&gt;No me gusta que por defecto no muestre el consumo de CPU y memoria individual de los servicios. ¿Hay alguna manera de ponerlo?]]></description>
+			<content:encoded><![CDATA[<p>Instalado W7SP1x64 en VM sobre XPSP3x86 XDD (lo tengo como tester de los &#8220;loaders&#8221; para la version &#8220;jack sparrow&#8221; hasta que me decida a migrar el físico). Sin novedad al frente&#8230;</p>
+<p>No me gusta que por defecto no muestre el consumo de CPU y memoria individual de los servicios. ¿Hay alguna manera de ponerlo?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Alfonso de la Fuente Ruiz		</title>
+		<link>/sistemas-operativos/windows/problemas-con-el-service-pack-1-de-windows-7/#comment-5449</link>
+
+		<dc:creator><![CDATA[Alfonso de la Fuente Ruiz]]></dc:creator>
+		<pubDate>Fri, 25 Feb 2011 21:27:03 +0000</pubDate>
+		<guid isPermaLink="false">/2011/02/25/problemas-con-el-service-pack-1-de-windows-7/#comment-5449</guid>
+
+					<description><![CDATA[grasinhas de hantepierna :)]]></description>
+			<content:encoded><![CDATA[<p>grasinhas de hantepierna :)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Karstiel		</title>
+		<link>/sistemas-operativos/windows/problemas-con-el-service-pack-1-de-windows-7/#comment-5448</link>
+
+		<dc:creator><![CDATA[Karstiel]]></dc:creator>
+		<pubDate>Fri, 25 Feb 2011 10:32:56 +0000</pubDate>
+		<guid isPermaLink="false">/2011/02/25/problemas-con-el-service-pack-1-de-windows-7/#comment-5448</guid>
+
+					<description><![CDATA[&lt;b&gt;@Alfonso&lt;/b&gt;: Pues sí que hacía tiempo que no escribía... a ver si consigo mantener ritmo y escribir de vez en cuando, pero ésto de cambiar el formato de vida influye mucho a no tener tiempo libre :P&lt;br /&gt;&lt;br /&gt;En fin, sobre lo de tu ordenadero, lo del grub tendrías que seguir algo como ésto:&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://bit.ly/9nUQK3&quot; rel=&quot;nofollow&quot;&gt;http://bit.ly/9nUQK3&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Y sobre lo de Windows... siento decir que yo siempre apliqué la teoría de &quot;toca reinstalar...&quot;, de ahí que siga decantándome por Linux como base :D]]></description>
+			<content:encoded><![CDATA[<p><b>@Alfonso</b>: Pues sí que hacía tiempo que no escribía&#8230; a ver si consigo mantener ritmo y escribir de vez en cuando, pero ésto de cambiar el formato de vida influye mucho a no tener tiempo libre :P</p>
+<p>En fin, sobre lo de tu ordenadero, lo del grub tendrías que seguir algo como ésto:</p>
+<p><a href="http://bit.ly/9nUQK3" rel="nofollow external noopener noreferrer" data-wpel-link="external" target="_blank" class="ext-link">http://bit.ly/9nUQK3</a></p>
+<p>Y sobre lo de Windows&#8230; siento decir que yo siempre apliqué la teoría de &#8220;toca reinstalar&#8230;&#8221;, de ahí que siga decantándome por Linux como base :D</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Alfonso de la Fuente Ruiz		</title>
+		<link>/sistemas-operativos/windows/problemas-con-el-service-pack-1-de-windows-7/#comment-5447</link>
+
+		<dc:creator><![CDATA[Alfonso de la Fuente Ruiz]]></dc:creator>
+		<pubDate>Fri, 25 Feb 2011 09:57:40 +0000</pubDate>
+		<guid isPermaLink="false">/2011/02/25/problemas-con-el-service-pack-1-de-windows-7/#comment-5447</guid>
+
+					<description><![CDATA[A mí el SP de Vista que acaba de salir me ha dejado el PC hecho unos zorros... a ver si me podéis echar un cable OYGAN. Ya no arranca ni el linux, a menos que meta un CD de ubuntu y elija &quot;boot from first hard drive&quot;. En parte porque soy un perezoso y no he mirado bien detenidamente cómo restaurar el grub, y como no tengo líneas de alimentación suficientes para todos los discos duros y el lector de CD, tengo que desconectar un disco duro para poder cargar Ubuntu, y claro, me da cuatro errores de particiones que no encuentra.&lt;br /&gt;El caso es que la herramienta para restaurar el Vista después de instalar el SP no rula. He probado todas las opciones, metiendo el disco original y nada, de momento estoy jodido pero no quiero reinstalar el Vista porque tenía algunas cosillas sin backupear que recuperar antes.&lt;br /&gt;La cosa es que le di a instalar el SP de Vista, pero tras un par de hora me dijo que no se podía instalar y que haría rollour para deshacer los cambios. Después de aquello ya no arrancaba.&lt;br /&gt;¿Ideas?&lt;br /&gt;Si no, pues nada, ya sé que esto no es un foro de dudas ni un SAT gratuito de M$.&lt;br /&gt;En otro orden de cosas, me alegra volver a ver un post por aquí, ya creía que el agujero negro había colapsado el espacio-tiempo bajo su propia gravedad ;)]]></description>
+			<content:encoded><![CDATA[<p>A mí el SP de Vista que acaba de salir me ha dejado el PC hecho unos zorros&#8230; a ver si me podéis echar un cable OYGAN. Ya no arranca ni el linux, a menos que meta un CD de ubuntu y elija &#8220;boot from first hard drive&#8221;. En parte porque soy un perezoso y no he mirado bien detenidamente cómo restaurar el grub, y como no tengo líneas de alimentación suficientes para todos los discos duros y el lector de CD, tengo que desconectar un disco duro para poder cargar Ubuntu, y claro, me da cuatro errores de particiones que no encuentra.<br />El caso es que la herramienta para restaurar el Vista después de instalar el SP no rula. He probado todas las opciones, metiendo el disco original y nada, de momento estoy jodido pero no quiero reinstalar el Vista porque tenía algunas cosillas sin backupear que recuperar antes.<br />La cosa es que le di a instalar el SP de Vista, pero tras un par de hora me dijo que no se podía instalar y que haría rollour para deshacer los cambios. Después de aquello ya no arrancaba.<br />¿Ideas?<br />Si no, pues nada, ya sé que esto no es un foro de dudas ni un SAT gratuito de M$.<br />En otro orden de cosas, me alegra volver a ver un post por aquí, ya creía que el agujero negro había colapsado el espacio-tiempo bajo su propia gravedad ;)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:20:05 by W3 Total Cache
+-->

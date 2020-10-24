@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: La conferencia sobre el futuro de Sun	</title>
+	<atom:link href="/programacion/la-conferencia-sobre-el-futuro-de-sun/feed/" rel="self" type="application/rss+xml" />
+	<link>/programacion/la-conferencia-sobre-el-futuro-de-sun/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=la-conferencia-sobre-el-futuro-de-sun</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 23:28:55 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Karstiel		</title>
+		<link>/programacion/la-conferencia-sobre-el-futuro-de-sun/#comment-5227</link>
+
+		<dc:creator><![CDATA[Karstiel]]></dc:creator>
+		<pubDate>Sun, 31 Jan 2010 23:05:31 +0000</pubDate>
+		<guid isPermaLink="false">/2010/01/28/la-conferencia-sobre-el-futuro-de-sun/#comment-5227</guid>
+
+					<description><![CDATA[&lt;b&gt;@Disquete&lt;/b&gt;: La verdad es que, de todo lo que parece que va a ser tocado a las malas, NetBeans es el que más me duele... Por un lado porque por fin me había gustado, por fin me sentía cómodo y creía que me estaba acomodando a algo más que a Eclipse y, por otro lado, porque JDeveloper (que sería lo que quedaría) me parece un tanto extraño, desfasado, feo, horrible, etc (venga, que es una pataleta :D)&lt;br /&gt;&lt;br /&gt;Y, encima, ¡el favicon de Oracle es horrible!&lt;br /&gt;&lt;br /&gt;¿Buen momento para que nazca una nueva tecnología y que evolucione Java a un lugar mejor?]]></description>
+			<content:encoded><![CDATA[<p><b>@Disquete</b>: La verdad es que, de todo lo que parece que va a ser tocado a las malas, NetBeans es el que más me duele&#8230; Por un lado porque por fin me había gustado, por fin me sentía cómodo y creía que me estaba acomodando a algo más que a Eclipse y, por otro lado, porque JDeveloper (que sería lo que quedaría) me parece un tanto extraño, desfasado, feo, horrible, etc (venga, que es una pataleta :D)</p>
+<p>Y, encima, ¡el favicon de Oracle es horrible!</p>
+<p>¿Buen momento para que nazca una nueva tecnología y que evolucione Java a un lugar mejor?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Disquete		</title>
+		<link>/programacion/la-conferencia-sobre-el-futuro-de-sun/#comment-5225</link>
+
+		<dc:creator><![CDATA[Disquete]]></dc:creator>
+		<pubDate>Fri, 29 Jan 2010 09:23:28 +0000</pubDate>
+		<guid isPermaLink="false">/2010/01/28/la-conferencia-sobre-el-futuro-de-sun/#comment-5225</guid>
+
+					<description><![CDATA[Y también van a cerrar Kenai, que es el Google Code de Sun, el repositorio público con el que NetBeans tiene integración.&lt;br /&gt;&lt;br /&gt;En el lado hardware parece que van a meter euros en los Sparc gordotes y las Sunray.&lt;br /&gt;&lt;br /&gt;Me da pena por GlassFish, pero más por NetBeans y J2ME.&lt;br /&gt;&lt;br /&gt;Seguro que MySQL acaba como las herramientas de consola de Oracle que vienen de serie con la base de datos: funcionan, pero con limitaciones absurdas, como número máximo de caracteres en una query.&lt;br /&gt;&lt;br /&gt;De todas formas MySQL no me preocupa mucho, si MariaDB facilita la migración no habrá traumas. Me preocupa si se acabará la GPLización de Java y si se liberará también J2ME. GlassFish y Netbeans son libres, pero si nadie lo remedia tendrán un parón grande cuando les quiten sus equipos de desarrollo de toda la vida.&lt;br /&gt;&lt;br /&gt;Y desde ayer, el favicon de http://java.sun.com/javase/6/docs/api/ es el de Oracle :&#039;(]]></description>
+			<content:encoded><![CDATA[<p>Y también van a cerrar Kenai, que es el Google Code de Sun, el repositorio público con el que NetBeans tiene integración.</p>
+<p>En el lado hardware parece que van a meter euros en los Sparc gordotes y las Sunray.</p>
+<p>Me da pena por GlassFish, pero más por NetBeans y J2ME.</p>
+<p>Seguro que MySQL acaba como las herramientas de consola de Oracle que vienen de serie con la base de datos: funcionan, pero con limitaciones absurdas, como número máximo de caracteres en una query.</p>
+<p>De todas formas MySQL no me preocupa mucho, si MariaDB facilita la migración no habrá traumas. Me preocupa si se acabará la GPLización de Java y si se liberará también J2ME. GlassFish y Netbeans son libres, pero si nadie lo remedia tendrán un parón grande cuando les quiten sus equipos de desarrollo de toda la vida.</p>
+<p>Y desde ayer, el favicon de <a href="http://java.sun.com/javase/6/docs/api/" rel="nofollow ugc external noopener noreferrer" data-wpel-link="external" target="_blank" class="ext-link">http://java.sun.com/javase/6/docs/api/</a> es el de Oracle :'(</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:21:38 by W3 Total Cache
+-->

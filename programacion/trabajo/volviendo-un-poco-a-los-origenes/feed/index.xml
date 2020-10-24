@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Volviendo un poco a los orígenes	</title>
+	<atom:link href="/programacion/trabajo/volviendo-un-poco-a-los-origenes/feed/" rel="self" type="application/rss+xml" />
+	<link>/programacion/trabajo/volviendo-un-poco-a-los-origenes/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=volviendo-un-poco-a-los-origenes</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 23:34:31 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/trabajo/volviendo-un-poco-a-los-origenes/#comment-1840</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Mon, 24 Sep 2007 23:14:10 +0000</pubDate>
+		<guid isPermaLink="false">/2007/09/19/volviendo-un-poco-a-los-origenes/#comment-1840</guid>
+
+					<description><![CDATA[Pero... ¿y el encanto de que todo pueda fallar y tentar al máximo la ley de murphy?&lt;br /&gt;&lt;br /&gt;La verdad es que durante un tiempo pensaba lo mismo, pero últimamente ando muy harto de java, de sus frameworks y de toda la parafernalia asociada :S]]></description>
+			<content:encoded><![CDATA[<p>Pero&#8230; ¿y el encanto de que todo pueda fallar y tentar al máximo la ley de murphy?</p>
+<p>La verdad es que durante un tiempo pensaba lo mismo, pero últimamente ando muy harto de java, de sus frameworks y de toda la parafernalia asociada :S</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Pablo		</title>
+		<link>/programacion/trabajo/volviendo-un-poco-a-los-origenes/#comment-1835</link>
+
+		<dc:creator><![CDATA[Pablo]]></dc:creator>
+		<pubDate>Mon, 24 Sep 2007 14:51:12 +0000</pubDate>
+		<guid isPermaLink="false">/2007/09/19/volviendo-un-poco-a-los-origenes/#comment-1835</guid>
+
+					<description><![CDATA[El C y C++ son horribles. Qué feliz día el que se puso de moda Java. Aunque la sintaxis sea igual de espantosa que la de C, por lo menos uno tiene la sensación de estar trabajando a más alto nivel, no en usar un simple ensamblado &quot;en bonito&quot;. Las cagadas en C están a la orden del día y es muy difícil encontrarlas. Eso por no hablar del rollo de los archivos .h y las putas directivas de precompilación... por dios, ¿quién fue el puto enfermo que inventó aquel embrollo? Donde haya un lenguaje de alto nivel...]]></description>
+			<content:encoded><![CDATA[<p>El C y C++ son horribles. Qué feliz día el que se puso de moda Java. Aunque la sintaxis sea igual de espantosa que la de C, por lo menos uno tiene la sensación de estar trabajando a más alto nivel, no en usar un simple ensamblado &#8220;en bonito&#8221;. Las cagadas en C están a la orden del día y es muy difícil encontrarlas. Eso por no hablar del rollo de los archivos .h y las putas directivas de precompilación&#8230; por dios, ¿quién fue el puto enfermo que inventó aquel embrollo? Donde haya un lenguaje de alto nivel&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/trabajo/volviendo-un-poco-a-los-origenes/#comment-1830</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Mon, 24 Sep 2007 12:13:53 +0000</pubDate>
+		<guid isPermaLink="false">/2007/09/19/volviendo-un-poco-a-los-origenes/#comment-1830</guid>
+
+					<description><![CDATA[Factible, factible, claro que sí peeero es que la máquina virtual de Java no ha sido pensada para esas cosas :S&lt;br /&gt;&lt;br /&gt;Hmmm, pues no sé lo que te pusieron, pero lo seguro es que fueron cantidades industriales ;)]]></description>
+			<content:encoded><![CDATA[<p>Factible, factible, claro que sí peeero es que la máquina virtual de Java no ha sido pensada para esas cosas :S</p>
+<p>Hmmm, pues no sé lo que te pusieron, pero lo seguro es que fueron cantidades industriales ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: El Matador (Oskiller)		</title>
+		<link>/programacion/trabajo/volviendo-un-poco-a-los-origenes/#comment-1823</link>
+
+		<dc:creator><![CDATA[El Matador (Oskiller)]]></dc:creator>
+		<pubDate>Mon, 24 Sep 2007 00:35:42 +0000</pubDate>
+		<guid isPermaLink="false">/2007/09/19/volviendo-un-poco-a-los-origenes/#comment-1823</guid>
+
+					<description><![CDATA[5. Cierto y muy cierto.&lt;br /&gt;&lt;br /&gt;Oye, ¿qué tal sería un juego de lucha en java? ¿sería posible? ¿nada más que te metas con una librería gráfica irá todo a saltos? ¿por qué narices estoy preguntando esto si yo lo que quiero hacer es música? ¿qué es el hombre? ¿a qué fin nos dirigimos? ¿qué coño me han puesto en el helado hoy?]]></description>
+			<content:encoded><![CDATA[<p>5. Cierto y muy cierto.</p>
+<p>Oye, ¿qué tal sería un juego de lucha en java? ¿sería posible? ¿nada más que te metas con una librería gráfica irá todo a saltos? ¿por qué narices estoy preguntando esto si yo lo que quiero hacer es música? ¿qué es el hombre? ¿a qué fin nos dirigimos? ¿qué coño me han puesto en el helado hoy?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/trabajo/volviendo-un-poco-a-los-origenes/#comment-1802</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Thu, 20 Sep 2007 15:46:58 +0000</pubDate>
+		<guid isPermaLink="false">/2007/09/19/volviendo-un-poco-a-los-origenes/#comment-1802</guid>
+
+					<description><![CDATA[1. Lo tengo que buscar... pero no tengo ni idea de dónde podría estar :S&lt;br /&gt;&lt;br /&gt;2. :O Qué majo el Gasparillo v1 :D&lt;br /&gt;&lt;br /&gt;3. Cuan cierto :(&lt;br /&gt;&lt;br /&gt;4. Ostis, pues no está mal porque cada vez menos gente domina de C++ y se sigue pidiente (aunque menos que Java, bueno, realmente J2EE). En León los dos últimos años casi todo se hace en Java :/]]></description>
+			<content:encoded><![CDATA[<p>1. Lo tengo que buscar&#8230; pero no tengo ni idea de dónde podría estar :S</p>
+<p>2. :O Qué majo el Gasparillo v1 :D</p>
+<p>3. Cuan cierto :(</p>
+<p>4. Ostis, pues no está mal porque cada vez menos gente domina de C++ y se sigue pidiente (aunque menos que Java, bueno, realmente J2EE). En León los dos últimos años casi todo se hace en Java :/</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Sleepwalker		</title>
+		<link>/programacion/trabajo/volviendo-un-poco-a-los-origenes/#comment-1801</link>
+
+		<dc:creator><![CDATA[Sleepwalker]]></dc:creator>
+		<pubDate>Wed, 19 Sep 2007 15:49:54 +0000</pubDate>
+		<guid isPermaLink="false">/2007/09/19/volviendo-un-poco-a-los-origenes/#comment-1801</guid>
+
+					<description><![CDATA[A mi me sale el C++ por las orejas, es que aquí (Gijón) es lo que se da en toda la carrera, no damos nada de Java y claro, ahora me lo tengo que aprender por mi cuenta -_-]]></description>
+			<content:encoded><![CDATA[<p>A mi me sale el C++ por las orejas, es que aquí (Gijón) es lo que se da en toda la carrera, no damos nada de Java y claro, ahora me lo tengo que aprender por mi cuenta -_-</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Darklady		</title>
+		<link>/programacion/trabajo/volviendo-un-poco-a-los-origenes/#comment-1800</link>
+
+		<dc:creator><![CDATA[Darklady]]></dc:creator>
+		<pubDate>Wed, 19 Sep 2007 10:38:16 +0000</pubDate>
+		<guid isPermaLink="false">/2007/09/19/volviendo-un-poco-a-los-origenes/#comment-1800</guid>
+
+					<description><![CDATA[Drizzt... en la última frase le has dado v_v]]></description>
+			<content:encoded><![CDATA[<p>Drizzt&#8230; en la última frase le has dado v_v</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/programacion/trabajo/volviendo-un-poco-a-los-origenes/#comment-1799</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Wed, 19 Sep 2007 08:58:58 +0000</pubDate>
+		<guid isPermaLink="false">/2007/09/19/volviendo-un-poco-a-los-origenes/#comment-1799</guid>
+
+					<description><![CDATA[Oh! juas... que nivel! Yo solo llegue a hacer un minivirus (que no era virus porque no se copiaba) que se camuflaba como zona de memoria del propio DOS y se quedaba puenteando la int 21h. Si &quot;algo&quot; le suplantaba, aparte de volverse a poner él en int 21h le machacaba los primeros bytes al intruso con un far jump a lo mío... XDDDDD&lt;br /&gt;&lt;br /&gt;Se llamaba &quot;Gasparillo&quot; (como mi periquito XDDD) y escribía una línea &quot;presentándose&quot; cada vez que alguno llamaba a las funciones de DOS (int21) para ejecutar o salir de un programa...&lt;br /&gt;&lt;br /&gt;Jo, yo tampoco soy capaz de hacer nada ahora... el trabajo mata la creatividad... v_v]]></description>
+			<content:encoded><![CDATA[<p>Oh! juas&#8230; que nivel! Yo solo llegue a hacer un minivirus (que no era virus porque no se copiaba) que se camuflaba como zona de memoria del propio DOS y se quedaba puenteando la int 21h. Si &#8220;algo&#8221; le suplantaba, aparte de volverse a poner él en int 21h le machacaba los primeros bytes al intruso con un far jump a lo mío&#8230; XDDDDD</p>
+<p>Se llamaba &#8220;Gasparillo&#8221; (como mi periquito XDDD) y escribía una línea &#8220;presentándose&#8221; cada vez que alguno llamaba a las funciones de DOS (int21) para ejecutar o salir de un programa&#8230;</p>
+<p>Jo, yo tampoco soy capaz de hacer nada ahora&#8230; el trabajo mata la creatividad&#8230; v_v</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Darklady		</title>
+		<link>/programacion/trabajo/volviendo-un-poco-a-los-origenes/#comment-1798</link>
+
+		<dc:creator><![CDATA[Darklady]]></dc:creator>
+		<pubDate>Wed, 19 Sep 2007 08:43:39 +0000</pubDate>
+		<guid isPermaLink="false">/2007/09/19/volviendo-un-poco-a-los-origenes/#comment-1798</guid>
+
+					<description><![CDATA[Pues que luego me deje la maquinita del tiempo a mí también... Me siento mayor. ¡Yo ya no tengo la ilusión que tenía hace años por cualquier cosa! Si es que ahora no hago nada con mi vida ^^U&lt;br /&gt;*sigh*&lt;br /&gt;Por cierto, ¿qué fue del juego? ¿No lo tienes por alguno de los baúles de los recuerdos? Quiero jugaaaaaaaar]]></description>
+			<content:encoded><![CDATA[<p>Pues que luego me deje la maquinita del tiempo a mí también&#8230; Me siento mayor. ¡Yo ya no tengo la ilusión que tenía hace años por cualquier cosa! Si es que ahora no hago nada con mi vida ^^U<br />*sigh*<br />Por cierto, ¿qué fue del juego? ¿No lo tienes por alguno de los baúles de los recuerdos? Quiero jugaaaaaaaar</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:31:54 by W3 Total Cache
+-->

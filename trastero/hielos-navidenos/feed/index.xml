@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Hielos navideños	</title>
+	<atom:link href="/trastero/hielos-navidenos/feed/" rel="self" type="application/rss+xml" />
+	<link>/trastero/hielos-navidenos/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hielos-navidenos</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Mon, 15 Feb 2016 22:47:42 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/trastero/hielos-navidenos/#comment-280</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Fri, 29 Dec 2006 13:40:16 +0000</pubDate>
+		<guid isPermaLink="false">/2006/12/26/hielos-navidenos/#comment-280</guid>
+
+					<description><![CDATA[Si es que el hielo es precioso, y quien diga que no, es que no ha vivido por estos lugares nunca ^^]]></description>
+			<content:encoded><![CDATA[<p>Si es que el hielo es precioso, y quien diga que no, es que no ha vivido por estos lugares nunca ^^</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Darklady		</title>
+		<link>/trastero/hielos-navidenos/#comment-270</link>
+
+		<dc:creator><![CDATA[Darklady]]></dc:creator>
+		<pubDate>Fri, 29 Dec 2006 12:36:19 +0000</pubDate>
+		<guid isPermaLink="false">/2006/12/26/hielos-navidenos/#comment-270</guid>
+
+					<description><![CDATA[Qué curioso... hace poco estaba comentando esto mismo por aquí. Aquí también hay heladas increibles por la noche... y es algo que hecho de menos en Barcelona. Cuando me levanto y miro por la ventana y está todo con esa finita capa blanca ^_^ O cuando por cualquier cosa tengo que coger el autobús para ir a Vitoria y todo, todo el monte, los campos, los caserios, los pastos... todo está teñido de ese color. Resbalones, miles.... crack, crack, al andar, pero yo también le tengo cariño ^^]]></description>
+			<content:encoded><![CDATA[<p>Qué curioso&#8230; hace poco estaba comentando esto mismo por aquí. Aquí también hay heladas increibles por la noche&#8230; y es algo que hecho de menos en Barcelona. Cuando me levanto y miro por la ventana y está todo con esa finita capa blanca ^_^ O cuando por cualquier cosa tengo que coger el autobús para ir a Vitoria y todo, todo el monte, los campos, los caserios, los pastos&#8230; todo está teñido de ese color. Resbalones, miles&#8230;. crack, crack, al andar, pero yo también le tengo cariño ^^</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 17:17:03 by W3 Total Cache
+-->

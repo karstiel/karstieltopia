@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: RIP	</title>
+	<atom:link href="/trastero/rip/feed/" rel="self" type="application/rss+xml" />
+	<link>/trastero/rip/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rip</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sun, 21 Jul 2013 21:44:32 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/trastero/rip/#comment-5531</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Sun, 21 Jul 2013 21:44:32 +0000</pubDate>
+		<guid isPermaLink="false">/2013/07/18/rip/#comment-5531</guid>
+
+					<description><![CDATA[Qué me dices...&lt;br /&gt;&lt;br /&gt;:(&lt;br /&gt;&lt;br /&gt;Te s.t.a.l.k.e(a).r(e) en la otra web]]></description>
+			<content:encoded><![CDATA[<p>Qué me dices&#8230;</p>
+<p>:(</p>
+<p>Te s.t.a.l.k.e(a).r(e) en la otra web</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Alfonso de la Fuente Ruiz		</title>
+		<link>/trastero/rip/#comment-5530</link>
+
+		<dc:creator><![CDATA[Alfonso de la Fuente Ruiz]]></dc:creator>
+		<pubDate>Sun, 21 Jul 2013 05:45:12 +0000</pubDate>
+		<guid isPermaLink="false">/2013/07/18/rip/#comment-5530</guid>
+
+					<description><![CDATA[Amén]]></description>
+			<content:encoded><![CDATA[<p>Amén</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:28:33 by W3 Total Cache
+-->

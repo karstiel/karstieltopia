@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Anexo a la conexión con Yoigo	</title>
+	<atom:link href="/sistemas-operativos/linux/anexo-a-la-conexion-con-yoigo/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/linux/anexo-a-la-conexion-con-yoigo/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anexo-a-la-conexion-con-yoigo</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 23:17:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/anexo-a-la-conexion-con-yoigo/#comment-2090</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Sun, 18 Nov 2007 11:37:12 +0000</pubDate>
+		<guid isPermaLink="false">/2007/11/17/anexo-a-la-conexion-con-yoigo/#comment-2090</guid>
+
+					<description><![CDATA[Si es que era trivial... no sé cómo se me pudo pasar xDD]]></description>
+			<content:encoded><![CDATA[<p>Si es que era trivial&#8230; no sé cómo se me pudo pasar xDD</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ucedaman		</title>
+		<link>/sistemas-operativos/linux/anexo-a-la-conexion-con-yoigo/#comment-2089</link>
+
+		<dc:creator><![CDATA[Ucedaman]]></dc:creator>
+		<pubDate>Sat, 17 Nov 2007 23:06:12 +0000</pubDate>
+		<guid isPermaLink="false">/2007/11/17/anexo-a-la-conexion-con-yoigo/#comment-2089</guid>
+
+					<description><![CDATA[Ya me parecía a mí...&lt;br /&gt;;P&lt;br /&gt;&lt;br /&gt;PD.- Ni puta idea de para que sirve esa instrucción, no os vayais a pensar...]]></description>
+			<content:encoded><![CDATA[<p>Ya me parecía a mí&#8230;<br />;P</p>
+<p>PD.- Ni puta idea de para que sirve esa instrucción, no os vayais a pensar&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:28:23 by W3 Total Cache
+-->

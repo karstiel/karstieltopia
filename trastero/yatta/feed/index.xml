@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Yatta!	</title>
+	<atom:link href="/trastero/yatta/feed/" rel="self" type="application/rss+xml" />
+	<link>/trastero/yatta/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=yatta</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sun, 09 Dec 2007 02:12:35 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/trastero/yatta/#comment-2166</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Sun, 09 Dec 2007 02:12:35 +0000</pubDate>
+		<guid isPermaLink="false">/2007/12/01/yatta/#comment-2166</guid>
+
+					<description><![CDATA[Errr... yo es que ahora ya no puedo parar de pensar en eso al ver Héroes :P]]></description>
+			<content:encoded><![CDATA[<p>Errr&#8230; yo es que ahora ya no puedo parar de pensar en eso al ver Héroes :P</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Oscar		</title>
+		<link>/trastero/yatta/#comment-2160</link>
+
+		<dc:creator><![CDATA[Oscar]]></dc:creator>
+		<pubDate>Wed, 05 Dec 2007 23:08:46 +0000</pubDate>
+		<guid isPermaLink="false">/2007/12/01/yatta/#comment-2160</guid>
+
+					<description><![CDATA[Madre mía, creo que acabo de perder veinte neuronas de golpe al ver este vídeo 0_0&lt;br /&gt;&lt;br /&gt;El caso es que la música me recuerda a los Pet Shop Boys...&lt;br /&gt;&lt;br /&gt;No, si por algo Japón es el país friki por excelencia.]]></description>
+			<content:encoded><![CDATA[<p>Madre mía, creo que acabo de perder veinte neuronas de golpe al ver este vídeo 0_0</p>
+<p>El caso es que la música me recuerda a los Pet Shop Boys&#8230;</p>
+<p>No, si por algo Japón es el país friki por excelencia.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 17:09:55 by W3 Total Cache
+-->

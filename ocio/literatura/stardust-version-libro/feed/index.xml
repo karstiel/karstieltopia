@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Stardust (versión libro)	</title>
+	<atom:link href="/ocio/literatura/stardust-version-libro/feed/" rel="self" type="application/rss+xml" />
+	<link>/ocio/literatura/stardust-version-libro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=stardust-version-libro</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 13:30:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/ocio/literatura/stardust-version-libro/#comment-4979</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2009 22:27:54 +0000</pubDate>
+		<guid isPermaLink="false">/2009/09/07/stardust-version-libro/#comment-4979</guid>
+
+					<description><![CDATA[&lt;b&gt;@Drizzt&lt;/b&gt;: ¡¡¡AAAARRRRRRR!!! :D :D (no me había parado a buscar si había o no libro... ¡voy a buscarlo ya!)]]></description>
+			<content:encoded><![CDATA[<p><b>@Drizzt</b>: ¡¡¡AAAARRRRRRR!!! :D :D (no me había parado a buscar si había o no libro&#8230; ¡voy a buscarlo ya!)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/ocio/literatura/stardust-version-libro/#comment-4978</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2009 22:06:41 +0000</pubDate>
+		<guid isPermaLink="false">/2009/09/07/stardust-version-libro/#comment-4978</guid>
+
+					<description><![CDATA[Sobre pelicula-libro similar, ¡el libro de &quot;La princesa prometida&quot; es muy bueno!&lt;br /&gt;&lt;br /&gt;A la lista si aún no cayó&lt;br /&gt;&lt;br /&gt;P.D: Arrrrrrrrr!! :P]]></description>
+			<content:encoded><![CDATA[<p>Sobre pelicula-libro similar, ¡el libro de &#8220;La princesa prometida&#8221; es muy bueno!</p>
+<p>A la lista si aún no cayó</p>
+<p>P.D: Arrrrrrrrr!! :P</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:36:33 by W3 Total Cache
+-->

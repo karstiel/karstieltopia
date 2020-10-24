@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Poniendo DropBox en KDE	</title>
+	<atom:link href="/sistemas-operativos/linux/poniendo-dropbox-en-kde/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/linux/poniendo-dropbox-en-kde/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=poniendo-dropbox-en-kde</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 21:25:53 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/poniendo-dropbox-en-kde/#comment-4650</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Tue, 23 Jun 2009 02:14:08 +0000</pubDate>
+		<guid isPermaLink="false">/2009/06/19/poniendo-dropbox-en-kde/#comment-4650</guid>
+
+					<description><![CDATA[Cachis... es que tu línea es muy particular :/]]></description>
+			<content:encoded><![CDATA[<p>Cachis&#8230; es que tu línea es muy particular :/</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/sistemas-operativos/linux/poniendo-dropbox-en-kde/#comment-4645</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Mon, 22 Jun 2009 08:28:02 +0000</pubDate>
+		<guid isPermaLink="false">/2009/06/19/poniendo-dropbox-en-kde/#comment-4645</guid>
+
+					<description><![CDATA[Entonces no sirve...]]></description>
+			<content:encoded><![CDATA[<p>Entonces no sirve&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/poniendo-dropbox-en-kde/#comment-4643</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Sun, 21 Jun 2009 23:43:00 +0000</pubDate>
+		<guid isPermaLink="false">/2009/06/19/poniendo-dropbox-en-kde/#comment-4643</guid>
+
+					<description><![CDATA[Pues siento decirte que creo que no...]]></description>
+			<content:encoded><![CDATA[<p>Pues siento decirte que creo que no&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/sistemas-operativos/linux/poniendo-dropbox-en-kde/#comment-4639</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Fri, 19 Jun 2009 19:27:14 +0000</pubDate>
+		<guid isPermaLink="false">/2009/06/19/poniendo-dropbox-en-kde/#comment-4639</guid>
+
+					<description><![CDATA[¿Y permite reanudar las descargas/subidas? Por ejemplo, subo 14MB de 20MB y se corta la conexion. ¿Permite reanudarlo en ese punto?]]></description>
+			<content:encoded><![CDATA[<p>¿Y permite reanudar las descargas/subidas? Por ejemplo, subo 14MB de 20MB y se corta la conexion. ¿Permite reanudarlo en ese punto?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:22:29 by W3 Total Cache
+-->

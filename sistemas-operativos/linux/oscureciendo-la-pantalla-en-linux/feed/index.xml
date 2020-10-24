@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Oscureciendo la pantalla en linux	</title>
+	<atom:link href="/sistemas-operativos/linux/oscureciendo-la-pantalla-en-linux/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/linux/oscureciendo-la-pantalla-en-linux/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=oscureciendo-la-pantalla-en-linux</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Mon, 25 Feb 2008 09:46:11 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/oscureciendo-la-pantalla-en-linux/#comment-2521</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Mon, 25 Feb 2008 09:46:11 +0000</pubDate>
+		<guid isPermaLink="false">/2008/02/24/oscureciendo-la-pantalla-en-linux/#comment-2521</guid>
+
+					<description><![CDATA[Pues, por ejemplo, Amarok sobre Gnome... (por lo menos a mi :S )]]></description>
+			<content:encoded><![CDATA[<p>Pues, por ejemplo, Amarok sobre Gnome&#8230; (por lo menos a mi :S )</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Alfonso FR		</title>
+		<link>/sistemas-operativos/linux/oscureciendo-la-pantalla-en-linux/#comment-2519</link>
+
+		<dc:creator><![CDATA[Alfonso FR]]></dc:creator>
+		<pubDate>Mon, 25 Feb 2008 08:02:51 +0000</pubDate>
+		<guid isPermaLink="false">/2008/02/24/oscureciendo-la-pantalla-en-linux/#comment-2519</guid>
+
+					<description><![CDATA[¿Y qué aplicaciones son esas que no permiten que salte el salvapantallas en Linux? Porque mira que le he dado vueltas a mi KUbuntu pero no la descubro...]]></description>
+			<content:encoded><![CDATA[<p>¿Y qué aplicaciones son esas que no permiten que salte el salvapantallas en Linux? Porque mira que le he dado vueltas a mi KUbuntu pero no la descubro&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/oscureciendo-la-pantalla-en-linux/#comment-2518</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Mon, 25 Feb 2008 01:49:33 +0000</pubDate>
+		<guid isPermaLink="false">/2008/02/24/oscureciendo-la-pantalla-en-linux/#comment-2518</guid>
+
+					<description><![CDATA[Hmmm, es que generalmente la gente, si quiere apagar el monitor o espera al salvapantallas, o al gestor de energía o apaga la pantalla directamente...&lt;br /&gt;&lt;br /&gt;Pero si tienes un portatil y quieres apagar ahora mismo la pantalla... pues no está mal, la verdad...]]></description>
+			<content:encoded><![CDATA[<p>Hmmm, es que generalmente la gente, si quiere apagar el monitor o espera al salvapantallas, o al gestor de energía o apaga la pantalla directamente&#8230;</p>
+<p>Pero si tienes un portatil y quieres apagar ahora mismo la pantalla&#8230; pues no está mal, la verdad&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Oscar		</title>
+		<link>/sistemas-operativos/linux/oscureciendo-la-pantalla-en-linux/#comment-2517</link>
+
+		<dc:creator><![CDATA[Oscar]]></dc:creator>
+		<pubDate>Mon, 25 Feb 2008 00:40:57 +0000</pubDate>
+		<guid isPermaLink="false">/2008/02/24/oscureciendo-la-pantalla-en-linux/#comment-2517</guid>
+
+					<description><![CDATA[Jo, si es tan fácil... ¿cómo no viene de serie?]]></description>
+			<content:encoded><![CDATA[<p>Jo, si es tan fácil&#8230; ¿cómo no viene de serie?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:41:50 by W3 Total Cache
+-->

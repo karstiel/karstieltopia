@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Odio el J2EE…	</title>
+	<atom:link href="/programacion/java/odio-el-j2ee/feed/" rel="self" type="application/rss+xml" />
+	<link>/programacion/java/odio-el-j2ee/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=odio-el-j2ee</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 15:58:35 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/java/odio-el-j2ee/#comment-4363</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Fri, 10 Apr 2009 17:29:52 +0000</pubDate>
+		<guid isPermaLink="false">/2006/09/26/odio-el-j2ee/#comment-4363</guid>
+
+					<description><![CDATA[Hombre, claro que tienes razón.&lt;br /&gt;&lt;br /&gt;Lo malo es que con las prisas y esas cosas se tiende a hacer código inmantenible y, cuando de repente te lo presentan, alucinas totalmente.&lt;br /&gt;&lt;br /&gt;Por otra parte, un problema que tengo directamente con el J2EE es de base: personalmente no me gustan las configuraciones eternas en xml y las aplicaciones web en general... de ahí que me decante más por C/C++ como forma de sobrevivir ;)]]></description>
+			<content:encoded><![CDATA[<p>Hombre, claro que tienes razón.</p>
+<p>Lo malo es que con las prisas y esas cosas se tiende a hacer código inmantenible y, cuando de repente te lo presentan, alucinas totalmente.</p>
+<p>Por otra parte, un problema que tengo directamente con el J2EE es de base: personalmente no me gustan las configuraciones eternas en xml y las aplicaciones web en general&#8230; de ahí que me decante más por C/C++ como forma de sobrevivir ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: José		</title>
+		<link>/programacion/java/odio-el-j2ee/#comment-4362</link>
+
+		<dc:creator><![CDATA[José]]></dc:creator>
+		<pubDate>Sat, 04 Apr 2009 19:57:53 +0000</pubDate>
+		<guid isPermaLink="false">/2006/09/26/odio-el-j2ee/#comment-4362</guid>
+
+					<description><![CDATA[Yo pienso que todo depende de como construyes la solución, un jsp con codigo java embedido es una mala practica (Conoces EL? (Expresion languaje)). Se pueden crear buenos sistemas (mantenibles, seguros, robustos, que cumplan con los requsitos funcionales como no funcionales), realizando un buen diseño de la solución, utilizando patrones de diseño y las herramientas adecuadas para el caso. Es decir la culpa no es de la plataforma que elijas si no de las personas que diseñan y construyen el sistema.]]></description>
+			<content:encoded><![CDATA[<p>Yo pienso que todo depende de como construyes la solución, un jsp con codigo java embedido es una mala practica (Conoces EL? (Expresion languaje)). Se pueden crear buenos sistemas (mantenibles, seguros, robustos, que cumplan con los requsitos funcionales como no funcionales), realizando un buen diseño de la solución, utilizando patrones de diseño y las herramientas adecuadas para el caso. Es decir la culpa no es de la plataforma que elijas si no de las personas que diseñan y construyen el sistema.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/java/odio-el-j2ee/#comment-3437</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2008 00:04:57 +0000</pubDate>
+		<guid isPermaLink="false">/2006/09/26/odio-el-j2ee/#comment-3437</guid>
+
+					<description><![CDATA[Bueeeeeeeeeeeeeeeeeenoo... si realmente piensas eso deberías mirar otros sectores para ver que J2EE no lo puedes sacar de su entorno (véase aplicaciones empresariales / web pesadas).&lt;br /&gt;&lt;br /&gt;Personalmente más que difícil, me pareció algo cansado y aburrido. Después de bastante tiempo trabajando con ellos con las &quot;grandes&quot; de España (véase telecos), y que me considerasen un &quot;experto&quot; en la materia, esa es mi conclusión. Tenemos cañones para aniquilar una mosca.&lt;br /&gt;&lt;br /&gt;Por otra parte, lo que mencionas de que se pueden hacer sistemas sin programar, analizalo. Simplemente les das una customización de un paquete al cliente, ¿realmente quieres pasar tu vida haciendo eso?&lt;br /&gt;&lt;br /&gt;Finalmente, ciertamente se aprenden cosas en el trabajo, pero sin duda que necesitas llevarte cosas a casa y analizar lo que haces y el motivo de cada cosa para poder dominarla en condiciones. Sonda no la conozco, pero he tenido que trabajar con código J2EE proveniente de DMR (un cliente suyo decidió que DMR no lo estaba haciendo bien y les pasó todo el proyecto a la empresa en la que estaba) y puedo decir que se nota como se trabaja en una empresa en que predomina las apariencias y el trabajo masivo a la formación y estilo de trabajo.]]></description>
+			<content:encoded><![CDATA[<p>Bueeeeeeeeeeeeeeeeeenoo&#8230; si realmente piensas eso deberías mirar otros sectores para ver que J2EE no lo puedes sacar de su entorno (véase aplicaciones empresariales / web pesadas).</p>
+<p>Personalmente más que difícil, me pareció algo cansado y aburrido. Después de bastante tiempo trabajando con ellos con las &#8220;grandes&#8221; de España (véase telecos), y que me considerasen un &#8220;experto&#8221; en la materia, esa es mi conclusión. Tenemos cañones para aniquilar una mosca.</p>
+<p>Por otra parte, lo que mencionas de que se pueden hacer sistemas sin programar, analizalo. Simplemente les das una customización de un paquete al cliente, ¿realmente quieres pasar tu vida haciendo eso?</p>
+<p>Finalmente, ciertamente se aprenden cosas en el trabajo, pero sin duda que necesitas llevarte cosas a casa y analizar lo que haces y el motivo de cada cosa para poder dominarla en condiciones. Sonda no la conozco, pero he tenido que trabajar con código J2EE proveniente de DMR (un cliente suyo decidió que DMR no lo estaba haciendo bien y les pasó todo el proyecto a la empresa en la que estaba) y puedo decir que se nota como se trabaja en una empresa en que predomina las apariencias y el trabajo masivo a la formación y estilo de trabajo.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: ApS		</title>
+		<link>/programacion/java/odio-el-j2ee/#comment-3433</link>
+
+		<dc:creator><![CDATA[ApS]]></dc:creator>
+		<pubDate>Tue, 22 Jul 2008 19:34:55 +0000</pubDate>
+		<guid isPermaLink="false">/2006/09/26/odio-el-j2ee/#comment-3433</guid>
+
+					<description><![CDATA[J2ee sigue siendo lo mejor....&lt;br /&gt;&lt;br /&gt;y lo será siempre.&lt;br /&gt;&lt;br /&gt;Gracias a los Patrones J2ee estandar , la programación es fácil , lamentablemente solo se aprende en Empresas del mundo real. YO aprendi en DMR y Sonda.&lt;br /&gt;&lt;br /&gt;Es normal que la gente lo vea dificl por que no hay documentacion adecuada. cada 2 meses le agregan nuevas tecnologias a J2EE sin documentación. Vean Liferay o exo portal, U OPenXAVA en españolcon el que se pueden hacer sistemas sin programar.&lt;br /&gt;&lt;br /&gt;Java es sólido y cada error de arquitectura lo mejoran.   Vean por ejemplo el demicron que le da mil patadas a Flash en http://www.demicron.com/gallery/index.html.&lt;br /&gt;&lt;br /&gt;y todo GRATIS....recuerden a Caballo Regalado no se le ve el diente.]]></description>
+			<content:encoded><![CDATA[<p>J2ee sigue siendo lo mejor&#8230;.</p>
+<p>y lo será siempre.</p>
+<p>Gracias a los Patrones J2ee estandar , la programación es fácil , lamentablemente solo se aprende en Empresas del mundo real. YO aprendi en DMR y Sonda.</p>
+<p>Es normal que la gente lo vea dificl por que no hay documentacion adecuada. cada 2 meses le agregan nuevas tecnologias a J2EE sin documentación. Vean Liferay o exo portal, U OPenXAVA en españolcon el que se pueden hacer sistemas sin programar.</p>
+<p>Java es sólido y cada error de arquitectura lo mejoran.   Vean por ejemplo el demicron que le da mil patadas a Flash en <a href="http://www.demicron.com/gallery/index.html" rel="nofollow ugc external noopener noreferrer" data-wpel-link="external" target="_blank" class="ext-link">http://www.demicron.com/gallery/index.html</a>.</p>
+<p>y todo GRATIS&#8230;.recuerden a Caballo Regalado no se le ve el diente.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/java/odio-el-j2ee/#comment-2563</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Thu, 28 Feb 2008 22:46:48 +0000</pubDate>
+		<guid isPermaLink="false">/2006/09/26/odio-el-j2ee/#comment-2563</guid>
+
+					<description><![CDATA[Por gustos... ^^U]]></description>
+			<content:encoded><![CDATA[<p>Por gustos&#8230; ^^U</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/java/odio-el-j2ee/#comment-495</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Tue, 09 Jan 2007 08:31:05 +0000</pubDate>
+		<guid isPermaLink="false">/2006/09/26/odio-el-j2ee/#comment-495</guid>
+
+					<description><![CDATA[Desde luego que firmo tal cual todo lo que has dicho.&lt;br /&gt;Por todo lo que veo por el mundo, parece que el J2EE es la piedra filosofal que todo lo puede y lo único que hago es ver como son migrados sistemas hechos en C++ (por ponr un ejemplo) a Java... total, como mucho, mucho solo habría que poner más máquina, y sino, ni eso, será que el que programa no tiene mucha idea...&lt;br /&gt;&lt;br /&gt;En fin, como dices, hoy se lleva lo de matar moscas a cañonazos :S]]></description>
+			<content:encoded><![CDATA[<p>Desde luego que firmo tal cual todo lo que has dicho.<br />Por todo lo que veo por el mundo, parece que el J2EE es la piedra filosofal que todo lo puede y lo único que hago es ver como son migrados sistemas hechos en C++ (por ponr un ejemplo) a Java&#8230; total, como mucho, mucho solo habría que poner más máquina, y sino, ni eso, será que el que programa no tiene mucha idea&#8230;</p>
+<p>En fin, como dices, hoy se lleva lo de matar moscas a cañonazos :S</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Chuidiang		</title>
+		<link>/programacion/java/odio-el-j2ee/#comment-493</link>
+
+		<dc:creator><![CDATA[Chuidiang]]></dc:creator>
+		<pubDate>Mon, 08 Jan 2007 16:22:03 +0000</pubDate>
+		<guid isPermaLink="false">/2006/09/26/odio-el-j2ee/#comment-493</guid>
+
+					<description><![CDATA[Yo también odio j2ee.&lt;br /&gt;&lt;br /&gt;Pienso que los lenguajes son todos buenos (o casi) y cada uno sirve para lo que sirve. Lo que odio principalmente de j2ee es que al ser tan nuevo, novedoso y la releche, si hay que hacer una página web que diga &quot;hola mundo&quot;, hay que hacerlo en j2ee. Si la empresa hace &quot;Hola mundo&quot; en Html puro, entonces es una empresa obsoleta, nada puntera y no vende ni un duro. Conclusión, &quot;Hola Mundo&quot; debe hacerse en j2ee.&lt;br /&gt;&lt;br /&gt;¿Qué es una aplicación empresarial para que requiera j2ee? ¿Por qué no puede hacerse, por ejemplo, con php? Lo único que aporta j2ee es que se puede cambiar &quot;facilmente&quot; el servidor para que corra en dos ordenadores en paralelo en vez de en uno o nos resuleve también &quot;fácilmente&quot; temas de concurrencia, comunicaciones, persistencia y demás. ¿Por qué las comillas de &quot;facilmente&quot;?. Pues porque es tan facil el xml de configuración necesario que NADIE lo hace a mano y todo el mundo requiere de una herramienta que se lo haga.&lt;br /&gt;&lt;br /&gt;Lo de hacerla la aplicación empresarial rápidamente o no, no depende únicamente de j2ee, de C++ o de php. Depende más de las librerías que ya tengas disponibles para hacer esa aplicación. ¿La harías igual de rápido sin structs, springs ni similares? ¿Sin una  herramienta que te genere automáticamente el despliegue? ¿Sin usar las librerías de java disponibles JMF y similares?. Si tuvieras un framework para aplicaciones empresariales en C++, también las harías rápidamente.&lt;br /&gt;&lt;br /&gt;En fin, supongo que j2ee habrá nacido en su momento para solventar ciertos problemas o con determinada intención y para eso sí es útil, pero no es bueno matar moscas a cañonazos.&lt;br /&gt;&lt;br /&gt;Sed buenos.]]></description>
+			<content:encoded><![CDATA[<p>Yo también odio j2ee.</p>
+<p>Pienso que los lenguajes son todos buenos (o casi) y cada uno sirve para lo que sirve. Lo que odio principalmente de j2ee es que al ser tan nuevo, novedoso y la releche, si hay que hacer una página web que diga &#8220;hola mundo&#8221;, hay que hacerlo en j2ee. Si la empresa hace &#8220;Hola mundo&#8221; en Html puro, entonces es una empresa obsoleta, nada puntera y no vende ni un duro. Conclusión, &#8220;Hola Mundo&#8221; debe hacerse en j2ee.</p>
+<p>¿Qué es una aplicación empresarial para que requiera j2ee? ¿Por qué no puede hacerse, por ejemplo, con php? Lo único que aporta j2ee es que se puede cambiar &#8220;facilmente&#8221; el servidor para que corra en dos ordenadores en paralelo en vez de en uno o nos resuleve también &#8220;fácilmente&#8221; temas de concurrencia, comunicaciones, persistencia y demás. ¿Por qué las comillas de &#8220;facilmente&#8221;?. Pues porque es tan facil el xml de configuración necesario que NADIE lo hace a mano y todo el mundo requiere de una herramienta que se lo haga.</p>
+<p>Lo de hacerla la aplicación empresarial rápidamente o no, no depende únicamente de j2ee, de C++ o de php. Depende más de las librerías que ya tengas disponibles para hacer esa aplicación. ¿La harías igual de rápido sin structs, springs ni similares? ¿Sin una  herramienta que te genere automáticamente el despliegue? ¿Sin usar las librerías de java disponibles JMF y similares?. Si tuvieras un framework para aplicaciones empresariales en C++, también las harías rápidamente.</p>
+<p>En fin, supongo que j2ee habrá nacido en su momento para solventar ciertos problemas o con determinada intención y para eso sí es útil, pero no es bueno matar moscas a cañonazos.</p>
+<p>Sed buenos.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/java/odio-el-j2ee/#comment-328</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Sat, 30 Dec 2006 02:17:42 +0000</pubDate>
+		<guid isPermaLink="false">/2006/09/26/odio-el-j2ee/#comment-328</guid>
+
+					<description><![CDATA[xDDDDDDDDD Bueno... el lado &quot;bueno&quot; de ese trabajo de Alquimia es que podrás utilizar terminología apenas conocida por nadie... bueno quizás solo por los seguidores de Full Metal Alchemist ;P]]></description>
+			<content:encoded><![CDATA[<p>xDDDDDDDDD Bueno&#8230; el lado &#8220;bueno&#8221; de ese trabajo de Alquimia es que podrás utilizar terminología apenas conocida por nadie&#8230; bueno quizás solo por los seguidores de Full Metal Alchemist ;P</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Darklady		</title>
+		<link>/programacion/java/odio-el-j2ee/#comment-319</link>
+
+		<dc:creator><![CDATA[Darklady]]></dc:creator>
+		<pubDate>Sat, 30 Dec 2006 01:18:35 +0000</pubDate>
+		<guid isPermaLink="false">/2006/09/26/odio-el-j2ee/#comment-319</guid>
+
+					<description><![CDATA[Ç_Ç&lt;br /&gt;Yo soy tonta. No por no entender el comentario, sino porque en lugar de matarme a hacer un trabajo terminológico sobre alquimia (que no hay dios que entienda ^^U), me podría haber pillado yo algo de programación informática y secuestrarte para que hicieras de asesor. Que anda que no hay terminología... *sigh*&lt;br /&gt;&lt;br /&gt;Pero... ya es demasiado tarde *drama queen pose*&lt;br /&gt;&lt;br /&gt;En fins... sólo me queda decir: Luke, yo soy tu padre.]]></description>
+			<content:encoded><![CDATA[<p>Ç_Ç<br />Yo soy tonta. No por no entender el comentario, sino porque en lugar de matarme a hacer un trabajo terminológico sobre alquimia (que no hay dios que entienda ^^U), me podría haber pillado yo algo de programación informática y secuestrarte para que hicieras de asesor. Que anda que no hay terminología&#8230; *sigh*</p>
+<p>Pero&#8230; ya es demasiado tarde *drama queen pose*</p>
+<p>En fins&#8230; sólo me queda decir: Luke, yo soy tu padre.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/java/odio-el-j2ee/#comment-202</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Thu, 23 Nov 2006 01:09:48 +0000</pubDate>
+		<guid isPermaLink="false">/2006/09/26/odio-el-j2ee/#comment-202</guid>
+
+					<description><![CDATA[Assembler rules :D ¡¡Eso, eso!! Jejeje, de todas manera es cierto que Java está siendo cada vez más pesado con respecto a otras soluciones más ágiles. Nunca he probado C#, pero tendría curiosidad por ver Ruby, Perl y similares opciones]]></description>
+			<content:encoded><![CDATA[<p>Assembler rules :D ¡¡Eso, eso!! Jejeje, de todas manera es cierto que Java está siendo cada vez más pesado con respecto a otras soluciones más ágiles. Nunca he probado C#, pero tendría curiosidad por ver Ruby, Perl y similares opciones</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:39:00 by W3 Total Cache
+-->

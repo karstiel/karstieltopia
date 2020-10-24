@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Instalando Arch Linux	</title>
+	<atom:link href="/sistemas-operativos/linux/instalando-arch-linux/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/linux/instalando-arch-linux/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=instalando-arch-linux</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 05:49:12 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/instalando-arch-linux/#comment-4307</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Sat, 21 Mar 2009 14:18:11 +0000</pubDate>
+		<guid isPermaLink="false">/2009/03/17/instalando-arch-linux/#comment-4307</guid>
+
+					<description><![CDATA[Oye, pero eso mola... con el tiempo te convertirás en el Dr. Manhattan ;)]]></description>
+			<content:encoded><![CDATA[<p>Oye, pero eso mola&#8230; con el tiempo te convertirás en el Dr. Manhattan ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ucedaman		</title>
+		<link>/sistemas-operativos/linux/instalando-arch-linux/#comment-4301</link>
+
+		<dc:creator><![CDATA[Ucedaman]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2009 09:31:45 +0000</pubDate>
+		<guid isPermaLink="false">/2009/03/17/instalando-arch-linux/#comment-4301</guid>
+
+					<description><![CDATA[¡Claro! No hay que abandonar las buenas tradiciones :D&lt;br /&gt;&lt;br /&gt;Mientras tanto, mi PC de sobremesa no es capaz de arrancar sin 4 pantallazos azules de precalentamiento... :p]]></description>
+			<content:encoded><![CDATA[<p>¡Claro! No hay que abandonar las buenas tradiciones :D</p>
+<p>Mientras tanto, mi PC de sobremesa no es capaz de arrancar sin 4 pantallazos azules de precalentamiento&#8230; :p</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/instalando-arch-linux/#comment-4299</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2009 02:45:44 +0000</pubDate>
+		<guid isPermaLink="false">/2009/03/17/instalando-arch-linux/#comment-4299</guid>
+
+					<description><![CDATA[Estaba esperándote ^^ Nunca hay un post de éstos sin ti acosándolo ;P]]></description>
+			<content:encoded><![CDATA[<p>Estaba esperándote ^^ Nunca hay un post de éstos sin ti acosándolo ;P</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ucedaman		</title>
+		<link>/sistemas-operativos/linux/instalando-arch-linux/#comment-4295</link>
+
+		<dc:creator><![CDATA[Ucedaman]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2009 09:20:49 +0000</pubDate>
+		<guid isPermaLink="false">/2009/03/17/instalando-arch-linux/#comment-4295</guid>
+
+					<description><![CDATA[Jejejeje... dice &quot;es una distribución sencilla&quot; y luego suelta 10 párrafos de instrucciones. No quiero imaginarme una complicada :S&lt;br /&gt;&lt;br /&gt;;)]]></description>
+			<content:encoded><![CDATA[<p>Jejejeje&#8230; dice &#8220;es una distribución sencilla&#8221; y luego suelta 10 párrafos de instrucciones. No quiero imaginarme una complicada :S</p>
+<p>;)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:09:32 by W3 Total Cache
+-->

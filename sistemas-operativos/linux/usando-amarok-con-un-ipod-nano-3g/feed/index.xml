@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Usando Amarok con un ipod nano 3g	</title>
+	<atom:link href="/sistemas-operativos/linux/usando-amarok-con-un-ipod-nano-3g/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/linux/usando-amarok-con-un-ipod-nano-3g/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=usando-amarok-con-un-ipod-nano-3g</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 05:50:36 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/usando-amarok-con-un-ipod-nano-3g/#comment-3909</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Tue, 11 Nov 2008 04:03:13 +0000</pubDate>
+		<guid isPermaLink="false">/2008/01/21/usando-amarok-con-un-ipod-nano-3g/#comment-3909</guid>
+
+					<description><![CDATA[Pues posiblemente ese sea el problema. Casi todos los programas para Linux que funcionan con el ipod usan la libreria libgpod y, claro, si no la actualizan con tu ipod, no puedes usarlo correctamente :/]]></description>
+			<content:encoded><![CDATA[<p>Pues posiblemente ese sea el problema. Casi todos los programas para Linux que funcionan con el ipod usan la libreria libgpod y, claro, si no la actualizan con tu ipod, no puedes usarlo correctamente :/</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Anita		</title>
+		<link>/sistemas-operativos/linux/usando-amarok-con-un-ipod-nano-3g/#comment-3908</link>
+
+		<dc:creator><![CDATA[Anita]]></dc:creator>
+		<pubDate>Sun, 09 Nov 2008 14:00:58 +0000</pubDate>
+		<guid isPermaLink="false">/2008/01/21/usando-amarok-con-un-ipod-nano-3g/#comment-3908</guid>
+
+					<description><![CDATA[Tengo un iPod Nano de 16 gb de última generación y tengo el mismo problema que Ramma. Es verdad, si eliges el modelo, puede que funcione, pero como aún el modelo de iPod que tengo no está en el listado, no se puede hacer nada. Habrá que esperar a que actualicen.]]></description>
+			<content:encoded><![CDATA[<p>Tengo un iPod Nano de 16 gb de última generación y tengo el mismo problema que Ramma. Es verdad, si eliges el modelo, puede que funcione, pero como aún el modelo de iPod que tengo no está en el listado, no se puede hacer nada. Habrá que esperar a que actualicen.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/usando-amarok-con-un-ipod-nano-3g/#comment-3763</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Tue, 07 Oct 2008 01:26:28 +0000</pubDate>
+		<guid isPermaLink="false">/2008/01/21/usando-amarok-con-un-ipod-nano-3g/#comment-3763</guid>
+
+					<description><![CDATA[Ey, yo llevo unos cuantos :D]]></description>
+			<content:encoded><![CDATA[<p>Ey, yo llevo unos cuantos :D</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Disquete Enmascarado		</title>
+		<link>/sistemas-operativos/linux/usando-amarok-con-un-ipod-nano-3g/#comment-3762</link>
+
+		<dc:creator><![CDATA[Disquete Enmascarado]]></dc:creator>
+		<pubDate>Mon, 06 Oct 2008 11:08:35 +0000</pubDate>
+		<guid isPermaLink="false">/2008/01/21/usando-amarok-con-un-ipod-nano-3g/#comment-3762</guid>
+
+					<description><![CDATA[Por completar la crónica desde el lado GNOME, en hardy funciona la comunicación con el iPod casi con lo que sea salvo con Banshee, que me ofrece borrar todo y gestionarlo él (¡no, gracias!), pero no sé en qué momento se me ha corrompido la base de datos de las carátulas.&lt;br /&gt;&lt;br /&gt;Desde iTunes o cualquier programa todos los ficheros tienen su carátula correcta, pero el Cover Flow me muestra carátulas equivocadas para varios discos. Tiene la pinta de que hay una caché de carátulas por orden y en algún momento no se ha actualizado esa caché...&lt;br /&gt;&lt;br /&gt;Y ayer conseguí colgar el iPod, ¡yuju!]]></description>
+			<content:encoded><![CDATA[<p>Por completar la crónica desde el lado GNOME, en hardy funciona la comunicación con el iPod casi con lo que sea salvo con Banshee, que me ofrece borrar todo y gestionarlo él (¡no, gracias!), pero no sé en qué momento se me ha corrompido la base de datos de las carátulas.</p>
+<p>Desde iTunes o cualquier programa todos los ficheros tienen su carátula correcta, pero el Cover Flow me muestra carátulas equivocadas para varios discos. Tiene la pinta de que hay una caché de carátulas por orden y en algún momento no se ha actualizado esa caché&#8230;</p>
+<p>Y ayer conseguí colgar el iPod, ¡yuju!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/usando-amarok-con-un-ipod-nano-3g/#comment-3759</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Sun, 05 Oct 2008 18:10:50 +0000</pubDate>
+		<guid isPermaLink="false">/2008/01/21/usando-amarok-con-un-ipod-nano-3g/#comment-3759</guid>
+
+					<description><![CDATA[En la versión Hardy ya trae esa librería, así que no debieras preocuparte por eso.&lt;br /&gt;&lt;br /&gt;Si no me equivoco, cuando enchufas el iPod, en la pestaña de Dispositivos (esa que está en el lateral, junto con las de Colección, Contexto, Listas de reproducción, etc.), hay un botón en la parte de arriba que permite decir exactamente que ipod es.&lt;br /&gt;&lt;br /&gt;Cuándo yo no ponía exactamente que iPod era, la carátulas no las gestionaba bien... pero se arregló al poner exactamente mi modelo ;)&lt;br /&gt;&lt;br /&gt;A ver si eso te funciona.]]></description>
+			<content:encoded><![CDATA[<p>En la versión Hardy ya trae esa librería, así que no debieras preocuparte por eso.</p>
+<p>Si no me equivoco, cuando enchufas el iPod, en la pestaña de Dispositivos (esa que está en el lateral, junto con las de Colección, Contexto, Listas de reproducción, etc.), hay un botón en la parte de arriba que permite decir exactamente que ipod es.</p>
+<p>Cuándo yo no ponía exactamente que iPod era, la carátulas no las gestionaba bien&#8230; pero se arregló al poner exactamente mi modelo ;)</p>
+<p>A ver si eso te funciona.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ramma		</title>
+		<link>/sistemas-operativos/linux/usando-amarok-con-un-ipod-nano-3g/#comment-3758</link>
+
+		<dc:creator><![CDATA[Ramma]]></dc:creator>
+		<pubDate>Sat, 04 Oct 2008 23:18:16 +0000</pubDate>
+		<guid isPermaLink="false">/2008/01/21/usando-amarok-con-un-ipod-nano-3g/#comment-3758</guid>
+
+					<description><![CDATA[Acabo de pillarme un nano cuarta generación de 16 Gb, y no sé si ésto le vale.... Amarok le gestiona la música y tal, pero no las carátulas. ¿tiene algo que ver con éste post? porque uso hardy, y cuando le hago instalar la librería esa que dices, me dice que no tiene que descargar ningun archivo, como si ya la tuviera instalada....&lt;br /&gt;&lt;br /&gt;Cómo se podría arreglar lo de las carátulas?&lt;br /&gt;&lt;br /&gt;Gracias por anticipado. La página es muy interesante... llegúe a ella buscando en google &quot;amarok ipod nano&quot;]]></description>
+			<content:encoded><![CDATA[<p>Acabo de pillarme un nano cuarta generación de 16 Gb, y no sé si ésto le vale&#8230;. Amarok le gestiona la música y tal, pero no las carátulas. ¿tiene algo que ver con éste post? porque uso hardy, y cuando le hago instalar la librería esa que dices, me dice que no tiene que descargar ningun archivo, como si ya la tuviera instalada&#8230;.</p>
+<p>Cómo se podría arreglar lo de las carátulas?</p>
+<p>Gracias por anticipado. La página es muy interesante&#8230; llegúe a ella buscando en google &#8220;amarok ipod nano&#8221;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: meneame.net		</title>
+		<link>/sistemas-operativos/linux/usando-amarok-con-un-ipod-nano-3g/#comment-2418</link>
+
+		<dc:creator><![CDATA[meneame.net]]></dc:creator>
+		<pubDate>Thu, 14 Feb 2008 03:24:38 +0000</pubDate>
+		<guid isPermaLink="false">/2008/01/21/usando-amarok-con-un-ipod-nano-3g/#comment-2418</guid>
+
+					<description><![CDATA[&lt;strong&gt;Usar Amarok con un iPod Nano 3G...&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;En este enlace tenemos una breve guía para configurar vuestro Amarok en Linux y que podais usar en él vuestro querido iPod Nano de última generación, con todas las ventajas que trae consigo su utilización. Relacionada con: meneame.net/story/config...]]></description>
+			<content:encoded><![CDATA[<p><strong>Usar Amarok con un iPod Nano 3G&#8230;</strong></p>
+<p>En este enlace tenemos una breve guía para configurar vuestro Amarok en Linux y que podais usar en él vuestro querido iPod Nano de última generación, con todas las ventajas que trae consigo su utilización. Relacionada con: meneame.net/story/config&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Amarok con un ipod nano 3g « m3n3chm0’s Place ©		</title>
+		<link>/sistemas-operativos/linux/usando-amarok-con-un-ipod-nano-3g/#comment-2417</link>
+
+		<dc:creator><![CDATA[Amarok con un ipod nano 3g « m3n3chm0’s Place ©]]></dc:creator>
+		<pubDate>Thu, 14 Feb 2008 01:59:36 +0000</pubDate>
+		<guid isPermaLink="false">/2008/01/21/usando-amarok-con-un-ipod-nano-3g/#comment-2417</guid>
+
+					<description><![CDATA[[...] Amarok con un ipod nano 3g Fuente :  http://www.pongaunagujeronegroensuvida.es/2008/01/21/usando-amarok-con-un-ipod-nano-3g/ [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Amarok con un ipod nano 3g Fuente :  <a href="http://www.pongaunagujeronegroensuvida.es/2008/01/21/usando-amarok-con-un-ipod-nano-3g/" rel="nofollow ugc external noopener noreferrer" data-wpel-link="external" target="_blank" class="ext-link">http://www.pongaunagujeronegroensuvida.es/2008/01/21/usando-amarok-con-un-ipod-nano-3g/</a> [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/usando-amarok-con-un-ipod-nano-3g/#comment-2357</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Wed, 23 Jan 2008 09:28:48 +0000</pubDate>
+		<guid isPermaLink="false">/2008/01/21/usando-amarok-con-un-ipod-nano-3g/#comment-2357</guid>
+
+					<description><![CDATA[Creo que sí, pero la cosa es un pelín más complicada porque hay que instalar otras cosas, ir por ftp&#039;s y algo así me pareció leer de pasada...]]></description>
+			<content:encoded><![CDATA[<p>Creo que sí, pero la cosa es un pelín más complicada porque hay que instalar otras cosas, ir por ftp&#8217;s y algo así me pareció leer de pasada&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: quilós		</title>
+		<link>/sistemas-operativos/linux/usando-amarok-con-un-ipod-nano-3g/#comment-2356</link>
+
+		<dc:creator><![CDATA[quilós]]></dc:creator>
+		<pubDate>Tue, 22 Jan 2008 22:30:47 +0000</pubDate>
+		<guid isPermaLink="false">/2008/01/21/usando-amarok-con-un-ipod-nano-3g/#comment-2356</guid>
+
+					<description><![CDATA[joder que bien no?, y sabes si para el ipod touch tambien se podrá usar amarok]]></description>
+			<content:encoded><![CDATA[<p>joder que bien no?, y sabes si para el ipod touch tambien se podrá usar amarok</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 17:08:30 by W3 Total Cache
+-->

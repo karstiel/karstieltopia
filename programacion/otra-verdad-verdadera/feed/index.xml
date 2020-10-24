@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Otra verdad verdadera…	</title>
+	<atom:link href="/programacion/otra-verdad-verdadera/feed/" rel="self" type="application/rss+xml" />
+	<link>/programacion/otra-verdad-verdadera/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=otra-verdad-verdadera</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sun, 11 Feb 2007 17:30:16 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/otra-verdad-verdadera/#comment-717</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Sun, 11 Feb 2007 17:30:16 +0000</pubDate>
+		<guid isPermaLink="false">/2007/02/10/otra-verdad-verdadera/#comment-717</guid>
+
+					<description><![CDATA[Eso, que es muy divertido :D&lt;br /&gt;&lt;br /&gt;Sí... sí... luego, luego xD]]></description>
+			<content:encoded><![CDATA[<p>Eso, que es muy divertido :D</p>
+<p>Sí&#8230; sí&#8230; luego, luego xD</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Darklady		</title>
+		<link>/programacion/otra-verdad-verdadera/#comment-716</link>
+
+		<dc:creator><![CDATA[Darklady]]></dc:creator>
+		<pubDate>Sun, 11 Feb 2007 13:50:14 +0000</pubDate>
+		<guid isPermaLink="false">/2007/02/10/otra-verdad-verdadera/#comment-716</guid>
+
+					<description><![CDATA[Debería enseñárselo a mis padres... Lo he oído tantas veces en casa, que seguro que les hará gracia verlo por escrito. Errr... el texto ya se lo traduzco yo.&lt;br /&gt;&lt;br /&gt;La, la... es fin de semana... esperando foticos!!!]]></description>
+			<content:encoded><![CDATA[<p>Debería enseñárselo a mis padres&#8230; Lo he oído tantas veces en casa, que seguro que les hará gracia verlo por escrito. Errr&#8230; el texto ya se lo traduzco yo.</p>
+<p>La, la&#8230; es fin de semana&#8230; esperando foticos!!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 17:08:59 by W3 Total Cache
+-->

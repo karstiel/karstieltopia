@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: El Bierzo	</title>
+	<atom:link href="/trastero/el-bierzo/feed/" rel="self" type="application/rss+xml" />
+	<link>/trastero/el-bierzo/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=el-bierzo</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sun, 31 Dec 2006 00:43:23 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/trastero/el-bierzo/#comment-380</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Sun, 31 Dec 2006 00:43:23 +0000</pubDate>
+		<guid isPermaLink="false">/2006/11/16/el-bierzo/#comment-380</guid>
+
+					<description><![CDATA[Lo malo es que o tienes medios de transporte o la ciudad se ve en uno, o a lo sumo dos días... ¿en febrero?]]></description>
+			<content:encoded><![CDATA[<p>Lo malo es que o tienes medios de transporte o la ciudad se ve en uno, o a lo sumo dos días&#8230; ¿en febrero?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Darklady		</title>
+		<link>/trastero/el-bierzo/#comment-369</link>
+
+		<dc:creator><![CDATA[Darklady]]></dc:creator>
+		<pubDate>Sat, 30 Dec 2006 21:33:14 +0000</pubDate>
+		<guid isPermaLink="false">/2006/11/16/el-bierzo/#comment-369</guid>
+
+					<description><![CDATA[Joo... pues tiene que ser un sitio precioso por lo que se aprecia. ^_^ Ya me gustaría a mí hablar con ese mismo cariño de mi pueblo natal... pero... va a ser que no. No le guardo demasiado cariño... aish.&lt;br /&gt;&lt;br /&gt;Pero en fin... que yo tomo nota de todas estas cosas, que en febrero tengo dos semanas libres y a ver a dónde hago el viajecito de rigor, la la la ^^]]></description>
+			<content:encoded><![CDATA[<p>Joo&#8230; pues tiene que ser un sitio precioso por lo que se aprecia. ^_^ Ya me gustaría a mí hablar con ese mismo cariño de mi pueblo natal&#8230; pero&#8230; va a ser que no. No le guardo demasiado cariño&#8230; aish.</p>
+<p>Pero en fin&#8230; que yo tomo nota de todas estas cosas, que en febrero tengo dos semanas libres y a ver a dónde hago el viajecito de rigor, la la la ^^</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:42:30 by W3 Total Cache
+-->

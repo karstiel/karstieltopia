@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: ¿C++ se está anticuando?	</title>
+	<atom:link href="/programacion/c-se-esta-anticuando/feed/" rel="self" type="application/rss+xml" />
+	<link>/programacion/c-se-esta-anticuando/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=c-se-esta-anticuando</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Mon, 15 Feb 2016 22:48:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/programacion/c-se-esta-anticuando/#comment-4795</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Fri, 31 Jul 2009 16:51:00 +0000</pubDate>
+		<guid isPermaLink="false">/2009/07/28/c-se-esta-anticuando/#comment-4795</guid>
+
+					<description><![CDATA[Pues yo en la universidad di pascal, C como lenguajes de base y el resto según la asignatura (aunque cuando hice el primer año de teleco, ahí di también C++).&lt;br /&gt;&lt;br /&gt;Sobre Ada decir que está muy bien y que se nota que lo pidió el Pentágono para unificar todo los sistemas que tenían... pero se quedó con un mercado muy residual.&lt;br /&gt;&lt;br /&gt;Y sí, Java es lento, pero el desarrollo en Java es mucho más rápido que en C/C++ y eso, según la aplicación que sea, es necesario. Un compilador de Java sería un killer totalmente...]]></description>
+			<content:encoded><![CDATA[<p>Pues yo en la universidad di pascal, C como lenguajes de base y el resto según la asignatura (aunque cuando hice el primer año de teleco, ahí di también C++).</p>
+<p>Sobre Ada decir que está muy bien y que se nota que lo pidió el Pentágono para unificar todo los sistemas que tenían&#8230; pero se quedó con un mercado muy residual.</p>
+<p>Y sí, Java es lento, pero el desarrollo en Java es mucho más rápido que en C/C++ y eso, según la aplicación que sea, es necesario. Un compilador de Java sería un killer totalmente&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Hypnotoad		</title>
+		<link>/programacion/c-se-esta-anticuando/#comment-4791</link>
+
+		<dc:creator><![CDATA[Hypnotoad]]></dc:creator>
+		<pubDate>Thu, 30 Jul 2009 09:51:39 +0000</pubDate>
+		<guid isPermaLink="false">/2009/07/28/c-se-esta-anticuando/#comment-4791</guid>
+
+					<description><![CDATA[Con programacion visual me refiero a desarrollo de GUIs, aunque mas que desarrollo de GUIs prácticas, lo que relamente se enseñaba ahí era como integrar lo que habias aprendido de C++ con entornos gráficos. Desgraciadamente (para mi) al ser una asignatura de libre eleccion y ya tener mi cupo de creditos cubierto en aquel area, no la llegue a cojer, cosa que ha acabado pesandome.&lt;br /&gt;&lt;br /&gt;Cuando yo cursé telematica, hacia poco tiempo que se daba ASM del x86 (3 o 4 años), lo que tradicionalmente se daba en alcalá era ASM de Motorola 68000 (flipa!).&lt;br /&gt;&lt;br /&gt;Ada es un leguaje muy especifico para sistemas críticos y entornos en tiempo real. Es genial, por que construcciones abstarctas y complejas para el control de un STR o de un SO como semáforos, secciones criticas, problemas varios de lectura-escritura, monitores e historuias varias, vienen casi como palabras reservadas en el lenguaje, lo que te hace la vida mucho mas facil si quieres programar una aplicacion de ese tipo. Ademas el manejo de excepciones y errores es mucho mas brutal que en C, tanto a nivel de compilacion como a nivel de ejecucción. Es realmente jodido que si te ha llegado a compilar el codigo, eso casque. A mi me gusto muchisimo, estuve a punto de hacer algo en Ada para el proyecto, pero me faltaron redaños y la prisa por tener cuanto antes el título me hicieron optar por algo docenas de veces mas sencillo.&lt;br /&gt;&lt;br /&gt;Hail to the Hypnotoad!]]></description>
+			<content:encoded><![CDATA[<p>Con programacion visual me refiero a desarrollo de GUIs, aunque mas que desarrollo de GUIs prácticas, lo que relamente se enseñaba ahí era como integrar lo que habias aprendido de C++ con entornos gráficos. Desgraciadamente (para mi) al ser una asignatura de libre eleccion y ya tener mi cupo de creditos cubierto en aquel area, no la llegue a cojer, cosa que ha acabado pesandome.</p>
+<p>Cuando yo cursé telematica, hacia poco tiempo que se daba ASM del x86 (3 o 4 años), lo que tradicionalmente se daba en alcalá era ASM de Motorola 68000 (flipa!).</p>
+<p>Ada es un leguaje muy especifico para sistemas críticos y entornos en tiempo real. Es genial, por que construcciones abstarctas y complejas para el control de un STR o de un SO como semáforos, secciones criticas, problemas varios de lectura-escritura, monitores e historuias varias, vienen casi como palabras reservadas en el lenguaje, lo que te hace la vida mucho mas facil si quieres programar una aplicacion de ese tipo. Ademas el manejo de excepciones y errores es mucho mas brutal que en C, tanto a nivel de compilacion como a nivel de ejecucción. Es realmente jodido que si te ha llegado a compilar el codigo, eso casque. A mi me gusto muchisimo, estuve a punto de hacer algo en Ada para el proyecto, pero me faltaron redaños y la prisa por tener cuanto antes el título me hicieron optar por algo docenas de veces mas sencillo.</p>
+<p>Hail to the Hypnotoad!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Sleepwalker		</title>
+		<link>/programacion/c-se-esta-anticuando/#comment-4790</link>
+
+		<dc:creator><![CDATA[Sleepwalker]]></dc:creator>
+		<pubDate>Wed, 29 Jul 2009 12:47:21 +0000</pubDate>
+		<guid isPermaLink="false">/2009/07/28/c-se-esta-anticuando/#comment-4790</guid>
+
+					<description><![CDATA[Personalmente sí que me da pena más que nada porque en Gijón la mayoría de las asignaturas las dimos con C++...&lt;br /&gt;&lt;br /&gt;A la fuerza se le coge cariño xD]]></description>
+			<content:encoded><![CDATA[<p>Personalmente sí que me da pena más que nada porque en Gijón la mayoría de las asignaturas las dimos con C++&#8230;</p>
+<p>A la fuerza se le coge cariño xD</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/programacion/c-se-esta-anticuando/#comment-4789</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Wed, 29 Jul 2009 11:33:55 +0000</pubDate>
+		<guid isPermaLink="false">/2009/07/28/c-se-esta-anticuando/#comment-4789</guid>
+
+					<description><![CDATA[En la UVA es lo que dije antes, lenguajes &quot;didácticos&quot; para aprender y luego búscate la vida, salvo C porque necesitabas uno de bajo nivel para SO. Que yo personalmente lo veo acertado. Para gustos colores.&lt;br /&gt;&lt;br /&gt;Aqui para ASM se usaba como ejemplo práctico las RISC SPARC de Sun, la asignatura de x86 era opcional (para calaña friki se sobreentiende :P)&lt;br /&gt;&lt;br /&gt;C# es Java como debiera haber sido: no compilado a ese horrible bytecode para lavadoras XDDD&lt;br /&gt;&lt;br /&gt;¿Programación visual? ¿Te refieres a desarrollo de GUIs o a uso de IDEs que generan código?&lt;br /&gt;&lt;br /&gt;De ADA no se nada :S]]></description>
+			<content:encoded><![CDATA[<p>En la UVA es lo que dije antes, lenguajes &#8220;didácticos&#8221; para aprender y luego búscate la vida, salvo C porque necesitabas uno de bajo nivel para SO. Que yo personalmente lo veo acertado. Para gustos colores.</p>
+<p>Aqui para ASM se usaba como ejemplo práctico las RISC SPARC de Sun, la asignatura de x86 era opcional (para calaña friki se sobreentiende :P)</p>
+<p>C# es Java como debiera haber sido: no compilado a ese horrible bytecode para lavadoras XDDD</p>
+<p>¿Programación visual? ¿Te refieres a desarrollo de GUIs o a uso de IDEs que generan código?</p>
+<p>De ADA no se nada :S</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Hypnotoad		</title>
+		<link>/programacion/c-se-esta-anticuando/#comment-4788</link>
+
+		<dc:creator><![CDATA[Hypnotoad]]></dc:creator>
+		<pubDate>Wed, 29 Jul 2009 10:10:56 +0000</pubDate>
+		<guid isPermaLink="false">/2009/07/28/c-se-esta-anticuando/#comment-4788</guid>
+
+					<description><![CDATA[Puede que se este quedando anticuado, pero sigue siendo infinitamente mas rapido que Java. &lt;br /&gt;&lt;br /&gt;Y oye, aunque suene a anatema (¡anatema! ¡anatema!) la plataforma .NET con C#, que es orientado a objetos y segun lo poco que se, prácticamnente igual a C++, pues por ahi se pueden hacer un monton de aplicaciones. Me consta que en hacienda lo usan mucho.&lt;br /&gt;&lt;br /&gt;@Drizzt, pues C++ se enseña en Alcala, en &quot;programacion OO&quot; y programación visual. Yo nunca di Pascal, alli se imparte C, C++, ASM del 8086 y un poco de Ada como leguaje de programación en tiempo real.&lt;br /&gt;&lt;br /&gt;Hail to the Hypnotoad!]]></description>
+			<content:encoded><![CDATA[<p>Puede que se este quedando anticuado, pero sigue siendo infinitamente mas rapido que Java. </p>
+<p>Y oye, aunque suene a anatema (¡anatema! ¡anatema!) la plataforma .NET con C#, que es orientado a objetos y segun lo poco que se, prácticamnente igual a C++, pues por ahi se pueden hacer un monton de aplicaciones. Me consta que en hacienda lo usan mucho.</p>
+<p>@Drizzt, pues C++ se enseña en Alcala, en &#8220;programacion OO&#8221; y programación visual. Yo nunca di Pascal, alli se imparte C, C++, ASM del 8086 y un poco de Ada como leguaje de programación en tiempo real.</p>
+<p>Hail to the Hypnotoad!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/programacion/c-se-esta-anticuando/#comment-4786</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Tue, 28 Jul 2009 08:45:36 +0000</pubDate>
+		<guid isPermaLink="false">/2009/07/28/c-se-esta-anticuando/#comment-4786</guid>
+
+					<description><![CDATA[¿C++ se enseña en las facultades? ¿pa qué? es como Java, que tampoco se enseña, ni veo que se deba enseñar en una facultad...&lt;br /&gt;&lt;br /&gt;Te enseñan uno con tipado fuerte (Pascal por ejemplo) para que se te meta en la mollera qué es eso, el C básico para que veas que eso se puede simplificar y que hay por debajo (SOs y demas), un poco de ASM (opcional) y un lenguaje orientado a objetos (y para mi gusto a ser posible sin tipos primitivos, todo objetos y todo clases)&lt;br /&gt;&lt;br /&gt;El resto búscate las lentejas, esto no es CCC...&lt;br /&gt;&lt;br /&gt;Hablando sobre Java y demases, y sobre elegir para docencia lenguajes didácticos vs los que pide el mercado, parece tonteria pero lo último no es baladí. Tuve un día a un chavalín de FP a mi subcargo y tarde un tiempo en explicarle que el bug que le daba es porque:&lt;br /&gt;objeto!=null&lt;br /&gt;no es lo mismo que&lt;br /&gt;objeto.equals(null)&lt;br /&gt;XDD&lt;br /&gt;&lt;br /&gt;Y ya sobre C++, aplicaciones que necesiten rendimiento... jejeje ¡¡¡Te parecerá poco!!!&lt;br /&gt;Eso incluye soft de reproducción y codificación de Audio/Video, TODOS los videojuegos (Java Mobile aparte), navegadores y sus plugins, SOs y sus APIs...&lt;br /&gt;&lt;br /&gt;De todas formas si surge otro lenguaje OO que permita acceso a bajo nivel, y funciona bien... bienvenido sea !]]></description>
+			<content:encoded><![CDATA[<p>¿C++ se enseña en las facultades? ¿pa qué? es como Java, que tampoco se enseña, ni veo que se deba enseñar en una facultad&#8230;</p>
+<p>Te enseñan uno con tipado fuerte (Pascal por ejemplo) para que se te meta en la mollera qué es eso, el C básico para que veas que eso se puede simplificar y que hay por debajo (SOs y demas), un poco de ASM (opcional) y un lenguaje orientado a objetos (y para mi gusto a ser posible sin tipos primitivos, todo objetos y todo clases)</p>
+<p>El resto búscate las lentejas, esto no es CCC&#8230;</p>
+<p>Hablando sobre Java y demases, y sobre elegir para docencia lenguajes didácticos vs los que pide el mercado, parece tonteria pero lo último no es baladí. Tuve un día a un chavalín de FP a mi subcargo y tarde un tiempo en explicarle que el bug que le daba es porque:<br />objeto!=null<br />no es lo mismo que<br />objeto.equals(null)<br />XDD</p>
+<p>Y ya sobre C++, aplicaciones que necesiten rendimiento&#8230; jejeje ¡¡¡Te parecerá poco!!!<br />Eso incluye soft de reproducción y codificación de Audio/Video, TODOS los videojuegos (Java Mobile aparte), navegadores y sus plugins, SOs y sus APIs&#8230;</p>
+<p>De todas formas si surge otro lenguaje OO que permita acceso a bajo nivel, y funciona bien&#8230; bienvenido sea !</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:32:29 by W3 Total Cache
+-->

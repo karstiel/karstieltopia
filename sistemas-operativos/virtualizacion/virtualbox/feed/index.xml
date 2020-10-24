@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: VirtualBox	</title>
+	<atom:link href="/sistemas-operativos/virtualizacion/virtualbox/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/virtualizacion/virtualbox/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=virtualbox</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 19:13:19 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/virtualizacion/virtualbox/#comment-2175</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Mon, 10 Dec 2007 21:17:04 +0000</pubDate>
+		<guid isPermaLink="false">/2007/12/10/virtualbox/#comment-2175</guid>
+
+					<description><![CDATA[Pardiez, aun no te leía por aquel tiempo. Ale, actualizo ahora el post y de paso te añado al blogroll, que no te tenía :S]]></description>
+			<content:encoded><![CDATA[<p>Pardiez, aun no te leía por aquel tiempo. Ale, actualizo ahora el post y de paso te añado al blogroll, que no te tenía :S</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Alfonso		</title>
+		<link>/sistemas-operativos/virtualizacion/virtualbox/#comment-2174</link>
+
+		<dc:creator><![CDATA[Alfonso]]></dc:creator>
+		<pubDate>Mon, 10 Dec 2007 20:36:22 +0000</pubDate>
+		<guid isPermaLink="false">/2007/12/10/virtualbox/#comment-2174</guid>
+
+					<description><![CDATA[Hace unos meses escribí un par de guías sobre VirtualBox y otras soluciones de virtualización sobre Windows XP, Vista y Linux:&lt;br /&gt;&lt;br /&gt;http://alfonsoycia.blogspot.com/2007/06/virtualizar-sistemas-operativos.html&lt;br /&gt;http://alfonsoycia.blogspot.com/2007/07/virtualizando-con-vista.html&lt;br /&gt;&lt;br /&gt;También dí una charla en el hackmeeting:&lt;br /&gt;&lt;br /&gt;http://www.sindominio.net/hackmeeting/index.php/2007/Nodos/Virtualization&lt;br /&gt;&lt;br /&gt;Me resulta especialmente útil para obtener compatibilidad hacia atrás de aplicaciones desarrolladas sobre Windows.]]></description>
+			<content:encoded><![CDATA[<p>Hace unos meses escribí un par de guías sobre VirtualBox y otras soluciones de virtualización sobre Windows XP, Vista y Linux:</p>
+<p><a href="http://alfonsoycia.blogspot.com/2007/06/virtualizar-sistemas-operativos.html" rel="nofollow ugc external noopener noreferrer" data-wpel-link="external" target="_blank" class="ext-link">http://alfonsoycia.blogspot.com/2007/06/virtualizar-sistemas-operativos.html</a><br /><a href="http://alfonsoycia.blogspot.com/2007/07/virtualizando-con-vista.html" rel="nofollow ugc external noopener noreferrer" data-wpel-link="external" target="_blank" class="ext-link">http://alfonsoycia.blogspot.com/2007/07/virtualizando-con-vista.html</a></p>
+<p>También dí una charla en el hackmeeting:</p>
+<p><a href="http://www.sindominio.net/hackmeeting/index.php/2007/Nodos/Virtualization" rel="nofollow ugc external noopener noreferrer" data-wpel-link="external" target="_blank" class="ext-link">http://www.sindominio.net/hackmeeting/index.php/2007/Nodos/Virtualization</a></p>
+<p>Me resulta especialmente útil para obtener compatibilidad hacia atrás de aplicaciones desarrolladas sobre Windows.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/virtualizacion/virtualbox/#comment-2172</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Mon, 10 Dec 2007 01:08:15 +0000</pubDate>
+		<guid isPermaLink="false">/2007/12/10/virtualbox/#comment-2172</guid>
+
+					<description><![CDATA[Pues lo he llegado a instalar en Windows y bueno, sinceramente creo que el rendimiento de VMWare es superior en Windows que en Linux... Pero no sabría que decirte...&lt;br /&gt;&lt;br /&gt;Lo mejor que podrías hacer es probar tu mismo o esperar a ver si alguien responde por aquí ;)]]></description>
+			<content:encoded><![CDATA[<p>Pues lo he llegado a instalar en Windows y bueno, sinceramente creo que el rendimiento de VMWare es superior en Windows que en Linux&#8230; Pero no sabría que decirte&#8230;</p>
+<p>Lo mejor que podrías hacer es probar tu mismo o esperar a ver si alguien responde por aquí ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/sistemas-operativos/virtualizacion/virtualbox/#comment-2171</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Mon, 10 Dec 2007 01:05:23 +0000</pubDate>
+		<guid isPermaLink="false">/2007/12/10/virtualbox/#comment-2171</guid>
+
+					<description><![CDATA[VMWare también tiene las opciones de redimensionado de ventana del SO virtualizado, pero solo una vez hayas instalado las VMWare Tools en el guest (que en un windows virtualizado dan acceso a aceleracion 3D hasta DX8 sin pegas)&lt;br /&gt;&lt;br /&gt;Alguien que lo haya probado en Windows? ventajas sobre VMWare Workstation en windows? Lo digo porque lo que no me gusta de VMWare es que instale tanto servicio en Windows...]]></description>
+			<content:encoded><![CDATA[<p>VMWare también tiene las opciones de redimensionado de ventana del SO virtualizado, pero solo una vez hayas instalado las VMWare Tools en el guest (que en un windows virtualizado dan acceso a aceleracion 3D hasta DX8 sin pegas)</p>
+<p>Alguien que lo haya probado en Windows? ventajas sobre VMWare Workstation en windows? Lo digo porque lo que no me gusta de VMWare es que instale tanto servicio en Windows&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:51:27 by W3 Total Cache
+-->

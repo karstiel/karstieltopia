@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Fallo en los sistemas	</title>
+	<atom:link href="/trastero/fallo-en-los-sistemas/feed/" rel="self" type="application/rss+xml" />
+	<link>/trastero/fallo-en-los-sistemas/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=fallo-en-los-sistemas</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 13 Jan 2007 14:41:32 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/trastero/fallo-en-los-sistemas/#comment-521</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Sat, 13 Jan 2007 14:41:32 +0000</pubDate>
+		<guid isPermaLink="false">/2007/01/10/fallo-en-los-sistemas/#comment-521</guid>
+
+					<description><![CDATA[Que va... y más si los servidores están en yankilandia ;P]]></description>
+			<content:encoded><![CDATA[<p>Que va&#8230; y más si los servidores están en yankilandia ;P</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Darklady		</title>
+		<link>/trastero/fallo-en-los-sistemas/#comment-513</link>
+
+		<dc:creator><![CDATA[Darklady]]></dc:creator>
+		<pubDate>Fri, 12 Jan 2007 15:03:54 +0000</pubDate>
+		<guid isPermaLink="false">/2007/01/10/fallo-en-los-sistemas/#comment-513</guid>
+
+					<description><![CDATA[Aaaaaaaaaaaaaaaaaaaaaaahm&lt;br /&gt;Si es que no hay nada que funciones a derechas, eh? :P]]></description>
+			<content:encoded><![CDATA[<p>Aaaaaaaaaaaaaaaaaaaaaaahm<br />Si es que no hay nada que funciones a derechas, eh? :P</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 17:08:42 by W3 Total Cache
+-->

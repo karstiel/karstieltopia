@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Saltando de distribución en distribución	</title>
+	<atom:link href="/sistemas-operativos/linux/saltando-de-distribucion-en-distribucion/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/linux/saltando-de-distribucion-en-distribucion/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=saltando-de-distribucion-en-distribucion</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 22 Mar 2008 01:29:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/saltando-de-distribucion-en-distribucion/#comment-2703</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Sat, 22 Mar 2008 01:29:13 +0000</pubDate>
+		<guid isPermaLink="false">/2008/03/19/saltando-de-distribucion-en-distribucion/#comment-2703</guid>
+
+					<description><![CDATA[Por supuesto ;)]]></description>
+			<content:encoded><![CDATA[<p>Por supuesto ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Oscar		</title>
+		<link>/sistemas-operativos/linux/saltando-de-distribucion-en-distribucion/#comment-2701</link>
+
+		<dc:creator><![CDATA[Oscar]]></dc:creator>
+		<pubDate>Fri, 21 Mar 2008 15:05:30 +0000</pubDate>
+		<guid isPermaLink="false">/2008/03/19/saltando-de-distribucion-en-distribucion/#comment-2701</guid>
+
+					<description><![CDATA[Bueno, para algo viene bien windows entonces... para jugar!!!&lt;br /&gt;&lt;br /&gt;(parte indispensable en el trabajo de informático)]]></description>
+			<content:encoded><![CDATA[<p>Bueno, para algo viene bien windows entonces&#8230; para jugar!!!</p>
+<p>(parte indispensable en el trabajo de informático)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/saltando-de-distribucion-en-distribucion/#comment-2697</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2008 14:39:13 +0000</pubDate>
+		<guid isPermaLink="false">/2008/03/19/saltando-de-distribucion-en-distribucion/#comment-2697</guid>
+
+					<description><![CDATA[Jejeje, la verdad es que no sabía como se llamaba, y se me dio por llamarlo así :P&lt;br /&gt;&lt;br /&gt;Lo sé, lo sé, la verdad es que tengo espacio para la virtualización, pero siempre me queda la cosa de si irá bien en el portatil o no... Porque las cosas son como son... no todas las distribuciones de LInux me han ido siempre bien...&lt;br /&gt;&lt;br /&gt;Por otra parte... he de confesarte algo... He metido un Windows XP pelado en una partición de 3gigas, con un disco duro externo visible en dónde tengo metido el Neverwinter Night 2... ¡¡¡y funciona bastante bien!!! :P En el menú del grub, en vez de llamarlo Windows, lo llamo Videoconsola xDDDDD]]></description>
+			<content:encoded><![CDATA[<p>Jejeje, la verdad es que no sabía como se llamaba, y se me dio por llamarlo así :P</p>
+<p>Lo sé, lo sé, la verdad es que tengo espacio para la virtualización, pero siempre me queda la cosa de si irá bien en el portatil o no&#8230; Porque las cosas son como son&#8230; no todas las distribuciones de LInux me han ido siempre bien&#8230;</p>
+<p>Por otra parte&#8230; he de confesarte algo&#8230; He metido un Windows XP pelado en una partición de 3gigas, con un disco duro externo visible en dónde tengo metido el Neverwinter Night 2&#8230; ¡¡¡y funciona bastante bien!!! :P En el menú del grub, en vez de llamarlo Windows, lo llamo Videoconsola xDDDDD</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/sistemas-operativos/linux/saltando-de-distribucion-en-distribucion/#comment-2696</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2008 13:42:38 +0000</pubDate>
+		<guid isPermaLink="false">/2008/03/19/saltando-de-distribucion-en-distribucion/#comment-2696</guid>
+
+					<description><![CDATA[Jeje, nota &quot;tesnica&quot;: no se llama &quot;escalador de micro&quot; sino multiplicador variable.&lt;br /&gt;Frecuencia FSB x Multiplicador = Frecuencia CPU&lt;br /&gt;Lo que te está variando es el valor (numero entero) del multiplicador. Adicionalmente reduce el voltaje del núcleo (Vcore) al bajar el multiplicador.&lt;br /&gt;&lt;br /&gt;Los que useis micros Core2Duo/Quad de escritorio también podeis tener esto en vuestros PCs. Se llama &quot;EIST&quot;, y tiene que estar activado en la BIOS.&lt;br /&gt;&lt;br /&gt;P.D: Sr. BlackHole, es vd. para temas linuxeros lo que se conoce como un culo de mal asiento :-P&lt;br /&gt;Le saldría mejor dejar unos giguillas de disco mulesco a la virtualización para juguetear con los inventos nuevos a ver si le gustan o no y se ahorra reinstalaciones.]]></description>
+			<content:encoded><![CDATA[<p>Jeje, nota &#8220;tesnica&#8221;: no se llama &#8220;escalador de micro&#8221; sino multiplicador variable.<br />Frecuencia FSB x Multiplicador = Frecuencia CPU<br />Lo que te está variando es el valor (numero entero) del multiplicador. Adicionalmente reduce el voltaje del núcleo (Vcore) al bajar el multiplicador.</p>
+<p>Los que useis micros Core2Duo/Quad de escritorio también podeis tener esto en vuestros PCs. Se llama &#8220;EIST&#8221;, y tiene que estar activado en la BIOS.</p>
+<p>P.D: Sr. BlackHole, es vd. para temas linuxeros lo que se conoce como un culo de mal asiento :-P<br />Le saldría mejor dejar unos giguillas de disco mulesco a la virtualización para juguetear con los inventos nuevos a ver si le gustan o no y se ahorra reinstalaciones.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:23:28 by W3 Total Cache
+-->

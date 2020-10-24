@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Problema con la reproducción de vídeo	</title>
+	<atom:link href="/sistemas-operativos/linux/problema-con-la-reproduccion-de-video/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/linux/problema-con-la-reproduccion-de-video/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=problema-con-la-reproduccion-de-video</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 23:34:11 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/problema-con-la-reproduccion-de-video/#comment-2048</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Wed, 07 Nov 2007 21:37:19 +0000</pubDate>
+		<guid isPermaLink="false">/2007/11/06/problema-con-la-reproduccion-de-video/#comment-2048</guid>
+
+					<description><![CDATA[3. Nooooo... todavía nooooo :P&lt;br /&gt;&lt;br /&gt;4. Pues al final creo que me has ayudado muy mucho, Drizzt :D ¡¡Graciñas!! Resulta que el driver que traen los repositorios no es que sea el mejor, con lo que el que me bajé de la página de ATI y con un sudo aticonfig --overlay-type=Xv ahora ya funciona XV y los vídeos se ven bien, por fin ^^]]></description>
+			<content:encoded><![CDATA[<p>3. Nooooo&#8230; todavía nooooo :P</p>
+<p>4. Pues al final creo que me has ayudado muy mucho, Drizzt :D ¡¡Graciñas!! Resulta que el driver que traen los repositorios no es que sea el mejor, con lo que el que me bajé de la página de ATI y con un sudo aticonfig &#8211;overlay-type=Xv ahora ya funciona XV y los vídeos se ven bien, por fin ^^</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/sistemas-operativos/linux/problema-con-la-reproduccion-de-video/#comment-2047</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Wed, 07 Nov 2007 15:35:45 +0000</pubDate>
+		<guid isPermaLink="false">/2007/11/06/problema-con-la-reproduccion-de-video/#comment-2047</guid>
+
+					<description><![CDATA[Las lineas negras horizontales son por el entrelazado, y me extraña que salgan en los AVI. Pensaba que era exclusivo de DVD. A no ser que quien paso a AVI el video en cuestion lo ripeara sin retirar el entrelazado, en cuyo caso en windows también te pasaría.&lt;br /&gt;&lt;br /&gt;El MPlayer (dale un poco al &#039;man&#039;) tiene comandos para desentrelazado, pero yo nuca logre hacer funcionar correctamente esa funcionalidad. Está por la parte de &#039;-vf XXXXXXX&#039;&lt;br /&gt;&lt;br /&gt;Ucedaman tiene razon. En multimedia y cosas de graficos Windows esta años luz por delante.&lt;br /&gt;Si no se soluciona, virtualiza un XP en tu ubuntu, le pones el Media Player Classic + FFMpeg que es GNU y listo...]]></description>
+			<content:encoded><![CDATA[<p>Las lineas negras horizontales son por el entrelazado, y me extraña que salgan en los AVI. Pensaba que era exclusivo de DVD. A no ser que quien paso a AVI el video en cuestion lo ripeara sin retirar el entrelazado, en cuyo caso en windows también te pasaría.</p>
+<p>El MPlayer (dale un poco al &#8216;man&#8217;) tiene comandos para desentrelazado, pero yo nuca logre hacer funcionar correctamente esa funcionalidad. Está por la parte de &#8216;-vf XXXXXXX&#8217;</p>
+<p>Ucedaman tiene razon. En multimedia y cosas de graficos Windows esta años luz por delante.<br />Si no se soluciona, virtualiza un XP en tu ubuntu, le pones el Media Player Classic + FFMpeg que es GNU y listo&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ucedaman		</title>
+		<link>/sistemas-operativos/linux/problema-con-la-reproduccion-de-video/#comment-2045</link>
+
+		<dc:creator><![CDATA[Ucedaman]]></dc:creator>
+		<pubDate>Wed, 07 Nov 2007 08:56:54 +0000</pubDate>
+		<guid isPermaLink="false">/2007/11/06/problema-con-la-reproduccion-de-video/#comment-2045</guid>
+
+					<description><![CDATA[Yo eso lo solucioné instalando Windows. Deberías probar.&lt;br /&gt;Todo es más fácil con Windows... Únete a nosotrosss]]></description>
+			<content:encoded><![CDATA[<p>Yo eso lo solucioné instalando Windows. Deberías probar.<br />Todo es más fácil con Windows&#8230; Únete a nosotrosss</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/sistemas-operativos/linux/problema-con-la-reproduccion-de-video/#comment-2041</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Wed, 07 Nov 2007 00:42:29 +0000</pubDate>
+		<guid isPermaLink="false">/2007/11/06/problema-con-la-reproduccion-de-video/#comment-2041</guid>
+
+					<description><![CDATA[1. Pues uso Mplayer y Kaffeine... ambos con el mismo problema :s&lt;br /&gt;&lt;br /&gt;2. Líneas negras horizontales... pero en todo tipo de medio, no solo DVD&#039;s&lt;br /&gt;&lt;br /&gt;3. Jsjsjsjs, BlackHolePortail no lleva una Intel, sino una Ati x600 128Megas PCI Express... Y tienes razón, estaba usando el X11 y no el Xv, pero al intentar ponerlo saltan un montón de errores, con lo que tengo descargando el driver de Ati (con el script Envy, que soy un poco vago ^^U) y ya te contaré si eso ayuda o no :S&lt;br /&gt;&lt;br /&gt;¡¡¡¡Muchas gracias!!!!]]></description>
+			<content:encoded><![CDATA[<p>1. Pues uso Mplayer y Kaffeine&#8230; ambos con el mismo problema :s</p>
+<p>2. Líneas negras horizontales&#8230; pero en todo tipo de medio, no solo DVD&#8217;s</p>
+<p>3. Jsjsjsjs, BlackHolePortail no lleva una Intel, sino una Ati x600 128Megas PCI Express&#8230; Y tienes razón, estaba usando el X11 y no el Xv, pero al intentar ponerlo saltan un montón de errores, con lo que tengo descargando el driver de Ati (con el script Envy, que soy un poco vago ^^U) y ya te contaré si eso ayuda o no :S</p>
+<p>¡¡¡¡Muchas gracias!!!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/sistemas-operativos/linux/problema-con-la-reproduccion-de-video/#comment-2040</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Tue, 06 Nov 2007 23:37:32 +0000</pubDate>
+		<guid isPermaLink="false">/2007/11/06/problema-con-la-reproduccion-de-video/#comment-2040</guid>
+
+					<description><![CDATA[a) Con que programa: MPlayer, VLC (que no se porque pero a mi me reproduce a baja calidad, muy pixelado), etc?&lt;br /&gt;&lt;br /&gt;b)Lo de cortarse, te refieres a bajones en el numero de fotos por segundo o a líneas negras horizontales de cuando en cuando(esto ultimo sólo te debería pasar en DVDs)?&lt;br /&gt;&lt;br /&gt;c) Que driver de salida utilizas en los mencionados programas? el X11 (shared memory) va a saltitos ligeros aunque vayas sobrado de procesador pero sólo me pasa a veces, pocas (con la kubuntu virtualizada). Es mejor el Xv. Para el Xv te tiene que reconocer tu linux la grafica con todas sus caracteristicas. Imagino que el BlackHolePortail lleva una intel GMA950. Creo que esta la debe reconocer por las buenas linux. Para ati o nvidia instalar su correspondiente driver 3D para poder usar Xv]]></description>
+			<content:encoded><![CDATA[<p>a) Con que programa: MPlayer, VLC (que no se porque pero a mi me reproduce a baja calidad, muy pixelado), etc?</p>
+<p>b)Lo de cortarse, te refieres a bajones en el numero de fotos por segundo o a líneas negras horizontales de cuando en cuando(esto ultimo sólo te debería pasar en DVDs)?</p>
+<p>c) Que driver de salida utilizas en los mencionados programas? el X11 (shared memory) va a saltitos ligeros aunque vayas sobrado de procesador pero sólo me pasa a veces, pocas (con la kubuntu virtualizada). Es mejor el Xv. Para el Xv te tiene que reconocer tu linux la grafica con todas sus caracteristicas. Imagino que el BlackHolePortail lleva una intel GMA950. Creo que esta la debe reconocer por las buenas linux. Para ati o nvidia instalar su correspondiente driver 3D para poder usar Xv</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:27:45 by W3 Total Cache
+-->

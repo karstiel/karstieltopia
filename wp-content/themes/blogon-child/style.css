@@ -1,0 +1,15 @@
+/*
+Theme Name: 	Blogon Child
+Theme URI: 		http://themewing.com/wordpress/blogon
+Author: 		ThemeWing
+Author URI: 	http://themewing.com/
+Description:	Child Theme for Blogon - Premium WordPress Blogging Theme
+Template:		blogon
+Version: 		1.0
+ Text Domain:  blogon
+*/
+
+/* Theme customization starts here
+-------------------------------------------------------------- */
+@import url("/wp-content/themes/blogon/style.css");
+

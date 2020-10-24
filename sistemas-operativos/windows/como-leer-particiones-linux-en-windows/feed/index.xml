@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Como leer particiones Linux en Windows	</title>
+	<atom:link href="/sistemas-operativos/windows/como-leer-particiones-linux-en-windows/feed/" rel="self" type="application/rss+xml" />
+	<link>/sistemas-operativos/windows/como-leer-particiones-linux-en-windows/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=como-leer-particiones-linux-en-windows</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 05:43:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: karstiel		</title>
+		<link>/sistemas-operativos/windows/como-leer-particiones-linux-en-windows/#comment-24629</link>
+
+		<dc:creator><![CDATA[karstiel]]></dc:creator>
+		<pubDate>Sat, 13 Jun 2015 07:35:07 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1617#comment-24629</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;/sistemas-operativos/windows/como-leer-particiones-linux-en-windows/#comment-24565&quot;&gt;Drizzt&lt;/a&gt;.
+
+Caaaasi... pero es que me confieso: ya no soy linuxero de pro; Ahora soy pro Windows para el escritorio y tengo unos cuantos discos duros en formatos EXT llenos de cosas de mi otra vida :D]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="/sistemas-operativos/windows/como-leer-particiones-linux-en-windows/#comment-24565" data-wpel-link="internal">Drizzt</a>.</p>
+<p>Caaaasi&#8230; pero es que me confieso: ya no soy linuxero de pro; Ahora soy pro Windows para el escritorio y tengo unos cuantos discos duros en formatos EXT llenos de cosas de mi otra vida :D</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Drizzt		</title>
+		<link>/sistemas-operativos/windows/como-leer-particiones-linux-en-windows/#comment-24565</link>
+
+		<dc:creator><![CDATA[Drizzt]]></dc:creator>
+		<pubDate>Thu, 11 Jun 2015 08:31:36 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1617#comment-24565</guid>
+
+					<description><![CDATA[¿Entrada motivada por el disco duro en EXT4 conectado a la Raspberry Pi?
+XD]]></description>
+			<content:encoded><![CDATA[<p>¿Entrada motivada por el disco duro en EXT4 conectado a la Raspberry Pi?<br />
+XD</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 16:23:34 by W3 Total Cache
+-->

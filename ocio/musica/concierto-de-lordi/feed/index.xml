@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Concierto de Lordi	</title>
+	<atom:link href="/ocio/musica/concierto-de-lordi/feed/" rel="self" type="application/rss+xml" />
+	<link>/ocio/musica/concierto-de-lordi/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=concierto-de-lordi</link>
+	<description>Programación, tecnología y añadidos</description>
+	<lastBuildDate>Sat, 20 Feb 2016 08:51:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>
+		Por: Black Hole		</title>
+		<link>/ocio/musica/concierto-de-lordi/#comment-353</link>
+
+		<dc:creator><![CDATA[Black Hole]]></dc:creator>
+		<pubDate>Sat, 30 Dec 2006 16:25:53 +0000</pubDate>
+		<guid isPermaLink="false">/2006/10/22/concierto-de-lordi/#comment-353</guid>
+
+					<description><![CDATA[Jejeje, ya te contaré... pero ya les vale la gracia de espera taaaaaaaaaaanto hasta la reposición xD Fijo que ni me acuerdo de dónde estarán las entradas por esas fechas]]></description>
+			<content:encoded><![CDATA[<p>Jejeje, ya te contaré&#8230; pero ya les vale la gracia de espera taaaaaaaaaaanto hasta la reposición xD Fijo que ni me acuerdo de dónde estarán las entradas por esas fechas</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Darklady		</title>
+		<link>/ocio/musica/concierto-de-lordi/#comment-340</link>
+
+		<dc:creator><![CDATA[Darklady]]></dc:creator>
+		<pubDate>Sat, 30 Dec 2006 15:50:22 +0000</pubDate>
+		<guid isPermaLink="false">/2006/10/22/concierto-de-lordi/#comment-340</guid>
+
+					<description><![CDATA[5 meses!!!!!!! O_O&lt;br /&gt;Bueno... pues... eeerrr... ya me contarás que tal ^^U]]></description>
+			<content:encoded><![CDATA[<p>5 meses!!!!!!! O_O<br />Bueno&#8230; pues&#8230; eeerrr&#8230; ya me contarás que tal ^^U</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de la página usando disk: enhanced (Page is feed) 
+Minimizado usando disk
+
+Served from: karstieltopia.com @ 2020-10-22 17:00:21 by W3 Total Cache
+-->
